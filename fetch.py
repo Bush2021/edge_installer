@@ -31,8 +31,8 @@ def get_info(appid):
 
     res2 = get_download(appid, version)[0]
     size = res2['SizeInBytes']
-    sha1 =  base64.b64decode(res2['Hashes']['Sha1']).hex().upper()
-    sha256 =  base64.b64decode(res2['Hashes']['Sha256']).hex().upper()
+    sha1 =  base64.b64decode(res2['Hashes']['Sha1']).hex()
+    sha256 =  base64.b64decode(res2['Hashes']['Sha256']).hex()
     file = res2['FileId']
     url = res2['Url']
     return {'name':name, 'version': version, 'size':size, 'sha1':sha1, 'sha256':sha256, 'file':file, 'url':url}
@@ -54,7 +54,7 @@ def save_md():
         f.write(f'Microsoft links have an expiration date, so the URL for this project is not actually downloadable\n')
         f.write('\n')
         for info in results:
-            f.write(f'## {info["name"][7:]}\n')
+            f.write(f'## {info["name"][7:].replace("win-", "")}\n')
             f.write(f'version:{info["version"]}  \n')
             f.write(f'size:{info["size"]}  \n')
             f.write(f'sha1:{info["sha1"]}  \n')
