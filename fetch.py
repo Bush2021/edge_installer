@@ -35,15 +35,26 @@ def get_info(appid):
     sha256 =  base64.b64decode(res2['Hashes']['Sha256']).hex()
     file = res2['FileId']
     url = res2['Url']
-    return {'name':name, 'version': version, 'size':size, 'sha1':sha1, 'sha256':sha256, 'file':file, 'url':url}
+    return name, {'version': version, 'size':size, 'sha1':sha1, 'sha256':sha256, 'file':file, 'url':url}
 
-results = []
+results = {}
+
+def version_tuple(v):
+    return tuple(map(int, (v.split("."))))
+
+def load_json():
+    global results
+    with open('data.json', 'r') as f:
+        results = json.load(f)
 
 def fetch():
     for channel, appid in channels.items():
         for arch in ['x86', 'x64']:
-            info = get_info(f'{appid}-{arch}')
-            results.append(info)
+            name, info = get_info(f'{appid}-{arch}')
+            if version_tuple(info['version']) <= version_tuple(results[name]['version']):
+                print("ignore", name, info['version'])
+                continue
+            results[name] = info
 
 def save_md():
     with open('readme.md', 'w') as f:
@@ -53,8 +64,8 @@ def save_md():
         f.write(f'# Note\n')
         f.write(f'Microsoft links have an expiration date, so the URL for this project is not actually downloadable\n')
         f.write('\n')
-        for info in results:
-            f.write(f'## {info["name"][7:].replace("win-", "")}\n')
+        for name, info in results.items():
+            f.write(f'## {name[7:].replace("win-", "").replace("-", " ")}\n')
             f.write(f'version:{info["version"]}  \n')
             f.write(f'size:{info["size"]}  \n')
             f.write(f'sha1:{info["sha1"]}  \n')
@@ -63,8 +74,17 @@ def save_md():
             f.write(f'url:[{info["url"]}]({info["url"]})  \n')
             f.write('\n')
 
+def save_json():
+    with open('data.json', 'w') as f:
+        json.dump(results, f, indent=4)
+    for k, v in results.items():
+        with open(f'{k}.json', 'w') as f:
+            json.dump(v, f, indent=4)
+
 def main():
+    load_json()
     fetch()
     save_md()
+    save_json()
 
 main()
