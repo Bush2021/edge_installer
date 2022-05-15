@@ -17,7 +17,7 @@ update_url = 'https://msedge.api.cdp.microsoft.com/api/v1/contents/Browser/names
 download_url = 'https://msedge.api.cdp.microsoft.com/api/v1/contents/Browser/namespaces/Default/names/{0}/versions/{1}/files?action=GenerateDownloadInfo'
 
 def check_update(appid):
-    r= requests.post(update_url.format(appid), data={'targetingAttributes':{'Priority':10}}, verify=False)
+    r= requests.post(update_url.format(appid), data={'targetingAttributes':{'Priority':10, "IsInternalUser":True}}, verify=False)
     return r.json()
 
 def get_download(appid, version):
