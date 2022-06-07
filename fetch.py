@@ -22,14 +22,19 @@ def check_update(appid):
 
 def get_download(appid, version):
     r= requests.post(download_url.format(appid, version), verify=False)
-    return r.json()
+    json = r.json()
+    fileId = 'MicrosoftEdge_X{0}_{1}.exe'.format(appid[-2:], version)
+    for item in json:
+        if item['FileId'] == fileId:
+            return item
+    return json[0]
 
 def get_info(appid):
     res1 = check_update(appid)
     name = res1['ContentId']['Name']
     version = res1['ContentId']['Version']
 
-    res2 = get_download(appid, version)[0]
+    res2 = get_download(appid, version)
     size = res2['SizeInBytes']
     sha1 =  base64.b64decode(res2['Hashes']['Sha1']).hex()
     sha256 =  base64.b64decode(res2['Hashes']['Sha256']).hex()
