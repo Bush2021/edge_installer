@@ -56,10 +56,19 @@ def fetch():
     for channel, appid in channels.items():
         for arch in ['x86', 'x64']:
             name, info = get_info(f'{appid}-{arch}')
-            if version_tuple(info['version']) <= version_tuple(results[name]['version']):
+            if version_tuple(info['version']) < version_tuple(results[name]['version']):
                 print("ignore", name, info['version'])
                 continue
             results[name] = info
+
+suffixes = ['B', 'KB', 'MB', 'GB', 'TB', 'PB']
+def humansize(nbytes):
+    i = 0
+    while nbytes >= 1024 and i < len(suffixes)-1:
+        nbytes /= 1024.
+        i += 1
+    f = ('%.2f' % nbytes).rstrip('0').rstrip('.')
+    return '%s %s' % (f, suffixes[i])
 
 def save_md():
     with open('readme.md', 'w') as f:
@@ -67,16 +76,16 @@ def save_md():
         f.write(f'{datetime.now(timezone.utc)}\n')
         f.write('\n')
         f.write(f'# Note\n')
-        f.write(f'Microsoft links have an expiration date, so the URL for this project is not actually downloadable\n')
+        f.write(f'Microsoft links have an expiration date, so the URL for this project may not actually be available for download\n')
         f.write('\n')
         for name, info in results.items():
             f.write(f'## {name[7:].replace("win-", "").replace("-", " ")}\n')
-            f.write(f'version:{info["version"]}  \n')
-            f.write(f'size:{info["size"]}  \n')
-            f.write(f'sha1:{info["sha1"]}  \n')
-            f.write(f'sha256:{info["sha256"]}  \n')
-            f.write(f'file:{info["file"]}  \n')
-            f.write(f'url:[{info["url"]}]({info["url"]})  \n')
+            f.write(f'**version**:{info["version"]}  \n')
+            f.write(f'**size**:{humansize(info["size"])}  \n')
+            f.write(f'**sha1**:{info["sha1"]}  \n')
+            f.write(f'**sha256**:{info["sha256"]}  \n')
+            f.write(f'**file**:{info["file"]}  \n')
+            f.write(f'**url**:[{info["url"]}]({info["url"]})  \n')
             f.write('\n')
 
 def save_json():
