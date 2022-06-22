@@ -56,7 +56,7 @@ def fetch():
     for channel, appid in channels.items():
         for arch in ['x86', 'x64']:
             name, info = get_info(f'{appid}-{arch}')
-            if version_tuple(info['version']) < version_tuple(results[name]['version']):
+            if version_tuple(info['version']) <= version_tuple(results[name]['version']):
                 print("ignore", name, info['version'])
                 continue
             results[name] = info
