@@ -140,20 +140,12 @@ def save_md():
             f'* 下载文件名可能是乱码，有需要的话请自行重命名。\n')
         f.write('\n')
         for name, info in results.items():
-            # f.write(f'## {name[7:].replace("win-", "").replace("-", " ")}\n')
-            # f.write(f'**最新版本**:{info["version"]}  \n')
-            # f.write(f'**文件大小**:{humansize(info["字节大小"])}  \n')
-            # f.write(f'**校验值（Sha256）**:{info["Sha256"]}  \n')
-            # f.write(f'**文件名**:{info["文件名"]}  \n')
-            # f.write(f'**下载链接**:[{info["下载链接"]}]({info["下载链接"]})  \n')
-            # f.write('\n')
-            # 这一段报 KeyError，所以需要按照下面替换 replace_http_to_https 函数的写法进行修改：
             f.write(f'## {name[7:].replace("win-", "").replace("-", " ")}\n')
-            f.write(f'**最新版本**:{info.get("version", "")}  \n')
-            f.write(f'**文件大小**:{humansize(info.get("字节大小", 0))}  \n')
-            f.write(f'**校验值（Sha256）**:{info.get("Sha256", "")}  \n')
-            f.write(f'**文件名**:{info.get("文件名", "")}  \n')
-            f.write(f'**下载链接**:[{info.get("下载链接", "")}]({info.get("下载链接", "")})  \n')
+            f.write(f'**最新版本**：{info.get("version", "")}  \n')
+            f.write(f'**文件大小**：{humansize(info.get("字节大小", 0))}  \n')
+            f.write(f'**校验值（Sha256）**：{info.get("Sha256", "")}  \n')
+            f.write(f'**文件名**：{info.get("文件名", "")}  \n')
+            f.write(f'**下载链接**：[{info.get("下载链接", "")}]({info.get("下载链接", "")})  \n')
             f.write('\n')
 
 
