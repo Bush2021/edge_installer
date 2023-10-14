@@ -25,7 +25,7 @@ jobs:
         git commit -m "[actions skip]update edge" -a
 
     - name: Push Changes
-      uses: ad-m/github-push-action@0.8.0
+      uses: ad-m/github-push-action@v0.8.0
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: ${{ github.ref }}
