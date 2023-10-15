@@ -1,24 +1,24 @@
 # Microsoft Edge 离线安装包下载链接
 最后检测更新时间
-2023-10-15 06:10:36
+2023-10-15 12:14:04
 
 注意
 * Microsoft 直链会过期，请及时保存。
 * 下载文件名可能是乱码，有需要的话请自行重命名。
 
 ## stable x86
-**最新版本**：117.0.2045.60  
-**文件大小**：138.62 MB  
-**校验值（Sha256）**：zjG6CMJALXG0X+PC28uchtVKdLu2s+KKqORWUE/B9Mc=  
-**文件名**：MicrosoftEdge_X86_117.0.2045.60.exe  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3f184256-9fb0-4d4b-bcf0-0d0c7dd957e7?P1=1697844457&P2=404&P3=2&P4=f3%2b%2bfxMG3DEgNVUGD%2fElaqRnYcQ1NUf%2fmA5tj8zNu9uV4IWXb8L81uxnoYkzzT9ANz%2bLicefEOw1X%2bBDjzqw6A%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3f184256-9fb0-4d4b-bcf0-0d0c7dd957e7?P1=1697844457&P2=404&P3=2&P4=f3%2b%2bfxMG3DEgNVUGD%2fElaqRnYcQ1NUf%2fmA5tj8zNu9uV4IWXb8L81uxnoYkzzT9ANz%2bLicefEOw1X%2bBDjzqw6A%3d%3d)  
+**最新版本**：118.0.2088.46  
+**文件大小**：140.05 MB  
+**校验值（Sha256）**：PPJzS6oOHw9EBLDJ/7w4VDiGeRaxGc04uWdZHZLEmYE=  
+**文件名**：MicrosoftEdge_X86_118.0.2088.46.exe  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d60eae0b-bd74-4c16-9c14-91e360782172?P1=1697976839&P2=404&P3=2&P4=LekmTsEYY0%2bGq4g9oeIjuuRICtclK7WGUBJR1PF0QZkbcZQA2cB9xP2AcJUcS4ylb3uRIJqJxQDtFdugInjtVg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d60eae0b-bd74-4c16-9c14-91e360782172?P1=1697976839&P2=404&P3=2&P4=LekmTsEYY0%2bGq4g9oeIjuuRICtclK7WGUBJR1PF0QZkbcZQA2cB9xP2AcJUcS4ylb3uRIJqJxQDtFdugInjtVg%3d%3d)  
 
 ## stable x64
-**最新版本**：117.0.2045.60  
-**文件大小**：150.44 MB  
-**校验值（Sha256）**：G2L6nF48/IP5A4uY9+zEYlmrTu+coYobNwhz5KUMDmA=  
-**文件名**：MicrosoftEdge_X64_117.0.2045.60.exe  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/db761ed2-29c6-4d04-b56b-a47c2d4ecef3?P1=1697844458&P2=404&P3=2&P4=jiJeWGF%2f9P%2bRXJUSwuNVmrmYo8QSTZaagS20AVSlymRXJMywWulh09JHUOOAB%2fPccLM3HD22eVLZKs5T1cFZfA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/db761ed2-29c6-4d04-b56b-a47c2d4ecef3?P1=1697844458&P2=404&P3=2&P4=jiJeWGF%2f9P%2bRXJUSwuNVmrmYo8QSTZaagS20AVSlymRXJMywWulh09JHUOOAB%2fPccLM3HD22eVLZKs5T1cFZfA%3d%3d)  
+**最新版本**：118.0.2088.46  
+**文件大小**：149.28 MB  
+**校验值（Sha256）**：H9BSuIRXHsOIYhh9OKc+UG9BoBm66RAkV5OGJ8LAkFU=  
+**文件名**：MicrosoftEdge_X64_118.0.2088.46.exe  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3e035c2f-ebc0-41aa-a1c4-5365e44b61c2?P1=1697976840&P2=404&P3=2&P4=L0TWwHkEy2fOdCZEv%2flE4y9%2fm6LAXa1QXe6lkxtzgkxZYvEOvZQiBu18IjCqHA8FLsq8o3rwzXJYboU9WiN8RQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3e035c2f-ebc0-41aa-a1c4-5365e44b61c2?P1=1697976840&P2=404&P3=2&P4=L0TWwHkEy2fOdCZEv%2flE4y9%2fm6LAXa1QXe6lkxtzgkxZYvEOvZQiBu18IjCqHA8FLsq8o3rwzXJYboU9WiN8RQ%3d%3d)  
 
 ## beta x86
 **最新版本**：118.0.2088.46  
