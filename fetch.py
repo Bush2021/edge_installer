@@ -127,6 +127,19 @@ def humansize(nbytes):
     return '%s %s' % (f, suffixes[i])
 
 
+def replace_http_to_https():
+    for name, info in results.items():
+        results[name]['下载链接'] = results[name].get('下载链接', '').replace('http://msedge.b', 'https://msedge.sb')
+
+
+# 获取到的 Sha256 值是经过 Base64 编码的，需要转换回来
+def decode_sha256():
+    for name, info in results.items():
+        sha256 = info.get('Sha256', '')
+        if sha256:
+            results[name]['Sha256'] = base64.b64decode(sha256).hex()
+
+
 def save_md():
     with open('readme.md', 'w') as f:
         f.write(f'# Microsoft Edge 离线安装包下载链接\n')
@@ -144,6 +157,8 @@ def save_md():
             f.write(f'**最新版本**：{info.get("version", "")}  \n')
             f.write(f'**文件大小**：{humansize(info.get("字节大小", 0))}  \n')
             f.write(f'**文件名**：{info.get("文件名", "")}  \n')
+            # Sha 256
+            f.write(f'**校验值（Sha256）**：{info.get("Sha256", "")}  \n')
             f.write(f'**下载链接**：[{info.get("下载链接", "")}]({info.get("下载链接", "")})  \n')
             f.write('\n')
 
@@ -156,15 +171,12 @@ def save_json():
             json.dump(v, f, indent=4)
 
 
-def replace_http_to_https():
-    for name, info in results.items():
-        results[name]['下载链接'] = results[name].get('下载链接', '').replace('http://msedge.b', 'https://msedge.sb')
-
 
 def main():
     load_json()
     fetch()
     replace_http_to_https()
+    decode_sha256()
     save_md()
     save_json()
 
