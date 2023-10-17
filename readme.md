@@ -1,6 +1,6 @@
 # Microsoft Edge 离线安装包下载链接
 最后检测更新时间
-2023-10-17 02:34:36
+2023-10-17 06:11:48
 
 注意
 * Microsoft 直链会过期，请及时保存。
@@ -43,10 +43,10 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/20ef8397-2707-453e-8f56-2c0edf2e8d30?P1=1697844464&P2=404&P3=2&P4=GV7hrSoyEb2wJZW2RBOQF6nLQhHLgawc6rjTA1kBcsul1%2fXi%2bOFDfEFiDjIk9tc9bb3YSz6G94dlTmjysJlRkg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/20ef8397-2707-453e-8f56-2c0edf2e8d30?P1=1697844464&P2=404&P3=2&P4=GV7hrSoyEb2wJZW2RBOQF6nLQhHLgawc6rjTA1kBcsul1%2fXi%2bOFDfEFiDjIk9tc9bb3YSz6G94dlTmjysJlRkg%3d%3d)  
 
 ## canary x86
-**最新版本**：120.0.2164.0  
-**文件大小**：149.27 MB  
-**文件名**：MicrosoftEdge_X86_120.0.2164.0.exe  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5002ab88-0daf-4292-8dee-832f97b2787d?P1=1698107914&P2=404&P3=2&P4=UG8NEic%2bo7p%2bcJc9TjT2NYKl8zFKYMm7Zh0WUlUX9tt5boezW2mLtfeEW2Pb6wR%2fVUxVb9LI6vCRga33Ot2BTA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5002ab88-0daf-4292-8dee-832f97b2787d?P1=1698107914&P2=404&P3=2&P4=UG8NEic%2bo7p%2bcJc9TjT2NYKl8zFKYMm7Zh0WUlUX9tt5boezW2mLtfeEW2Pb6wR%2fVUxVb9LI6vCRga33Ot2BTA%3d%3d)  
+**最新版本**：120.0.2165.0  
+**文件大小**：149.23 MB  
+**文件名**：MicrosoftEdge_X86_120.0.2165.0.exe  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/44093a98-a6a4-461d-8596-cc2f368e1548?P1=1698127908&P2=404&P3=2&P4=JfGfCg8e2JmGzDoXIz6siH8lNCll%2b328d3xl0uOjsKD%2b%2b3J5fhEXyYocO8e83QJH7KtfTDEeC%2fT1xgu1YIAaHg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/44093a98-a6a4-461d-8596-cc2f368e1548?P1=1698127908&P2=404&P3=2&P4=JfGfCg8e2JmGzDoXIz6siH8lNCll%2b328d3xl0uOjsKD%2b%2b3J5fhEXyYocO8e83QJH7KtfTDEeC%2fT1xgu1YIAaHg%3d%3d)  
 
 ## canary x64
 **最新版本**：120.0.2165.0  
