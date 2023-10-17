@@ -143,7 +143,6 @@ def save_md():
             f.write(f'## {name[7:].replace("win-", "").replace("-", " ")}\n')
             f.write(f'**最新版本**：{info.get("version", "")}  \n')
             f.write(f'**文件大小**：{humansize(info.get("字节大小", 0))}  \n')
-            f.write(f'**校验值（Sha256）**：{info.get("Sha256", "")}  \n')
             f.write(f'**文件名**：{info.get("文件名", "")}  \n')
             f.write(f'**下载链接**：[{info.get("下载链接", "")}]({info.get("下载链接", "")})  \n')
             f.write('\n')
