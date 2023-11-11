@@ -1,6 +1,6 @@
 # Microsoft Edge 离线安装包下载链接
 最后检测更新时间
-2023-11-11 00:38:13
+2023-11-11 06:10:07
 
 注意
 * Microsoft 直链会过期，请及时保存。
@@ -31,16 +31,16 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d17c9fca-801b-4cac-9f8a-baf2dd2f90e0?P1=1699576711&P2=404&P3=2&P4=SMZ5FW2kcdcgh57sw3f%2fP39I%2bVB0H3QfM8QNK3IRqnjFQ6h04RLb79XB5fxcY5yzhWbW9FDsTDkTit6Ibro9KQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d17c9fca-801b-4cac-9f8a-baf2dd2f90e0?P1=1699576711&P2=404&P3=2&P4=SMZ5FW2kcdcgh57sw3f%2fP39I%2bVB0H3QfM8QNK3IRqnjFQ6h04RLb79XB5fxcY5yzhWbW9FDsTDkTit6Ibro9KQ%3d%3d)  
 
 ## dev x86
-**最新版本**：120.0.2210.1  
-**文件大小**：145.36 MB  
-**文件名**：MicrosoftEdge_X86_120.0.2210.1.exe  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e4c3b42a-cffe-4ffe-b566-39f9a3dd3edb?P1=1700181533&P2=404&P3=2&P4=k3ptKabxTgERkFRXOta5jM02it7t9tc6HJl41MrQUgHEmYp9q%2fC0Xv8TZZC58CBwOqDnGoNEa%2foYhIvLSYmkPQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e4c3b42a-cffe-4ffe-b566-39f9a3dd3edb?P1=1700181533&P2=404&P3=2&P4=k3ptKabxTgERkFRXOta5jM02it7t9tc6HJl41MrQUgHEmYp9q%2fC0Xv8TZZC58CBwOqDnGoNEa%2foYhIvLSYmkPQ%3d%3d)  
+**最新版本**：120.0.2210.4  
+**文件大小**：145.14 MB  
+**文件名**：MicrosoftEdge_X86_120.0.2210.4.exe  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0b3703f5-7e35-47a8-baaa-0928bad8203e?P1=1700287806&P2=404&P3=2&P4=JWQJvUFtPwbCJFkkw7pQpcDm55W76HEf1Xdhe87RYvE99ZSaX96HUqDGFagEvoon4qCxviG5qJAXMMWnTWEXiw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0b3703f5-7e35-47a8-baaa-0928bad8203e?P1=1700287806&P2=404&P3=2&P4=JWQJvUFtPwbCJFkkw7pQpcDm55W76HEf1Xdhe87RYvE99ZSaX96HUqDGFagEvoon4qCxviG5qJAXMMWnTWEXiw%3d%3d)  
 
 ## dev x64
-**最新版本**：120.0.2210.1  
-**文件大小**：163.29 MB  
-**文件名**：MicrosoftEdge_X64_120.0.2210.1.exe  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f1a5ddef-490f-47ac-bb21-84283e6e2d62?P1=1700181534&P2=404&P3=2&P4=MLrRAHMg6nxGB4JKKFsEMZhkvTFKkhbHkmndJAoKJs%2fpDos0MQcWyEu9moYPUq4Y4c%2bU7UN8SBmdiNKHhUnwrA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f1a5ddef-490f-47ac-bb21-84283e6e2d62?P1=1700181534&P2=404&P3=2&P4=MLrRAHMg6nxGB4JKKFsEMZhkvTFKkhbHkmndJAoKJs%2fpDos0MQcWyEu9moYPUq4Y4c%2bU7UN8SBmdiNKHhUnwrA%3d%3d)  
+**最新版本**：120.0.2210.4  
+**文件大小**：163 MB  
+**文件名**：MicrosoftEdge_X64_120.0.2210.4.exe  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3bc467ed-ffad-451f-840f-f4f42f9b4a6c?P1=1700287807&P2=404&P3=2&P4=KMktZF1ziMNd%2b0c6EuPjs0kr3GZxppMHMy802l4dTZePiqtFeJkzAn9Os%2fH6M487dJAAskPsUsOrIDy0GZ%2bkFA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3bc467ed-ffad-451f-840f-f4f42f9b4a6c?P1=1700287807&P2=404&P3=2&P4=KMktZF1ziMNd%2b0c6EuPjs0kr3GZxppMHMy802l4dTZePiqtFeJkzAn9Os%2fH6M487dJAAskPsUsOrIDy0GZ%2bkFA%3d%3d)  
 
 ## canary x86
 **最新版本**：121.0.2213.0  
