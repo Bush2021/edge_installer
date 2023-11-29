@@ -1,22 +1,22 @@
 # Microsoft Edge 离线安装包下载链接
 最后检测更新时间
-2023-11-29 06:11:42
+2023-11-29 12:16:06
 
 注意
 * Microsoft 直链会过期，请及时保存。
 * 下载文件名可能是乱码，有需要的话请自行重命名。
 
 ## stable x86
-**最新版本**：119.0.2151.72  
-**文件大小**：149.85 MB  
-**文件名**：MicrosoftEdge_X86_119.0.2151.72.exe  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4c54cd60-5ee2-49ef-af42-4045d4cdfd35?P1=1700914435&P2=404&P3=2&P4=H1sNKV0OMON5y%2bCV5yOLBvXoL57BcMpjXzlnPrn0pSGyM1h2sx4sy%2f%2bcFdaGLg%2fOQJ65cSCAWDvUNzSCWOLubA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4c54cd60-5ee2-49ef-af42-4045d4cdfd35?P1=1700914435&P2=404&P3=2&P4=H1sNKV0OMON5y%2bCV5yOLBvXoL57BcMpjXzlnPrn0pSGyM1h2sx4sy%2f%2bcFdaGLg%2fOQJ65cSCAWDvUNzSCWOLubA%3d%3d)  
+**最新版本**：119.0.2151.93  
+**文件大小**：149.92 MB  
+**文件名**：MicrosoftEdge_X86_119.0.2151.93.exe  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9cbbccc0-f49c-4cf1-9959-cd2ff025d325?P1=1701864960&P2=404&P3=2&P4=dwF6tiWAoXF31m4%2fs8MajQVi99v473WXJuOwMvny36oon6FSfKb08IpO%2fGgpo%2fuB%2bWR1XxcOcgpwJIttNwzsLA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9cbbccc0-f49c-4cf1-9959-cd2ff025d325?P1=1701864960&P2=404&P3=2&P4=dwF6tiWAoXF31m4%2fs8MajQVi99v473WXJuOwMvny36oon6FSfKb08IpO%2fGgpo%2fuB%2bWR1XxcOcgpwJIttNwzsLA%3d%3d)  
 
 ## stable x64
-**最新版本**：119.0.2151.72  
-**文件大小**：166.8 MB  
-**文件名**：MicrosoftEdge_X64_119.0.2151.72.exe  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/38c1e73f-e726-4946-b135-b6fc612dbfac?P1=1700914436&P2=404&P3=2&P4=Y1JJjKIehHtk5XXKQ4IAaWljPJjnVS%2fABNMD1L1VbvVX44AINlasiVJaFbH0CJv0vJ6nhVSJG7EHiK7zazeRSw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/38c1e73f-e726-4946-b135-b6fc612dbfac?P1=1700914436&P2=404&P3=2&P4=Y1JJjKIehHtk5XXKQ4IAaWljPJjnVS%2fABNMD1L1VbvVX44AINlasiVJaFbH0CJv0vJ6nhVSJG7EHiK7zazeRSw%3d%3d)  
+**最新版本**：119.0.2151.93  
+**文件大小**：166.89 MB  
+**文件名**：MicrosoftEdge_X64_119.0.2151.93.exe  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0e0873f1-66c7-48f8-871f-343e19810860?P1=1701864961&P2=404&P3=2&P4=iQU8CBvcG92Bmwo%2f1voWcDdFzuQyuYLyjVTzBGdznGtF62I0LB50KM%2fNhN5U5BDZ8jIasiWe19qZfHgAJwk7ew%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0e0873f1-66c7-48f8-871f-343e19810860?P1=1701864961&P2=404&P3=2&P4=iQU8CBvcG92Bmwo%2f1voWcDdFzuQyuYLyjVTzBGdznGtF62I0LB50KM%2fNhN5U5BDZ8jIasiWe19qZfHgAJwk7ew%3d%3d)  
 
 ## beta x86
 **最新版本**：120.0.2210.39  
