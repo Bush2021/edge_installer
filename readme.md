@@ -1,16 +1,16 @@
 # Microsoft Edge 离线安装包下载链接
 最后检测更新时间
-2023-12-01 06:12:07
+2023-12-01 12:16:08
 
 注意
 * Microsoft 直链会过期，请及时保存。
 * 下载文件名可能是乱码，有需要的话请自行重命名。
 
 ## stable x86
-**最新版本**：119.0.2151.93  
-**文件大小**：149.92 MB  
-**文件名**：MicrosoftEdge_X86_119.0.2151.93.exe  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9cbbccc0-f49c-4cf1-9959-cd2ff025d325?P1=1701864960&P2=404&P3=2&P4=dwF6tiWAoXF31m4%2fs8MajQVi99v473WXJuOwMvny36oon6FSfKb08IpO%2fGgpo%2fuB%2bWR1XxcOcgpwJIttNwzsLA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9cbbccc0-f49c-4cf1-9959-cd2ff025d325?P1=1701864960&P2=404&P3=2&P4=dwF6tiWAoXF31m4%2fs8MajQVi99v473WXJuOwMvny36oon6FSfKb08IpO%2fGgpo%2fuB%2bWR1XxcOcgpwJIttNwzsLA%3d%3d)  
+**最新版本**：119.0.2151.97  
+**文件大小**：149.97 MB  
+**文件名**：MicrosoftEdge_X86_119.0.2151.97.exe  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/25b6a9bb-045c-4b87-987c-0c0f2ebe35a5?P1=1702037763&P2=404&P3=2&P4=RYEZsVFinZmoZ8yAXO16jOef9Dvr8kJPtP%2bdBvSqLnYLayI80u5YzlwvEo2lCRKtEVsrkq5m%2bi4rgVU1pHEaXA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/25b6a9bb-045c-4b87-987c-0c0f2ebe35a5?P1=1702037763&P2=404&P3=2&P4=RYEZsVFinZmoZ8yAXO16jOef9Dvr8kJPtP%2bdBvSqLnYLayI80u5YzlwvEo2lCRKtEVsrkq5m%2bi4rgVU1pHEaXA%3d%3d)  
 
 ## stable x64
 **最新版本**：119.0.2151.93  
