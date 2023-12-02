@@ -1,6 +1,6 @@
 # Microsoft Edge 离线安装包下载链接
 最后检测更新时间
-2023-12-01 18:10:59
+2023-12-02 00:39:19
 
 注意
 * Microsoft 直链会过期，请及时保存。
@@ -19,16 +19,16 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0e0873f1-66c7-48f8-871f-343e19810860?P1=1701864961&P2=404&P3=2&P4=iQU8CBvcG92Bmwo%2f1voWcDdFzuQyuYLyjVTzBGdznGtF62I0LB50KM%2fNhN5U5BDZ8jIasiWe19qZfHgAJwk7ew%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0e0873f1-66c7-48f8-871f-343e19810860?P1=1701864961&P2=404&P3=2&P4=iQU8CBvcG92Bmwo%2f1voWcDdFzuQyuYLyjVTzBGdznGtF62I0LB50KM%2fNhN5U5BDZ8jIasiWe19qZfHgAJwk7ew%3d%3d)  
 
 ## beta x86
-**最新版本**：120.0.2210.39  
-**文件大小**：145.18 MB  
-**文件名**：MicrosoftEdge_X86_120.0.2210.39.exe  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a1f4e121-a959-485f-96c5-1b94ca8043a1?P1=1701736858&P2=404&P3=2&P4=jOsAlBPt%2bPliHsaw53pPZ3WcAAxMeRqdfHYPUVUIoUtMznEyGUrj6hv1oXcXAllkt0xgIfTTLjP85a1tHxFy5g%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a1f4e121-a959-485f-96c5-1b94ca8043a1?P1=1701736858&P2=404&P3=2&P4=jOsAlBPt%2bPliHsaw53pPZ3WcAAxMeRqdfHYPUVUIoUtMznEyGUrj6hv1oXcXAllkt0xgIfTTLjP85a1tHxFy5g%3d%3d)  
+**最新版本**：120.0.2210.49  
+**文件大小**：145.24 MB  
+**文件名**：MicrosoftEdge_X86_120.0.2210.49.exe  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d1c5367f-3959-4b31-a3fb-2886cbf60e84?P1=1702082359&P2=404&P3=2&P4=BrtUOFeNtY0WwPmDcfUuSx1Q52Oaag2HTyrQqdlst7TgfWEBSZMQHiknEs%2fF1Tg5xMRQ8%2fJPEi%2f5M86ANqLTtQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d1c5367f-3959-4b31-a3fb-2886cbf60e84?P1=1702082359&P2=404&P3=2&P4=BrtUOFeNtY0WwPmDcfUuSx1Q52Oaag2HTyrQqdlst7TgfWEBSZMQHiknEs%2fF1Tg5xMRQ8%2fJPEi%2f5M86ANqLTtQ%3d%3d)  
 
 ## beta x64
-**最新版本**：120.0.2210.39  
-**文件大小**：162.86 MB  
-**文件名**：MicrosoftEdge_X64_120.0.2210.39.exe  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/48835906-4e3a-4d73-9eda-8dc7515887a7?P1=1701736858&P2=404&P3=2&P4=bQQgHR9aRj%2bhnXdq3GtGZ0dDldpeUxggXtwApXvT5BP3z3HeVoC%2bB2spF3LNPNBq1aQGo%2b00ApjDaD7ipi3ReQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/48835906-4e3a-4d73-9eda-8dc7515887a7?P1=1701736858&P2=404&P3=2&P4=bQQgHR9aRj%2bhnXdq3GtGZ0dDldpeUxggXtwApXvT5BP3z3HeVoC%2bB2spF3LNPNBq1aQGo%2b00ApjDaD7ipi3ReQ%3d%3d)  
+**最新版本**：120.0.2210.49  
+**文件大小**：162.99 MB  
+**文件名**：MicrosoftEdge_X64_120.0.2210.49.exe  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/04783754-ed16-4994-a888-559c14712aa7?P1=1702082359&P2=404&P3=2&P4=VZ5VUhPsQ%2fLT2Svj%2bmWf2A1oDCJil1yrzQIQY1RIRtV4A80ajB9wR2F%2fb3ZelBKDeYIi2usrPeaAYxKzXMKfug%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/04783754-ed16-4994-a888-559c14712aa7?P1=1702082359&P2=404&P3=2&P4=VZ5VUhPsQ%2fLT2Svj%2bmWf2A1oDCJil1yrzQIQY1RIRtV4A80ajB9wR2F%2fb3ZelBKDeYIi2usrPeaAYxKzXMKfug%3d%3d)  
 
 ## dev x86
 **最新版本**：121.0.2248.1  
