@@ -1,9 +1,9 @@
-import requests
-import xml.etree.ElementTree as tree
 import base64
 import binascii
 import json
 from datetime import datetime, timezone, timedelta
+
+import requests
 
 requests.packages.urllib3.disable_warnings()
 
