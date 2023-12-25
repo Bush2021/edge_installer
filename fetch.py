@@ -3,7 +3,7 @@ import xml.etree.ElementTree as tree
 import base64
 import binascii
 import json
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 
 requests.packages.urllib3.disable_warnings()
 
@@ -136,9 +136,11 @@ def save_md():
     with open('readme.md', 'w') as f:
         f.write(f'# Microsoft Edge 离线安装包下载链接\n')
         f.write(f'最后检测更新时间\n')
-        f.write(f'{datetime.now().strftime("%Y-%m-%d %H:%M:%S")}\n')
+        now = datetime.now(timezone(timedelta(hours=-5)))
+        now_str = now.strftime("%Y-%m-%d %H:%M:%S (UTC-5)")
+        f.write(f'{now_str}\n')
         f.write('\n')
-        f.write(f'注意\n')
+        f.write(f'## 注意\n')
         f.write(
             f'* Microsoft 直链会过期，请及时保存。\n')
         f.write(
