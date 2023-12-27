@@ -104,12 +104,15 @@ def load_json():
 
 
 def fetch():
+    current_day = datetime.now().day
     for channel, appid in channels.items():
         for arch in ['x86', 'x64']:
             name, info = get_info(f'{appid}-{arch}')
             if name not in results:
                 results[name] = info
             elif version_tuple(info['version']) > version_tuple(results[name]['version']):
+                results[name] = info
+            elif current_day == 1: # 每月 1 日强制更新所有版本，避免链接过期
                 results[name] = info
             else:
                 print("ignore", name, info['version'])
