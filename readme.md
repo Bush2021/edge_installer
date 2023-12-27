@@ -1,6 +1,6 @@
 # Microsoft Edge 离线安装包下载链接
 最后检测更新时间
-2023-12-26 19:38:57 (UTC-5)
+2023-12-26 23:03:28 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -66,13 +66,13 @@
 **最新版本**：109.0.1518.140  
 **文件大小**：122.56 MB  
 **文件名**：MicrosoftEdge_X86_109.0.1518.140.exe  
-**校验值（Sha256）**：efd7fa7db79d69e7fdedb6dee5d79fe7b6dbedf77bf5fefb6de75bedbf7a75eedf75e75defd75ee5e79f6dfedaedd6fb7fdef979fe5d79d77bf5e7b96bbf5dedd79e75b79ff7b7db7f97def5fe9d7dee5fedb77b7dae9d69e75def57bb75b79f6fa75e7b97de7fdefb6ba75bedff7a7dbe9d6def5dedd79ee5c79f77b75f79d6fbefdedb6dfe5f7bd77b6dbedd6de75fe9f6bb75b79d77a6db7f97fbf5fe9b6bbe5b79d7dfedbe9d6fb7fdedf6fa7fd79d77be5e7b975e75befb6bb75befd77a7db7f975ef5be9d79ee5b79d6dfedb79d69e7fde9f6dfe5fefd7fa6db7b97de7fdedd7dd75befd77be5eedff5e7fdedb6dee5c  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d87a3bbd-7fe5-4ec3-b806-293cca78b363?P1=1697844459&P2=404&P3=2&P4=UTce580Q0chA3ZQEVENMa9O5%2bCbXfL%2fDdyhTs%2fjWwMWCYGRZZYdIVC3Yiuv7oOUklrzkpCu3Wk0j%2bL8Tt1HxQg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d87a3bbd-7fe5-4ec3-b806-293cca78b363?P1=1697844459&P2=404&P3=2&P4=UTce580Q0chA3ZQEVENMa9O5%2bCbXfL%2fDdyhTs%2fjWwMWCYGRZZYdIVC3Yiuv7oOUklrzkpCu3Wk0j%2bL8Tt1HxQg%3d%3d)  
+**校验值（Sha256）**：2b48ce3b304b7b9a8f9377a42d8661ecdc53c5f2c6ee708da9d62127c7802c18  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d87a3bbd-7fe5-4ec3-b806-293cca78b363?P1=1704254606&P2=404&P3=2&P4=PCavnjO7WQDTDBNkWVeZgYiaks0JhV3fmKuyNAIiLCkA2uml87Dh7GyGDdgWk9RhPPt%2bSCcACaOKBrg3AzRXdA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d87a3bbd-7fe5-4ec3-b806-293cca78b363?P1=1704254606&P2=404&P3=2&P4=PCavnjO7WQDTDBNkWVeZgYiaks0JhV3fmKuyNAIiLCkA2uml87Dh7GyGDdgWk9RhPPt%2bSCcACaOKBrg3AzRXdA%3d%3d)  
 
 ## stable win7and8 x64
 **最新版本**：109.0.1518.140  
 **文件大小**：134.18 MB  
 **文件名**：MicrosoftEdge_X64_109.0.1518.140.exe  
-**校验值（Sha256）**：efd7fbedbef97bbe5de9f6dfe5f79fefa7dbef96fbf5befb6fbe5d79ff7a75eedf75e7dbebd7dee5d79f6dfedae9d6fbf5fef97bb7db7bd6fa6dbedd77bf5de9d79e75a7bd77a75e7f97fb7f9efd7dee5b79d6deedb79d6de7fdef76dfe5f7bd77bf5f7b979e7ddefb6dd75b7bd77a75e7f96def5be9f6fbe5aefd7fa7daef97bb7fdefb6fa7dd7bd7fa75eedd77b6ddefb6dfe5dedbf7a75eedd75e7dbe9b6fbe5a79d7dfedb79d6de75de9d7bb7fd79ff7bedbedd75e7ddedd79e75bedff7bf5e7f97def5fe9f6fb75dedb77bedb7b979e75def57bbe5bedb6fa6dbef969e75f7fb6dd75b7bd7fa7dbe9d6def5fe9f6dee5c  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0c4084f3-1bed-4246-b8ed-206ccbe60e3c?P1=1697844460&P2=404&P3=2&P4=d%2fjLmWwzw0%2bxMMnaC3ysW1aHyuJXR58q3pIgmMje7pWr8eMSQyQ6TDGe4p%2fVxMT6tlNmx3YmhfTpm1yzeVlaLw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0c4084f3-1bed-4246-b8ed-206ccbe60e3c?P1=1697844460&P2=404&P3=2&P4=d%2fjLmWwzw0%2bxMMnaC3ysW1aHyuJXR58q3pIgmMje7pWr8eMSQyQ6TDGe4p%2fVxMT6tlNmx3YmhfTpm1yzeVlaLw%3d%3d)  
+**校验值（Sha256）**：70d496873a0a1ca14ae0a038d25856b2121b1b4b7bad9801ce639b144bac41f8  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0c4084f3-1bed-4246-b8ed-206ccbe60e3c?P1=1704254606&P2=404&P3=2&P4=SO2iTySy0qY%2bS6IGywlPbUuB%2f9RF%2bPwzUYA8o6G4JDR%2bzLNUn2w%2bke3a0W%2fpvhn8d9uvtf6XmkPM2P8NncwqBQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0c4084f3-1bed-4246-b8ed-206ccbe60e3c?P1=1704254606&P2=404&P3=2&P4=SO2iTySy0qY%2bS6IGywlPbUuB%2f9RF%2bPwzUYA8o6G4JDR%2bzLNUn2w%2bke3a0W%2fpvhn8d9uvtf6XmkPM2P8NncwqBQ%3d%3d)  
 
