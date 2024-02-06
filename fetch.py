@@ -15,7 +15,7 @@ channels = {
     'canary': 'msedge-canary-win',
 }
 
-CheckVersion = 'https://msedge.api.cdp.microsoft.com/api/v1.1/contents/Browser/namespaces/Default/names/{0}/versions/latest?action=select'
+CheckVersion = 'https://msedge.api.cdp.microsoft.com/api/v2/contents/Browser/namespaces/Default/names/{0}/versions/latest?action=select'
 GetDownloadLink = 'https://msedge.api.cdp.microsoft.com/api/v1.1/internal/contents/Browser/namespaces/Default/names/{0}/versions/{1}/files?action=GenerateDownloadInfo'
 
 results = {}
@@ -24,10 +24,14 @@ results = {}
 def check_version(appid):
     # 必须包含 UA 头，否则报错
     headers = {
-        'User-Agent': 'Microsoft Edge Update/1.3.129.35;winhttp'
+        'User-Agent': 'Microsoft Edge Update/1.3.183.29;winhttp'
     }
     data = {
-        'targetingAttributes': {'Updater': 'MicrosoftEdgeUpdate'}
+        'targetingAttributes': {
+            'IsInternalUser': True,
+            'Updater': 'MicrosoftEdgeUpdate',
+            'UpdaterVersion': '1.3.183.29',
+        }
     }
     response = requests.post(CheckVersion.format(appid), json=data, headers=headers, verify=False)
 
@@ -46,7 +50,7 @@ def check_version(appid):
 
 def get_download_link(appid, version):
     headers = {
-        'User-Agent': 'Microsoft Edge Update/1.3.129.35;winhttp'
+        'User-Agent': 'Microsoft Edge Update/1.3.183.29;winhttp'
     }
     response = requests.post(GetDownloadLink.format(appid, version), headers=headers, verify=False)
 
