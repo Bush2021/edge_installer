@@ -2,25 +2,25 @@
 64位稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-02-08 13:08:26 (UTC-5)
+2024-02-08 16:05:26 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
 * 下载文件名可能是乱码，有需要的话请自行重命名。
 
 ## stable x86
-**最新版本**：121.0.2277.110  
-**文件大小**：148.22 MB  
-**文件名**：MicrosoftEdge_X86_121.0.2277.110.exe  
-**校验值（Sha256）**：f069331f6100081222478c2cb204a5d719f53ae6f7b65c2bebe8bc90d850e18f  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8fefdb87-4209-4f4b-a2fe-19e9ed1ae091?P1=1707957080&P2=404&P3=2&P4=j0bmZCkBkNd1cLAoiZQWBlZpJ6e0EhEEmXU9qdVZDn%2fer8Ac%2fEUE9ADvVO34P4qmLob9p7t4nzjVy6y1QUCX%2fw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8fefdb87-4209-4f4b-a2fe-19e9ed1ae091?P1=1707957080&P2=404&P3=2&P4=j0bmZCkBkNd1cLAoiZQWBlZpJ6e0EhEEmXU9qdVZDn%2fer8Ac%2fEUE9ADvVO34P4qmLob9p7t4nzjVy6y1QUCX%2fw%3d%3d)  
+**最新版本**：121.0.2277.112  
+**文件大小**：148.27 MB  
+**文件名**：MicrosoftEdge_X86_121.0.2277.112.exe  
+**校验值（Sha256）**：fa54f3e8a29f069f76360fe65a5072360fcc1e0b4e43ef862d68afb6069a6d53  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9150708e-639e-45d2-a46e-cdd345961f92?P1=1708031124&P2=404&P3=2&P4=C5P0goN%2fxkE5CGxgzFaQujmX4oIME8nIxovqSlP9%2bSh7fBAcr4M0wwReWmUutHvMcWxhrimvFEfOo7Wg%2f1Pssw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9150708e-639e-45d2-a46e-cdd345961f92?P1=1708031124&P2=404&P3=2&P4=C5P0goN%2fxkE5CGxgzFaQujmX4oIME8nIxovqSlP9%2bSh7fBAcr4M0wwReWmUutHvMcWxhrimvFEfOo7Wg%2f1Pssw%3d%3d)  
 
 ## stable x64
-**最新版本**：121.0.2277.110  
-**文件大小**：166.73 MB  
-**文件名**：MicrosoftEdge_X64_121.0.2277.110.exe  
-**校验值（Sha256）**：c4a18ffbf565481222b752e9931e43c359fe5fafa6cde839a12e17d6f640eecd  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b2d28663-8886-42ae-b8dc-a6400ae6c0bd?P1=1707957081&P2=404&P3=2&P4=dqJfIYfvn%2f7uA9%2fEX%2btEC5VTHz6pyudOj8SxOkl2ByY8ZvpjqpR%2bJ%2fSUhbCSLZhiYAi2YDerIsSgH1z9RJzRGQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b2d28663-8886-42ae-b8dc-a6400ae6c0bd?P1=1707957081&P2=404&P3=2&P4=dqJfIYfvn%2f7uA9%2fEX%2btEC5VTHz6pyudOj8SxOkl2ByY8ZvpjqpR%2bJ%2fSUhbCSLZhiYAi2YDerIsSgH1z9RJzRGQ%3d%3d)  
+**最新版本**：121.0.2277.112  
+**文件大小**：166.78 MB  
+**文件名**：MicrosoftEdge_X64_121.0.2277.112.exe  
+**校验值（Sha256）**：a2b656528b9716e4a834b8df7f7433d917e550b33ea4e36e9f303516b82b6de8  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/33e53d49-18b6-4407-8f57-ff5893307c3d?P1=1708031124&P2=404&P3=2&P4=lLhr%2f0a8OKucbnGeheg%2fEL%2brAdoBT20Y9O2Hy%2bVnxcbdamk9eLPVfZMUpU2n0th1naYge2NAIR1G4nFg2CMsYg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/33e53d49-18b6-4407-8f57-ff5893307c3d?P1=1708031124&P2=404&P3=2&P4=lLhr%2f0a8OKucbnGeheg%2fEL%2brAdoBT20Y9O2Hy%2bVnxcbdamk9eLPVfZMUpU2n0th1naYge2NAIR1G4nFg2CMsYg%3d%3d)  
 
 ## beta x86
 **最新版本**：122.0.2365.16  
