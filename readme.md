@@ -2,7 +2,7 @@
 64位稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-02-12 13:47:50 (UTC-5)
+2024-02-12 13:50:55 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -69,12 +69,12 @@
 **文件大小**：122.56 MB  
 **文件名**：MicrosoftEdge_X86_109.0.1518.140.exe  
 **校验值（Sha256）**：2b48ce3b304b7b9a8f9377a42d8661ecdc53c5f2c6ee708da9d62127c7802c18  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d87a3bbd-7fe5-4ec3-b806-293cca78b363?P1=1707415807&P2=404&P3=2&P4=JXbH8nTqo6erMZH7A%2fAxqSIIrOW1w0wdQHGgm34KtUlGGfV0IVlDce%2f18lFTrILHQJIZgIObsXo2RA8Qo0Jgbw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d87a3bbd-7fe5-4ec3-b806-293cca78b363?P1=1707415807&P2=404&P3=2&P4=JXbH8nTqo6erMZH7A%2fAxqSIIrOW1w0wdQHGgm34KtUlGGfV0IVlDce%2f18lFTrILHQJIZgIObsXo2RA8Qo0Jgbw%3d%3d)  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d87a3bbd-7fe5-4ec3-b806-293cca78b363?P1=1708368653&P2=404&P3=2&P4=mzWKgDmhqiooMpfFDxrEAQrPVQVUJSwCD4962WByDVYQjug%2f1cjXCdUVeC%2bcM63KPC5puXPLuc08o3ebbaol0A%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d87a3bbd-7fe5-4ec3-b806-293cca78b363?P1=1708368653&P2=404&P3=2&P4=mzWKgDmhqiooMpfFDxrEAQrPVQVUJSwCD4962WByDVYQjug%2f1cjXCdUVeC%2bcM63KPC5puXPLuc08o3ebbaol0A%3d%3d)  
 
 ## stable win7and8 x64
 **最新版本**：109.0.1518.140  
 **文件大小**：134.18 MB  
 **文件名**：MicrosoftEdge_X64_109.0.1518.140.exe  
 **校验值（Sha256）**：70d496873a0a1ca14ae0a038d25856b2121b1b4b7bad9801ce639b144bac41f8  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0c4084f3-1bed-4246-b8ed-206ccbe60e3c?P1=1707415807&P2=404&P3=2&P4=hFb4stM0shEJVaz2huIqk5LYYoJOIgJFUkn8kPKjBZXqwKqqBFHRfSm4KD4NypfaM4NR%2f93EJZrL1vG3cAyExQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0c4084f3-1bed-4246-b8ed-206ccbe60e3c?P1=1707415807&P2=404&P3=2&P4=hFb4stM0shEJVaz2huIqk5LYYoJOIgJFUkn8kPKjBZXqwKqqBFHRfSm4KD4NypfaM4NR%2f93EJZrL1vG3cAyExQ%3d%3d)  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0c4084f3-1bed-4246-b8ed-206ccbe60e3c?P1=1708368653&P2=404&P3=2&P4=iPzwDQYsTrwYHeZSb62CB90caV2t%2bd%2f4oiG9coyQA%2fMkljkT6uKHwFs8yKFmFQUdJZEmfLlz8CSB2AjnBCedcg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0c4084f3-1bed-4246-b8ed-206ccbe60e3c?P1=1708368653&P2=404&P3=2&P4=iPzwDQYsTrwYHeZSb62CB90caV2t%2bd%2f4oiG9coyQA%2fMkljkT6uKHwFs8yKFmFQUdJZEmfLlz8CSB2AjnBCedcg%3d%3d)  
 
