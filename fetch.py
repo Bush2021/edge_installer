@@ -116,7 +116,7 @@ def fetch():
                 results[name] = info
             elif version_tuple(info['version']) > version_tuple(results[name]['version']):
                 results[name] = info
-            elif current_day == 1:  # 每月 1 日强制更新所有版本，避免链接过期
+            elif current_day in [2, 11, 20, 28]:
                 results[name] = info
             else:
                 print("ignore", name, info['version'])
