@@ -154,7 +154,7 @@ def save_md():
     index_url = "https://github.com/Bush2021/edge_installer?tab=readme-ov-file#"
     with open('readme.md', 'w') as f:
         f.write(f'# Microsoft Edge 离线安装包下载链接（请使用 7-Zip 解压）\n')
-        f.write(f'64位稳定版存档：<https://github.com/Bush2021/edge_installer/releases>\n\n')
+        f.write(f'稳定版存档：<https://github.com/Bush2021/edge_installer/releases>\n\n')
         f.write(f'最后检测更新时间\n')
         now = datetime.now(timezone(timedelta(hours=-5)))
         now_str = now.strftime("%Y-%m-%d %H:%M:%S (UTC-5)")
@@ -167,7 +167,7 @@ def save_md():
         f.write(f'## 目录\n')
         for name in results.keys():
             title = name[7:].replace("win-", "").replace("-", " ")
-            link = index_url + title
+            link = index_url + title.replace(" ", "-")
             f.write(f'* [{title}]({link})\n')
         f.write('\n')
         for name, info in results.items():
