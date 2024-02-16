@@ -151,6 +151,7 @@ def decode_sha256_base64():
 
 
 def save_md():
+    index_url = "https://github.com/Bush2021/edge_installer?tab=readme-ov-file#"
     with open('readme.md', 'w') as f:
         f.write(f'# Microsoft Edge 离线安装包下载链接（请使用 7-Zip 解压）\n')
         f.write(f'64位稳定版存档：<https://github.com/Bush2021/edge_installer/releases>\n\n')
@@ -160,10 +161,14 @@ def save_md():
         f.write(f'{now_str}\n')
         f.write('\n')
         f.write(f'## 注意\n')
-        f.write(
-            f'* Microsoft 直链会过期，请及时保存。\n')
-        f.write(
-            f'* 下载文件名可能是乱码，有需要的话请自行重命名。\n')
+        f.write(f'* Microsoft 直链会过期，请及时保存。\n')
+        f.write(f'* 下载文件名可能是乱码，有需要的话请自行重命名。\n')
+        f.write('\n')
+        f.write(f'## 目录\n')
+        for name in results.keys():
+            title = name[7:].replace("win-", "").replace("-", " ")
+            link = index_url + title
+            f.write(f'* [{title}]({link})\n')
         f.write('\n')
         for name, info in results.items():
             f.write(f'## {name[7:].replace("win-", "").replace("-", " ")}\n')
@@ -178,9 +183,6 @@ def save_md():
 def save_json():
     with open('data.json', 'w') as f:
         json.dump(results, f, indent=4)
-    for k, v in results.items():
-        with open(f'{k}.json', 'w') as f:
-            json.dump(v, f, indent=4)
 
 
 def main():
