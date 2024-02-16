@@ -110,7 +110,7 @@ def load_json():
 def fetch():
     current_day = datetime.now().day
     for channel, appid in channels.items():
-        for arch in ['x86', 'x64']:
+        for arch in ['x86', 'x64', 'ARM64']:
             name, info = get_info(f'{appid}-{arch}')
             if name not in results:
                 results[name] = info

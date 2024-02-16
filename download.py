@@ -30,34 +30,38 @@ def check_update():
         return False
 
 
-def get_download_url():
+def get_download_url(version):
     with open('data.json', 'r') as f:
         data = json.load(f)
-        download_url = data['msedge-stable-win-x64']['下载链接']
+        download_url = data[version]['下载链接']
     return download_url
 
 
-def get_filename():
+def get_filename(version):
     with open('data.json', 'r') as f:
         data = json.load(f)
-        filename = data['msedge-stable-win-x64']['文件名']
+        filename = data[version]['文件名']
     return filename
 
 
+def download_file(url, name):
+    if os.path.exists(name):
+        print(f'The file {name} already exists, skip downloading')
+        return
+    r = requests.get(url, stream=True)
+    with open(name, 'wb') as f:
+        for chunk in r.iter_content(chunk_size=1024):
+            if chunk:
+                f.write(chunk)
+    print('Download complete')
+
+
 def download():
+    versions = ['msedge-stable-win-x86', 'msedge-stable-win-x64', 'msedge-stable-win-ARM64']
     if check_update():
         print('New version detected, start downloading...')
-        url = get_download_url()
-        name = get_filename()
-        if os.path.exists(name):
-            print('The file already exists, skip downloading')
-            return
-        r = requests.get(url, stream=True)
-        with open(name, 'wb') as f:
-            for chunk in r.iter_content(chunk_size=1024):
-                if chunk:
-                    f.write(chunk)
-        print('Download complete')
+        for version in versions:
+            download_file(get_download_url(version), get_filename(version))
         if os.path.exists('__pycache__'):
             os.system('rmdir /s /q __pycache__')
     else:
