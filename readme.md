@@ -1,29 +1,29 @@
 # Microsoft Edge 离线安装包下载链接（请使用 7-Zip 解压）
-64位稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
+稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-02-16 09:13:27 (UTC-5)
+2024-02-16 09:19:44 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
 * 下载文件名可能是乱码，有需要的话请自行重命名。
 
 ## 目录
-* [stable x86](https://github.com/Bush2021/edge_installer?tab=readme-ov-file#stable x86)
-* [stable x64](https://github.com/Bush2021/edge_installer?tab=readme-ov-file#stable x64)
-* [beta x86](https://github.com/Bush2021/edge_installer?tab=readme-ov-file#beta x86)
-* [beta x64](https://github.com/Bush2021/edge_installer?tab=readme-ov-file#beta x64)
-* [dev x86](https://github.com/Bush2021/edge_installer?tab=readme-ov-file#dev x86)
-* [dev x64](https://github.com/Bush2021/edge_installer?tab=readme-ov-file#dev x64)
-* [canary x86](https://github.com/Bush2021/edge_installer?tab=readme-ov-file#canary x86)
-* [canary x64](https://github.com/Bush2021/edge_installer?tab=readme-ov-file#canary x64)
-* [stable win7and8 x86](https://github.com/Bush2021/edge_installer?tab=readme-ov-file#stable win7and8 x86)
-* [stable win7and8 x64](https://github.com/Bush2021/edge_installer?tab=readme-ov-file#stable win7and8 x64)
-* [stable ARM64](https://github.com/Bush2021/edge_installer?tab=readme-ov-file#stable ARM64)
-* [stable win7and8 ARM64](https://github.com/Bush2021/edge_installer?tab=readme-ov-file#stable win7and8 ARM64)
-* [beta ARM64](https://github.com/Bush2021/edge_installer?tab=readme-ov-file#beta ARM64)
-* [dev ARM64](https://github.com/Bush2021/edge_installer?tab=readme-ov-file#dev ARM64)
-* [canary ARM64](https://github.com/Bush2021/edge_installer?tab=readme-ov-file#canary ARM64)
+* [stable x86](https://github.com/Bush2021/edge_installer?tab=readme-ov-file#stable-x86)
+* [stable x64](https://github.com/Bush2021/edge_installer?tab=readme-ov-file#stable-x64)
+* [beta x86](https://github.com/Bush2021/edge_installer?tab=readme-ov-file#beta-x86)
+* [beta x64](https://github.com/Bush2021/edge_installer?tab=readme-ov-file#beta-x64)
+* [dev x86](https://github.com/Bush2021/edge_installer?tab=readme-ov-file#dev-x86)
+* [dev x64](https://github.com/Bush2021/edge_installer?tab=readme-ov-file#dev-x64)
+* [canary x86](https://github.com/Bush2021/edge_installer?tab=readme-ov-file#canary-x86)
+* [canary x64](https://github.com/Bush2021/edge_installer?tab=readme-ov-file#canary-x64)
+* [stable win7and8 x86](https://github.com/Bush2021/edge_installer?tab=readme-ov-file#stable-win7and8-x86)
+* [stable win7and8 x64](https://github.com/Bush2021/edge_installer?tab=readme-ov-file#stable-win7and8-x64)
+* [stable ARM64](https://github.com/Bush2021/edge_installer?tab=readme-ov-file#stable-ARM64)
+* [stable win7and8 ARM64](https://github.com/Bush2021/edge_installer?tab=readme-ov-file#stable-win7and8-ARM64)
+* [beta ARM64](https://github.com/Bush2021/edge_installer?tab=readme-ov-file#beta-ARM64)
+* [dev ARM64](https://github.com/Bush2021/edge_installer?tab=readme-ov-file#dev-ARM64)
+* [canary ARM64](https://github.com/Bush2021/edge_installer?tab=readme-ov-file#canary-ARM64)
 
 ## stable x86
 **最新版本**：121.0.2277.128  
