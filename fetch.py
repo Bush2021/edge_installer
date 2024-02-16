@@ -167,7 +167,7 @@ def save_md():
         f.write(f'## 目录\n')
         for name in results.keys():
             title = name[7:].replace("win-", "").replace("-", " ")
-            link = index_url + title.replace(" ", "-")
+            link = index_url + title
             f.write(f'* [{title}]({link})\n')
         f.write('\n')
         for name, info in results.items():
