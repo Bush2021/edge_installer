@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-03-07 07:11:54 (UTC-5)
+2024-03-07 10:07:02 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a308eb3d-7ba0-4572-8c04-79c00ba06205?P1=1710375973&P2=404&P3=2&P4=jIQvQcpTp%2bWw%2fK7mUpWKP8Er8regBgRXWqk%2f5McRE55qqL98aya58INhNYgdVtqiTiFnWxXtE0Uzzmu11fogMw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a308eb3d-7ba0-4572-8c04-79c00ba06205?P1=1710375973&P2=404&P3=2&P4=jIQvQcpTp%2bWw%2fK7mUpWKP8Er8regBgRXWqk%2f5McRE55qqL98aya58INhNYgdVtqiTiFnWxXtE0Uzzmu11fogMw%3d%3d)  
 
 ## canary ARM64
-**最新版本**：124.0.2447.0  
-**文件大小**：160.09 MB  
-**文件名**：MicrosoftEdge_ARM64_124.0.2447.0.exe  
-**校验值（Sha256）**：07423c930c817897f19611dbb8aaa3dbe3ebc6b01b036d8c97acc9acac5ed073  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/664162f4-732e-46a3-9231-9de1e3a0813f?P1=1710375974&P2=404&P3=2&P4=XbpDqH2vl%2fPDNStlwcF2VmlMJb%2f92%2bTqkV%2bsrPUwtJcHCciX8XUOrU4m%2fqEWxteHe1Mbm01luZ7xdV0xokGNqw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/664162f4-732e-46a3-9231-9de1e3a0813f?P1=1710375974&P2=404&P3=2&P4=XbpDqH2vl%2fPDNStlwcF2VmlMJb%2f92%2bTqkV%2bsrPUwtJcHCciX8XUOrU4m%2fqEWxteHe1Mbm01luZ7xdV0xokGNqw%3d%3d)  
+**最新版本**：124.0.2448.0  
+**文件大小**：160.1 MB  
+**文件名**：MicrosoftEdge_ARM64_124.0.2448.0.exe  
+**校验值（Sha256）**：123dc90e424a7a3e06dd78b756923ee05d6c9c0059bb5ffa11ddd552cd712cfe  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f6953330-3cd7-464b-952e-c469c01fbc7c?P1=1710428823&P2=404&P3=2&P4=K%2fG%2fROZqPa4QXa2e9tyVErUsvPGOD%2bVbe9N3dnXQ79h2Rc2kdzushG1B%2bo08tL4xBzTGkkplI4JB%2fC8M%2bWAkpg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f6953330-3cd7-464b-952e-c469c01fbc7c?P1=1710428823&P2=404&P3=2&P4=K%2fG%2fROZqPa4QXa2e9tyVErUsvPGOD%2bVbe9N3dnXQ79h2Rc2kdzushG1B%2bo08tL4xBzTGkkplI4JB%2fC8M%2bWAkpg%3d%3d)  
 
