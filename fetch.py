@@ -113,7 +113,11 @@ def fetch():
     current_day = datetime.now().day
     for channel, appid in channels.items():
         for arch in ['x86', 'x64', 'ARM64']:
-            name, info = get_info(f'{appid}-{arch}')
+            info_result = get_info(f'{appid}-{arch}')
+            if info_result is not None:
+                name, info = info_result
+            else:
+                print("Error: Unable to get info for", f'{appid}-{arch}')
             if name not in results:
                 results[name] = info
             elif version_tuple(info['version']) > version_tuple(results[name]['version']):
