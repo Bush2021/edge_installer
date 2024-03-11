@@ -1,7 +1,7 @@
 import base64
 import binascii
+import datetime
 import json
-from datetime import datetime, timezone, timedelta
 
 import requests
 
@@ -15,8 +15,10 @@ channels = {
     'canary': 'msedge-canary-win',
 }
 
-check_version_url = 'https://msedge.api.cdp.microsoft.com/api/v2/contents/Browser/namespaces/Default/names/{0}/versions/latest?action=select'
-get_download_link_url = 'https://msedge.api.cdp.microsoft.com/api/v1.1/internal/contents/Browser/namespaces/Default/names/{0}/versions/{1}/files?action=GenerateDownloadInfo'
+check_version_url = ('https://msedge.api.cdp.microsoft.com/api/v2/contents/Browser/namespaces/Default/names/{'
+                     '0}/versions/latest?action=select')
+get_download_link_url = ('https://msedge.api.cdp.microsoft.com/api/v1.1/internal/contents/Browser/namespaces/Default'
+                         '/names/{0}/versions/{1}/files?action=GenerateDownloadInfo')
 
 results = {}
 
@@ -111,7 +113,11 @@ def fetch():
     current_day = datetime.now().day
     for channel, appid in channels.items():
         for arch in ['x86', 'x64', 'ARM64']:
-            name, info = get_info(f'{appid}-{arch}')
+            info_result = get_info(f'{appid}-{arch}')
+            if info_result is not None:
+                name, info = info_result
+            else:
+                print("Error: Unable to get info for", f'{appid}-{arch}')
             if name not in results:
                 results[name] = info
             elif version_tuple(info['version']) > version_tuple(results[name]['version']):
@@ -156,7 +162,7 @@ def save_md():
         f.write(f'# Microsoft Edge 离线安装包下载链接（请使用 7-Zip 解压）\n')
         f.write(f'稳定版存档：<https://github.com/Bush2021/edge_installer/releases>\n\n')
         f.write(f'最后检测更新时间\n')
-        now = datetime.now(timezone(timedelta(hours=-4)))
+        now = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=-4)))
         now_str = now.strftime("%Y-%m-%d %H:%M:%S (UTC-4)")
         f.write(f'{now_str}\n')
         f.write('\n')
@@ -194,4 +200,5 @@ def main():
     save_json()
 
 
-main()
+if __name__ == '__main__':
+    main()
