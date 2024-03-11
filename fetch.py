@@ -1,6 +1,6 @@
 import base64
 import binascii
-import datetime
+from datetime import datetime, timezone, timedelta
 import json
 
 import requests
@@ -162,7 +162,7 @@ def save_md():
         f.write(f'# Microsoft Edge 离线安装包下载链接（请使用 7-Zip 解压）\n')
         f.write(f'稳定版存档：<https://github.com/Bush2021/edge_installer/releases>\n\n')
         f.write(f'最后检测更新时间\n')
-        now = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=-4)))
+        now = datetime.now(timezone(timedelta(hours=-4)))
         now_str = now.strftime("%Y-%m-%d %H:%M:%S (UTC-4)")
         f.write(f'{now_str}\n')
         f.write('\n')
