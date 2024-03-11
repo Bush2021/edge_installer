@@ -15,8 +15,10 @@ channels = {
     'canary': 'msedge-canary-win',
 }
 
-check_version_url = 'https://msedge.api.cdp.microsoft.com/api/v2/contents/Browser/namespaces/Default/names/{0}/versions/latest?action=select'
-get_download_link_url = 'https://msedge.api.cdp.microsoft.com/api/v1.1/internal/contents/Browser/namespaces/Default/names/{0}/versions/{1}/files?action=GenerateDownloadInfo'
+check_version_url = ('https://msedge.api.cdp.microsoft.com/api/v2/contents/Browser/namespaces/Default/names/{'
+                     '0}/versions/latest?action=select')
+get_download_link_url = ('https://msedge.api.cdp.microsoft.com/api/v1.1/internal/contents/Browser/namespaces/Default'
+                         '/names/{0}/versions/{1}/files?action=GenerateDownloadInfo')
 
 results = {}
 
@@ -194,4 +196,5 @@ def main():
     save_json()
 
 
-main()
+if __name__ == '__main__':
+    main()
