@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-03-13 17:07:05 (UTC-4)
+2024-03-13 20:30:56 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/38ff54bd-28ed-4e0f-b1df-55cfa5ce9a55?P1=1710968824&P2=404&P3=2&P4=B%2fZUKDC0DhOHoP5n6RF6sfR5VedWnNmIGVGYSFAJ01HJlM29lihgW5fv5aW5bsWCnxBDdwjC%2ffMWIPJsBlyorw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/38ff54bd-28ed-4e0f-b1df-55cfa5ce9a55?P1=1710968824&P2=404&P3=2&P4=B%2fZUKDC0DhOHoP5n6RF6sfR5VedWnNmIGVGYSFAJ01HJlM29lihgW5fv5aW5bsWCnxBDdwjC%2ffMWIPJsBlyorw%3d%3d)  
 
 ## canary ARM64
-**最新版本**：124.0.2458.0  
-**文件大小**：160.35 MB  
-**文件名**：MicrosoftEdge_ARM64_124.0.2458.0.exe  
-**校验值（Sha256）**：4c11b0ae2ecd8a4d4b210ea99fb79355eb8bc64598c4b284ac248e39608a8226  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/21408f00-7c69-4321-a8a6-f1a087aa6098?P1=1710860814&P2=404&P3=2&P4=aAQO4saKPXl74a2nNAn2o%2bgmsliEd9NZUZpv5cd1Mg57%2fV0NUBlHGTzcd9UdOqIHRRUJGy1oAGRYTTVGGsKCsw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/21408f00-7c69-4321-a8a6-f1a087aa6098?P1=1710860814&P2=404&P3=2&P4=aAQO4saKPXl74a2nNAn2o%2bgmsliEd9NZUZpv5cd1Mg57%2fV0NUBlHGTzcd9UdOqIHRRUJGy1oAGRYTTVGGsKCsw%3d%3d)  
+**最新版本**：124.0.2461.0  
+**文件大小**：160.41 MB  
+**文件名**：MicrosoftEdge_ARM64_124.0.2461.0.exe  
+**校验值（Sha256）**：bc7caa64d4a82b8a110ca6e146f50de62c6efc7d23bab1ce9c84e2caf774578c  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/21efb25c-9442-42f7-b1df-bf27db5f42ac?P1=1710981057&P2=404&P3=2&P4=Lyal9hTgFO2Mo2Icb29dKjPqFkIs8CbjeyQD9E4n%2bJ9O46wZ%2fUFrYsyUpoWunH4NFLFmalSMq%2fXdgt6Dgd6a9Q%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/21efb25c-9442-42f7-b1df-bf27db5f42ac?P1=1710981057&P2=404&P3=2&P4=Lyal9hTgFO2Mo2Icb29dKjPqFkIs8CbjeyQD9E4n%2bJ9O46wZ%2fUFrYsyUpoWunH4NFLFmalSMq%2fXdgt6Dgd6a9Q%3d%3d)  
 
