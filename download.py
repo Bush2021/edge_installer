@@ -69,5 +69,5 @@ def download():
         return
 
 
-if __name__ == '__download__':
+if __name__ == '__main__':
     download()
