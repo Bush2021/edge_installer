@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-03-30 14:09:09 (UTC-4)
+2024-03-30 17:04:35 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f061e356-a50a-44c9-8948-55fdc0c1075f?P1=1712426949&P2=404&P3=2&P4=RtupXWj7tkVWa4GUPMXsUx6YYoohg5WafpT0jkPXLoizsDWXBtK9vILfRYH1edEHzOTQoyIKABQdC6jdkfjGDQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f061e356-a50a-44c9-8948-55fdc0c1075f?P1=1712426949&P2=404&P3=2&P4=RtupXWj7tkVWa4GUPMXsUx6YYoohg5WafpT0jkPXLoizsDWXBtK9vILfRYH1edEHzOTQoyIKABQdC6jdkfjGDQ%3d%3d)  
 
 ## canary ARM64
-**最新版本**：125.0.2493.0  
-**文件大小**：160.27 MB  
-**文件名**：MicrosoftEdge_ARM64_125.0.2493.0.exe  
-**校验值（Sha256）**：4cb49808980fd8b19c92116b3c34e5b2f1c3900f60cdab45d8e8e38437057225  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6d752089-b0d0-4c39-9495-d3fbbba6f955?P1=1712363444&P2=404&P3=2&P4=BrRBxXxVEbWDpJLJwT6KHJV4JMF654urh4dwAXDsBZ6v8fzyp5M1%2fZVFVE6aXKxVA9dFKuAMr%2faXiX7LErwD1Q%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6d752089-b0d0-4c39-9495-d3fbbba6f955?P1=1712363444&P2=404&P3=2&P4=BrRBxXxVEbWDpJLJwT6KHJV4JMF654urh4dwAXDsBZ6v8fzyp5M1%2fZVFVE6aXKxVA9dFKuAMr%2faXiX7LErwD1Q%3d%3d)  
+**最新版本**：125.0.2494.0  
+**文件大小**：160.31 MB  
+**文件名**：MicrosoftEdge_ARM64_125.0.2494.0.exe  
+**校验值（Sha256）**：8c489c1f5092346b3f8316a2e804fc5be776ba4c414ceb4f91d666bd50e7f4e5  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/41f967d0-89a3-471a-a13f-9df6601e6586?P1=1712437476&P2=404&P3=2&P4=P2XnGL4iLBC354tTP%2fmImH6NS3gebq1CxYTT188MrgZfOlkBK1dp%2fzFjufipKxCRfuNj3rWdtNgMADECSYSgbg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/41f967d0-89a3-471a-a13f-9df6601e6586?P1=1712437476&P2=404&P3=2&P4=P2XnGL4iLBC354tTP%2fmImH6NS3gebq1CxYTT188MrgZfOlkBK1dp%2fzFjufipKxCRfuNj3rWdtNgMADECSYSgbg%3d%3d)  
 
