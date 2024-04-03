@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-04-02 20:31:39 (UTC-4)
+2024-04-02 23:08:43 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/66c6a597-758c-4c20-be48-2a5ecf3addb2?P1=1712709099&P2=404&P3=2&P4=OvuZ8WSOebL19hcjEe5W4FfFIY7fP7GTl9utEM7FsuZf3o6YJ7Dg5PWk8swptI0cvSnAqk0n9TPbCQ%2fMKInJSA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/66c6a597-758c-4c20-be48-2a5ecf3addb2?P1=1712709099&P2=404&P3=2&P4=OvuZ8WSOebL19hcjEe5W4FfFIY7fP7GTl9utEM7FsuZf3o6YJ7Dg5PWk8swptI0cvSnAqk0n9TPbCQ%2fMKInJSA%3d%3d)  
 
 ## canary ARM64
-**最新版本**：125.0.2500.0  
-**文件大小**：160.72 MB  
-**文件名**：MicrosoftEdge_ARM64_125.0.2500.0.exe  
-**校验值（Sha256）**：9aeeada1011d2eb360223612e321ddc8156209a7519a742fa0f1c4db946d6eef  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/479e0d5c-d941-40b3-aa03-9bd0d5ac16a5?P1=1712696771&P2=404&P3=2&P4=YtHNl8C3ZTzhsGV633%2fHITfuSNAHWksOvZ%2bJrU3wZixGt%2bUJlaWegDeaR5ZcV7fS%2bfbU0heHXGKWOkNPBEgBxA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/479e0d5c-d941-40b3-aa03-9bd0d5ac16a5?P1=1712696771&P2=404&P3=2&P4=YtHNl8C3ZTzhsGV633%2fHITfuSNAHWksOvZ%2bJrU3wZixGt%2bUJlaWegDeaR5ZcV7fS%2bfbU0heHXGKWOkNPBEgBxA%3d%3d)  
+**最新版本**：125.0.2501.0  
+**文件大小**：160.88 MB  
+**文件名**：MicrosoftEdge_ARM64_125.0.2501.0.exe  
+**校验值（Sha256）**：74cf00d43189bd8b246fb54439d9ea07e38e7d709868318b967e38bce43417e2  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f019f588-ad19-418f-a4eb-e21b4007023c?P1=1712718524&P2=404&P3=2&P4=as3K8bpmlvDAazzxTXE5bGVek1lvNc6cAPwIqIMn2jwTEvyA%2f7zzaJ0tnsTiUKqGFTqWTijE7YIlnUxQihAnBQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f019f588-ad19-418f-a4eb-e21b4007023c?P1=1712718524&P2=404&P3=2&P4=as3K8bpmlvDAazzxTXE5bGVek1lvNc6cAPwIqIMn2jwTEvyA%2f7zzaJ0tnsTiUKqGFTqWTijE7YIlnUxQihAnBQ%3d%3d)  
 
