@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-04-03 17:06:57 (UTC-4)
+2024-04-03 20:33:00 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/66c6a597-758c-4c20-be48-2a5ecf3addb2?P1=1712709099&P2=404&P3=2&P4=OvuZ8WSOebL19hcjEe5W4FfFIY7fP7GTl9utEM7FsuZf3o6YJ7Dg5PWk8swptI0cvSnAqk0n9TPbCQ%2fMKInJSA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/66c6a597-758c-4c20-be48-2a5ecf3addb2?P1=1712709099&P2=404&P3=2&P4=OvuZ8WSOebL19hcjEe5W4FfFIY7fP7GTl9utEM7FsuZf3o6YJ7Dg5PWk8swptI0cvSnAqk0n9TPbCQ%2fMKInJSA%3d%3d)  
 
 ## canary ARM64
-**最新版本**：125.0.2501.0  
-**文件大小**：160.88 MB  
-**文件名**：MicrosoftEdge_ARM64_125.0.2501.0.exe  
-**校验值（Sha256）**：74cf00d43189bd8b246fb54439d9ea07e38e7d709868318b967e38bce43417e2  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f019f588-ad19-418f-a4eb-e21b4007023c?P1=1712718524&P2=404&P3=2&P4=as3K8bpmlvDAazzxTXE5bGVek1lvNc6cAPwIqIMn2jwTEvyA%2f7zzaJ0tnsTiUKqGFTqWTijE7YIlnUxQihAnBQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f019f588-ad19-418f-a4eb-e21b4007023c?P1=1712718524&P2=404&P3=2&P4=as3K8bpmlvDAazzxTXE5bGVek1lvNc6cAPwIqIMn2jwTEvyA%2f7zzaJ0tnsTiUKqGFTqWTijE7YIlnUxQihAnBQ%3d%3d)  
+**最新版本**：125.0.2503.0  
+**文件大小**：160.87 MB  
+**文件名**：MicrosoftEdge_ARM64_125.0.2503.0.exe  
+**校验值（Sha256）**：eedc82b2c06734fd0c61399684bca78e14055daf6c4cd9597702f3a4c4925f7c  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/96365a91-0588-4413-b3bc-9762e96e9008?P1=1712795580&P2=404&P3=2&P4=WT%2fNmtDxuP%2bREyP2dlKYADS2tDDU%2fzRpZ79LZRjJTmBSVi%2bJQufAK7j0H1aCj4%2b16Ec%2fw6MNf5GMNRx6MpzoTA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/96365a91-0588-4413-b3bc-9762e96e9008?P1=1712795580&P2=404&P3=2&P4=WT%2fNmtDxuP%2bREyP2dlKYADS2tDDU%2fzRpZ79LZRjJTmBSVi%2bJQufAK7j0H1aCj4%2b16Ec%2fw6MNf5GMNRx6MpzoTA%3d%3d)  
 
