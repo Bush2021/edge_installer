@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-04-15 18:08:40 (UTC-4)
+2024-04-15 19:09:44 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a93db657-78e7-47b0-af81-443ba4949842?P1=1713791504&P2=404&P3=2&P4=DYW3YsDeSEQxhmjkqf3S9Ckc1uyLaOCvvflrfZh%2fT%2f05ZFZJIcncvvWeNRbXmgE9Xwzlis1NvDCZZDbSeLHIdg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a93db657-78e7-47b0-af81-443ba4949842?P1=1713791504&P2=404&P3=2&P4=DYW3YsDeSEQxhmjkqf3S9Ckc1uyLaOCvvflrfZh%2fT%2f05ZFZJIcncvvWeNRbXmgE9Xwzlis1NvDCZZDbSeLHIdg%3d%3d)  
 
 ## canary ARM64
-**最新版本**：125.0.2525.0  
-**文件大小**：161.46 MB  
-**文件名**：MicrosoftEdge_ARM64_125.0.2525.0.exe  
-**校验值（Sha256）**：875106cf90c0d126262c5eecf51a0de4f5f94e748ff62fa1efac1fb5c535f601  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/51d91396-3301-40f8-918c-61b41989ff24?P1=1713794948&P2=404&P3=2&P4=BK246zFa9ZjwtAyt8PMmsL9%2bh9Fw07PUy63ru3zT2yIzZj7UycdEW3Tpvlrvv52zQVGm7177L3Ej3Hxlp9PwWA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/51d91396-3301-40f8-918c-61b41989ff24?P1=1713794948&P2=404&P3=2&P4=BK246zFa9ZjwtAyt8PMmsL9%2bh9Fw07PUy63ru3zT2yIzZj7UycdEW3Tpvlrvv52zQVGm7177L3Ej3Hxlp9PwWA%3d%3d)  
+**最新版本**：125.0.2526.0  
+**文件大小**：161.5 MB  
+**文件名**：MicrosoftEdge_ARM64_125.0.2526.0.exe  
+**校验值（Sha256）**：7b3173987f5ff40f7f94223195255a80580904fcd987a3a5d7a1b23518a56834  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/aacb6a2f-6063-489d-acd3-fd042b9a8185?P1=1713827385&P2=404&P3=2&P4=Gl0Vefsbhu9YCzMv5Ca%2fqyQei41i1o1nR%2bQSCgjZA6CRCpl5qvTYdoZ7njVHOVAuExr3Lj%2bDOy7f2H6xuDK4ng%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/aacb6a2f-6063-489d-acd3-fd042b9a8185?P1=1713827385&P2=404&P3=2&P4=Gl0Vefsbhu9YCzMv5Ca%2fqyQei41i1o1nR%2bQSCgjZA6CRCpl5qvTYdoZ7njVHOVAuExr3Lj%2bDOy7f2H6xuDK4ng%3d%3d)  
 
