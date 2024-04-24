@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-04-24 09:16:45 (UTC-4)
+2024-04-24 10:10:44 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3362a0c5-12b6-4476-913f-b19ace9eba24?P1=1714524248&P2=404&P3=2&P4=mWDIgi%2beViPLA420LSYqEJztseNXodCca8vzKvmU1H6zg9EMa93HHgxBKGomGG3j5X7MwBSztRaIdTL8UIiUjQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3362a0c5-12b6-4476-913f-b19ace9eba24?P1=1714524248&P2=404&P3=2&P4=mWDIgi%2beViPLA420LSYqEJztseNXodCca8vzKvmU1H6zg9EMa93HHgxBKGomGG3j5X7MwBSztRaIdTL8UIiUjQ%3d%3d)  
 
 ## canary ARM64
-**最新版本**：126.0.2543.0  
-**文件大小**：161.46 MB  
-**文件名**：MicrosoftEdge_ARM64_126.0.2543.0.exe  
-**校验值（Sha256）**：029140c9bda45c15f2a065cb36d55ae6d8039aa6644da696ee3dab539c24586e  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0ed7bdfd-44c7-4e66-bdd6-7fc04cb4f673?P1=1714518567&P2=404&P3=2&P4=FYGTBWR44Yr0E3Hnx2jZFXBB3cPYzrAsxAYKPBd35jFPugOdLcrRiV%2fKS3a8BmF%2bfGz4qllEgqSeGpaVdWgrmQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0ed7bdfd-44c7-4e66-bdd6-7fc04cb4f673?P1=1714518567&P2=404&P3=2&P4=FYGTBWR44Yr0E3Hnx2jZFXBB3cPYzrAsxAYKPBd35jFPugOdLcrRiV%2fKS3a8BmF%2bfGz4qllEgqSeGpaVdWgrmQ%3d%3d)  
+**最新版本**：126.0.2544.0  
+**文件大小**：161.56 MB  
+**文件名**：MicrosoftEdge_ARM64_126.0.2544.0.exe  
+**校验值（Sha256）**：1db7ac5caeb089f38025a4e431001d1d2b9376688127a859360feb6b10782742  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/66926021-cf03-48a7-a9bd-78d3d1c64095?P1=1714572645&P2=404&P3=2&P4=lTk%2b09v4p2eXKW5%2fXYf%2b3UZQ9STk1yiaU6BG6wqQ9%2baU%2bGqAzF5WnGL7oAgCc5upWNzElood61jy5pGsSGVVSQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/66926021-cf03-48a7-a9bd-78d3d1c64095?P1=1714572645&P2=404&P3=2&P4=lTk%2b09v4p2eXKW5%2fXYf%2b3UZQ9STk1yiaU6BG6wqQ9%2baU%2bGqAzF5WnGL7oAgCc5upWNzElood61jy5pGsSGVVSQ%3d%3d)  
 
