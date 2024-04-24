@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-04-23 19:09:27 (UTC-4)
+2024-04-23 20:44:08 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -117,11 +117,11 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d044dbd8-9865-4cf5-a0cc-1ce9eb0693b5?P1=1714518566&P2=404&P3=2&P4=LEP%2fij2R1dUKVeDCCJ9IJbCHP7c4fRa0LSfqZ52u3OfjVg0ql9WLH3YWdW0jg2AgbRWZAEvvYKwnulIJid6CDg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d044dbd8-9865-4cf5-a0cc-1ce9eb0693b5?P1=1714518566&P2=404&P3=2&P4=LEP%2fij2R1dUKVeDCCJ9IJbCHP7c4fRa0LSfqZ52u3OfjVg0ql9WLH3YWdW0jg2AgbRWZAEvvYKwnulIJid6CDg%3d%3d)  
 
 ## canary x64
-**最新版本**：126.0.2542.0  
+**最新版本**：126.0.2543.0  
 **文件大小**：165.1 MB  
-**文件名**：MicrosoftEdge_X64_126.0.2542.0.exe  
-**校验值（Sha256）**：40e5f5d74838cd40315746e278887ef436ea3485033e16deedcd5c96cdaf8fa5  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2c729f0c-ec39-44f9-b50e-691dc3e1d58f?P1=1714504077&P2=404&P3=2&P4=HUZGHx2fi7DHuVY7kxQ2cgoqkVnyNS1tu2eKH%2fC7jiLFGIt9gjbJHiDERRd0t0V0DqifsoafTYhfl8epqTy5UQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2c729f0c-ec39-44f9-b50e-691dc3e1d58f?P1=1714504077&P2=404&P3=2&P4=HUZGHx2fi7DHuVY7kxQ2cgoqkVnyNS1tu2eKH%2fC7jiLFGIt9gjbJHiDERRd0t0V0DqifsoafTYhfl8epqTy5UQ%3d%3d)  
+**文件名**：MicrosoftEdge_X64_126.0.2543.0.exe  
+**校验值（Sha256）**：f10234456a66e9a97ce7ca7fa730a0df8e69f74d6d55ec974ae2696bd5e7045f  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3362a0c5-12b6-4476-913f-b19ace9eba24?P1=1714524248&P2=404&P3=2&P4=mWDIgi%2beViPLA420LSYqEJztseNXodCca8vzKvmU1H6zg9EMa93HHgxBKGomGG3j5X7MwBSztRaIdTL8UIiUjQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3362a0c5-12b6-4476-913f-b19ace9eba24?P1=1714524248&P2=404&P3=2&P4=mWDIgi%2beViPLA420LSYqEJztseNXodCca8vzKvmU1H6zg9EMa93HHgxBKGomGG3j5X7MwBSztRaIdTL8UIiUjQ%3d%3d)  
 
 ## canary ARM64
 **最新版本**：126.0.2543.0  
