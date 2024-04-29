@@ -104,19 +104,19 @@
         "version": "126.0.2556.0"
     },
     "msedge-canary-win-x64": {
-        "\u6587\u4ef6\u540d": "MicrosoftEdge_X64_126.0.2552.0.exe",
-        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/35f9dbf7-24b6-4412-9898-7edf49fc1753?P1=1714950546&P2=404&P3=2&P4=VQXRIaH4PYFRX9dr0k%2fuoEK0E7kuwdtFVjNkqFkTSSxRSlV59Ko7TBdjMpf%2f%2bQjNekev%2fDljx5YfkubO8ze1Ew%3d%3d",
-        "\u5b57\u8282\u5927\u5c0f": 172744768,
-        "Sha1": "DoWVm5yEeC9R+giB3b22kd+ohsw=",
-        "Sha256": "be998176f0002644b8bd1135945be1027b18062e17f286f996a64244382d5568",
-        "version": "126.0.2552.0"
+        "\u6587\u4ef6\u540d": "MicrosoftEdge_X64_126.0.2556.0.exe",
+        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0ab7711a-a3b2-43f1-9dfd-3046bb042bfd?P1=1715008222&P2=404&P3=2&P4=OfhZYKYuFhC2ElwYMZ3mimXx1pIuVtTKOz8MnsuZfE1mkMBamW1tGE9H6sEtWlX1td9jnIhTicuBYzJ1%2fm%2bDlg%3d%3d",
+        "\u5b57\u8282\u5927\u5c0f": 173294536,
+        "Sha1": "ACAxhuGWIADsw4e7URpeUxL/lgs=",
+        "Sha256": "951ee154ef23248acc7cd9cb47f31fca712c01554cd77780c275276812db04b8",
+        "version": "126.0.2556.0"
     },
     "msedge-canary-win-ARM64": {
-        "\u6587\u4ef6\u540d": "MicrosoftEdge_ARM64_126.0.2552.0.exe",
-        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5674026d-d725-430b-b563-733964d8d328?P1=1714950546&P2=404&P3=2&P4=QjQCrC%2bsnTiJ2L%2bovSvilvsj15py0MGYqu0PHbg08nv3of%2fjAJfzYvFp7olXw%2bocUpFAhsmrDIDi1o2twco1vA%3d%3d",
-        "\u5b57\u8282\u5927\u5c0f": 169635904,
-        "Sha1": "AQZtejzJ/9Xjo7Jer4KujzQgcd0=",
-        "Sha256": "d3aa46da902a9591dd6e4a23eb957ba12ad9ae205049d3ee9739c212f132d93b",
-        "version": "126.0.2552.0"
+        "\u6587\u4ef6\u540d": "MicrosoftEdge_ARM64_126.0.2556.0.exe",
+        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/122aecfe-a2fb-431e-85fc-660790ffd41d?P1=1715008223&P2=404&P3=2&P4=Zjb3QiLI1cR64jveI3DoEqWrpse5Xn5QS8Q3IS3wsqH1Nawy5z%2fGCIqQiKaa6g7vc5cvy9tUA5pZCMGf%2fdShJw%3d%3d",
+        "\u5b57\u8282\u5927\u5c0f": 169239608,
+        "Sha1": "/CxC79qsaG6wQ9Wk8pRnp7LrPYc=",
+        "Sha256": "6120adceb4809c8160f581dc2b075efc242e309a44911be0697ace4afe651506",
+        "version": "126.0.2556.0"
     }
 }
