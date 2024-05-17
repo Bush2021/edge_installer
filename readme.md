@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-05-16 20:46:37 (UTC-4)
+2024-05-16 21:52:02 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -54,11 +54,11 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/284e51d6-1a75-4188-8093-f0362e297de6?P1=1716511588&P2=404&P3=2&P4=FdHCQJE3ofeDSXvbjfVXW%2fBLjMpiHrXOWUiFadIR0kCW%2b0oIIqnC4zwSj3xwJu5ZcuDv%2fBrewIIWlbI0d2HoJg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/284e51d6-1a75-4188-8093-f0362e297de6?P1=1716511588&P2=404&P3=2&P4=FdHCQJE3ofeDSXvbjfVXW%2fBLjMpiHrXOWUiFadIR0kCW%2b0oIIqnC4zwSj3xwJu5ZcuDv%2fBrewIIWlbI0d2HoJg%3d%3d)  
 
 ## stable x64
-**最新版本**：124.0.2478.105  
+**最新版本**：124.0.2478.109  
 **文件大小**：164.8 MB  
-**文件名**：MicrosoftEdge_X64_124.0.2478.105.exe  
-**校验值（Sha256）**：392deb2d4ef9bcd82139741697dd54c482b853556883c4b27d0f070c8173ce30  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4add1aed-47b8-408c-9f04-330efbc60e39?P1=1716318475&P2=404&P3=2&P4=D3cPJKtZLtPuG6k4%2b1Esq9gJwpsn%2bVf5de0L2IMq0NuLEPgpxRvRgLIeocYMr6Y8cxLSF0Y%2bdwQHiJSyO5aOkQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4add1aed-47b8-408c-9f04-330efbc60e39?P1=1716318475&P2=404&P3=2&P4=D3cPJKtZLtPuG6k4%2b1Esq9gJwpsn%2bVf5de0L2IMq0NuLEPgpxRvRgLIeocYMr6Y8cxLSF0Y%2bdwQHiJSyO5aOkQ%3d%3d)  
+**文件名**：MicrosoftEdge_X64_124.0.2478.109.exe  
+**校验值（Sha256）**：6914a2775ef7c44d77eb1cf7f392afc28991ae5031a9587392182311797c72f5  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6e4491fe-3410-4861-9b53-a1462c5f099b?P1=1716515520&P2=404&P3=2&P4=A8XjXoakjo3m3PoO5IjL%2bWWxtMHrlQJURwGyXtu293XIVw6tY3DaM%2b0YDlq7JD9PX3pf9Ie3JwaJreX54YZjtw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6e4491fe-3410-4861-9b53-a1462c5f099b?P1=1716515520&P2=404&P3=2&P4=A8XjXoakjo3m3PoO5IjL%2bWWxtMHrlQJURwGyXtu293XIVw6tY3DaM%2b0YDlq7JD9PX3pf9Ie3JwaJreX54YZjtw%3d%3d)  
 
 ## stable ARM64
 **最新版本**：124.0.2478.109  
