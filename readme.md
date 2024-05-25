@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-05-25 10:08:54 (UTC-4)
+2024-05-25 11:09:30 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f824210e-d979-4316-914d-e566199126fd?P1=1717029998&P2=404&P3=2&P4=RzT3WPjhhNhySu1RsoR9XKjxWHWSNrTf4UwNUaBFrbx3fBqaVvt5V34f6%2fG1nq23uRC5W9No%2bSVJoSJyZHeqfw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f824210e-d979-4316-914d-e566199126fd?P1=1717029998&P2=404&P3=2&P4=RzT3WPjhhNhySu1RsoR9XKjxWHWSNrTf4UwNUaBFrbx3fBqaVvt5V34f6%2fG1nq23uRC5W9No%2bSVJoSJyZHeqfw%3d%3d)  
 
 ## canary ARM64
-**最新版本**：127.0.2604.0  
-**文件大小**：166.31 MB  
-**文件名**：MicrosoftEdge_ARM64_127.0.2604.0.exe  
-**校验值（Sha256）**：5803affaccc3229eff8eea93a8d5883633caaa7f38713ad5d6f9c65625b5326b  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/034430b1-4572-4383-9beb-7dbbd377ba6c?P1=1717029998&P2=404&P3=2&P4=n4bEeClo%2bEYkbN2oAwoEw21cGUjpukxsH3VRAIU3CaXn3FUHOBh6EZlKE6NpzBNiRUqvOErH%2fRXY9Aihp9Q6yw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/034430b1-4572-4383-9beb-7dbbd377ba6c?P1=1717029998&P2=404&P3=2&P4=n4bEeClo%2bEYkbN2oAwoEw21cGUjpukxsH3VRAIU3CaXn3FUHOBh6EZlKE6NpzBNiRUqvOErH%2fRXY9Aihp9Q6yw%3d%3d)  
+**最新版本**：128.0.2610.0  
+**文件大小**：166.57 MB  
+**文件名**：MicrosoftEdge_ARM64_128.0.2610.0.exe  
+**校验值（Sha256）**：ec545964c0bbed2ce2bb474cf6b0d9a539a4ac815d8eeff0e5075778c57ad3c5  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7477a263-1806-4a10-adb6-cb0734fd4474?P1=1717254570&P2=404&P3=2&P4=KIalYZ%2fYBG3B2HtpOyUp9D5zxBKXKSlG6mX3HtA9RgQnAO6HTMGVfrMJXXXDs%2fO6Qwe9QGJ3PN%2bMlQEWI6Xp4g%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7477a263-1806-4a10-adb6-cb0734fd4474?P1=1717254570&P2=404&P3=2&P4=KIalYZ%2fYBG3B2HtpOyUp9D5zxBKXKSlG6mX3HtA9RgQnAO6HTMGVfrMJXXXDs%2fO6Qwe9QGJ3PN%2bMlQEWI6Xp4g%3d%3d)  
 
