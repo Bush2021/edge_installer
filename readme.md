@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-05-29 19:10:24 (UTC-4)
+2024-05-29 20:47:45 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/46e117f1-3af0-43bf-bb07-a75effbef263?P1=1717629024&P2=404&P3=2&P4=jKnfhEhJOkhisw1TV45wJwxaMNrTkt3pIHLjazA%2f7uA8%2fx5Pasr1XTKwZKvMtsc0VJYu91ie2oRajVUuEd0hqw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/46e117f1-3af0-43bf-bb07-a75effbef263?P1=1717629024&P2=404&P3=2&P4=jKnfhEhJOkhisw1TV45wJwxaMNrTkt3pIHLjazA%2f7uA8%2fx5Pasr1XTKwZKvMtsc0VJYu91ie2oRajVUuEd0hqw%3d%3d)  
 
 ## canary ARM64
-**最新版本**：128.0.2618.0  
-**文件大小**：166.37 MB  
-**文件名**：MicrosoftEdge_ARM64_128.0.2618.0.exe  
-**校验值（Sha256）**：459aa01d449b0619865508b358667a431baab946681e07970ac38070140d4a25  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2232adb0-6f9b-43f1-96dd-21194a1c9495?P1=1717618280&P2=404&P3=2&P4=LBC1EkOYgWNnypsgSI1cvSQZC2V8wfphHgjfqEsrEC%2bD%2bneHHRQ56yCDDRhXJ9jvco0vfaHZlSO%2ftltzKJdCnw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2232adb0-6f9b-43f1-96dd-21194a1c9495?P1=1717618280&P2=404&P3=2&P4=LBC1EkOYgWNnypsgSI1cvSQZC2V8wfphHgjfqEsrEC%2bD%2bneHHRQ56yCDDRhXJ9jvco0vfaHZlSO%2ftltzKJdCnw%3d%3d)  
+**最新版本**：128.0.2619.0  
+**文件大小**：166.39 MB  
+**文件名**：MicrosoftEdge_ARM64_128.0.2619.0.exe  
+**校验值（Sha256）**：4595d6b2c8343ec87744023e588a3f8bc03538b043a937d43981e20d5ae6e29d  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4ecf4323-b128-47d0-b301-f2b4e3026b06?P1=1717634866&P2=404&P3=2&P4=G8NJo5%2fvR7L4SDX0t3Lrsx%2fr8iG0t4SlWSdvKWOoRpVtzcEX%2bhQ6bFA69fBYItjMjx%2bs5GxMYeQjcr2ZZVqzEg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4ecf4323-b128-47d0-b301-f2b4e3026b06?P1=1717634866&P2=404&P3=2&P4=G8NJo5%2fvR7L4SDX0t3Lrsx%2fr8iG0t4SlWSdvKWOoRpVtzcEX%2bhQ6bFA69fBYItjMjx%2bs5GxMYeQjcr2ZZVqzEg%3d%3d)  
 
