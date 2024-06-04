@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-06-04 13:09:37 (UTC-4)
+2024-06-04 14:13:48 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b76d0051-31b0-4555-830e-596fcb53fe90?P1=1718122409&P2=404&P3=2&P4=D%2f2GaAQnGoJuBYFCBqo7gXFV0fAT83wIEfHgyRqdkUJFEnul0t1rBjK11Ilp3xJPYJ6DaXZeMhzcDiuWH9xqbw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b76d0051-31b0-4555-830e-596fcb53fe90?P1=1718122409&P2=404&P3=2&P4=D%2f2GaAQnGoJuBYFCBqo7gXFV0fAT83wIEfHgyRqdkUJFEnul0t1rBjK11Ilp3xJPYJ6DaXZeMhzcDiuWH9xqbw%3d%3d)  
 
 ## canary ARM64
-**最新版本**：128.0.2629.0  
-**文件大小**：166.34 MB  
-**文件名**：MicrosoftEdge_ARM64_128.0.2629.0.exe  
-**校验值（Sha256）**：92e3ed5e304d63ce7f413bbdbfcaaac5dc191972a71dc9dc2621d0c5b6eeeae9  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1503204c-88e6-4518-9075-54f96038ecf4?P1=1718093639&P2=404&P3=2&P4=hh4rCe%2f1KH4lcZ%2fmXG2uwPTvjjCqhe8%2f3hct0cJ%2bcGqZo40JPLwhdEF8eNikREpn1asgK6KxjMvUnCfBtsh2Vw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1503204c-88e6-4518-9075-54f96038ecf4?P1=1718093639&P2=404&P3=2&P4=hh4rCe%2f1KH4lcZ%2fmXG2uwPTvjjCqhe8%2f3hct0cJ%2bcGqZo40JPLwhdEF8eNikREpn1asgK6KxjMvUnCfBtsh2Vw%3d%3d)  
+**最新版本**：128.0.2630.0  
+**文件大小**：166.36 MB  
+**文件名**：MicrosoftEdge_ARM64_128.0.2630.0.exe  
+**校验值（Sha256）**：367e6d87a0df8b27128ad155724ce60823e3e87efa344f2e4d54a2ee1bfc1084  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/028bd2d7-94c5-4d02-a2c5-00cdbeeda541?P1=1718129629&P2=404&P3=2&P4=FRMq41MgHfpbOoJyaq%2b%2bde%2fFY9mLIzhfegVXYPZgfIcr9vHKfalg3nkjT8WkpKuqbkyI8gAHUaICFCEcEtCCbQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/028bd2d7-94c5-4d02-a2c5-00cdbeeda541?P1=1718129629&P2=404&P3=2&P4=FRMq41MgHfpbOoJyaq%2b%2bde%2fFY9mLIzhfegVXYPZgfIcr9vHKfalg3nkjT8WkpKuqbkyI8gAHUaICFCEcEtCCbQ%3d%3d)  
 
