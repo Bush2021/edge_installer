@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-06-05 13:09:37 (UTC-4)
+2024-06-05 14:13:20 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/49a399af-4fe1-41ad-9bc4-bcec99902f8f?P1=1718205050&P2=404&P3=2&P4=Yr3g%2bM7siViNCFTqEEqbqisONHLa1z5GqD53x2Jq5BQadT%2bsekC2%2bi1ofiTNbB890mi8FbHEod%2fc05WPfyzgTQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/49a399af-4fe1-41ad-9bc4-bcec99902f8f?P1=1718205050&P2=404&P3=2&P4=Yr3g%2bM7siViNCFTqEEqbqisONHLa1z5GqD53x2Jq5BQadT%2bsekC2%2bi1ofiTNbB890mi8FbHEod%2fc05WPfyzgTQ%3d%3d)  
 
 ## canary ARM64
-**最新版本**：128.0.2631.0  
-**文件大小**：166.43 MB  
-**文件名**：MicrosoftEdge_ARM64_128.0.2631.0.exe  
-**校验值（Sha256）**：d0f6ce764667ef7dce5379dc288ae55c9b08e545ab26757c85c7ec394884b760  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/274278c7-cc65-4760-8399-f986e707f8ab?P1=1718157322&P2=404&P3=2&P4=SRlFb4y28BO2%2bca60DGWLzGePps0FCrGqLelu9EHzptvUUSCHyvyBU%2fnSw83DC5ZATToHJtkSeytjlk0XnXyBg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/274278c7-cc65-4760-8399-f986e707f8ab?P1=1718157322&P2=404&P3=2&P4=SRlFb4y28BO2%2bca60DGWLzGePps0FCrGqLelu9EHzptvUUSCHyvyBU%2fnSw83DC5ZATToHJtkSeytjlk0XnXyBg%3d%3d)  
+**最新版本**：128.0.2632.0  
+**文件大小**：166.46 MB  
+**文件名**：MicrosoftEdge_ARM64_128.0.2632.0.exe  
+**校验值（Sha256）**：1a2e7bf6348bf7aff5a26c9a9ffc2bc7b56904fa450dd9cb67bd17b5e62e55b9  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/46c1490d-a740-482b-86e4-ebbabe5c8e29?P1=1718216000&P2=404&P3=2&P4=kdSpb%2fTAml8QiJItiEoNe9EXM%2ffItYTaOhHPceWHGNq1ISTaUoGlS4IKjjWxix1qMpkgFPP70ftBkLeM90g6Fg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/46c1490d-a740-482b-86e4-ebbabe5c8e29?P1=1718216000&P2=404&P3=2&P4=kdSpb%2fTAml8QiJItiEoNe9EXM%2ffItYTaOhHPceWHGNq1ISTaUoGlS4IKjjWxix1qMpkgFPP70ftBkLeM90g6Fg%3d%3d)  
 
