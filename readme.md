@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-06-10 17:10:56 (UTC-4)
+2024-06-10 18:11:35 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3e718463-9d1f-4131-a505-c71bee07f8af?P1=1718633522&P2=404&P3=2&P4=e89kcohtXxwHMLSbjPaaJ%2bxn9WSGXril40yxph7cDfoZfWHJv6QNtzt5sSaJLVm%2fJEA7IeyXd930TDoSQ5KRiQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3e718463-9d1f-4131-a505-c71bee07f8af?P1=1718633522&P2=404&P3=2&P4=e89kcohtXxwHMLSbjPaaJ%2bxn9WSGXril40yxph7cDfoZfWHJv6QNtzt5sSaJLVm%2fJEA7IeyXd930TDoSQ5KRiQ%3d%3d)  
 
 ## canary ARM64
-**最新版本**：128.0.2642.0  
-**文件大小**：166.17 MB  
-**文件名**：MicrosoftEdge_ARM64_128.0.2642.0.exe  
-**校验值（Sha256）**：395dd972d4e087fdce23a3e1e92639ed3d7c588c99d870433a9e0924ad20da90  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/56764947-90a9-4a12-967f-47fa40052e5e?P1=1718633524&P2=404&P3=2&P4=FoSYKiLY42Qgd24HowSZ0AJcP2pHpS9i3bsGF0l5anWDe2iVXaWneZLeDWMF6LHmGi1GzQkCXCjFbvO2WahFig%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/56764947-90a9-4a12-967f-47fa40052e5e?P1=1718633524&P2=404&P3=2&P4=FoSYKiLY42Qgd24HowSZ0AJcP2pHpS9i3bsGF0l5anWDe2iVXaWneZLeDWMF6LHmGi1GzQkCXCjFbvO2WahFig%3d%3d)  
+**最新版本**：128.0.2643.0  
+**文件大小**：166.16 MB  
+**文件名**：MicrosoftEdge_ARM64_128.0.2643.0.exe  
+**校验值（Sha256）**：dd931f60c9b417f3596f06819b0165e44216a2f74edc475c5450347aeadcaed2  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/894c7840-220b-43d5-b846-870cc0ab357a?P1=1718662295&P2=404&P3=2&P4=N1a2OGoKXhDfdjGkLEgxhjRgsGIlEMqFV5f7V1eCTTj43IYxOWqb%2f7GYO9mfYtg9M18qWc9b0h%2fj1ur128zXug%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/894c7840-220b-43d5-b846-870cc0ab357a?P1=1718662295&P2=404&P3=2&P4=N1a2OGoKXhDfdjGkLEgxhjRgsGIlEMqFV5f7V1eCTTj43IYxOWqb%2f7GYO9mfYtg9M18qWc9b0h%2fj1ur128zXug%3d%3d)  
 
