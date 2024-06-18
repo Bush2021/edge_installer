@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-06-18 09:13:19 (UTC-4)
+2024-06-18 10:09:58 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9c61660c-e16f-4614-8a2c-468ac9fa9e8f?P1=1719076186&P2=404&P3=2&P4=XUNrty076KxKiApvR0qY5flPOwXY0iTzLGfd0lTpLUlDz3VRxgPwMceMw3pwjZpfBqauVSZrLMTS39aj4erCcw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9c61660c-e16f-4614-8a2c-468ac9fa9e8f?P1=1719076186&P2=404&P3=2&P4=XUNrty076KxKiApvR0qY5flPOwXY0iTzLGfd0lTpLUlDz3VRxgPwMceMw3pwjZpfBqauVSZrLMTS39aj4erCcw%3d%3d)  
 
 ## canary ARM64
-**最新版本**：128.0.2653.0  
-**文件大小**：165.31 MB  
-**文件名**：MicrosoftEdge_ARM64_128.0.2653.0.exe  
-**校验值（Sha256）**：b2f4f6e6ab1d7c026a62046c78f71bc55cc8f6a56ab9d7e68ac674fbe923d4ab  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f52e8b33-b6ff-49ff-a454-66ca1394a360?P1=1719076187&P2=404&P3=2&P4=Toc%2bNLdLyFQmMvKACGmMfCI%2bDBIYCbZJG%2f1ktWTQ6gwgJkoeKl68CAERN%2fhZfMA7ZQh%2fiTq1pd7nkIs1illHTA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f52e8b33-b6ff-49ff-a454-66ca1394a360?P1=1719076187&P2=404&P3=2&P4=Toc%2bNLdLyFQmMvKACGmMfCI%2bDBIYCbZJG%2f1ktWTQ6gwgJkoeKl68CAERN%2fhZfMA7ZQh%2fiTq1pd7nkIs1illHTA%3d%3d)  
+**最新版本**：128.0.2659.0  
+**文件大小**：165.48 MB  
+**文件名**：MicrosoftEdge_ARM64_128.0.2659.0.exe  
+**校验值（Sha256）**：9e50ab54fb31c4662e5651783ba2188430a1a2862766a39425d437dd890ab939  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2c91bf45-7a04-41e3-9a66-58e4b9bb5365?P1=1719324599&P2=404&P3=2&P4=LYdLPj0rg7Iw0mKWJdTNkl5LCNYMG9%2brwRRYciNt0pLTIby%2fAYpmPeO7T72fjKto1fdvTCdb7UwMg315fQuGTg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2c91bf45-7a04-41e3-9a66-58e4b9bb5365?P1=1719324599&P2=404&P3=2&P4=LYdLPj0rg7Iw0mKWJdTNkl5LCNYMG9%2brwRRYciNt0pLTIby%2fAYpmPeO7T72fjKto1fdvTCdb7UwMg315fQuGTg%3d%3d)  
 
