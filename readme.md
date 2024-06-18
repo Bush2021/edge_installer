@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-06-18 18:09:46 (UTC-4)
+2024-06-18 19:11:28 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c0f97cf9-d847-4098-ad06-55b90dd2e7ee?P1=1719339285&P2=404&P3=2&P4=EIGUQP7p1dPRjgM1UowxqGW1Jnw%2bIlFH5Fz7XaJ1g4O6ZG10x%2fE73exxN5RoAQraib1i72P31dk4kuXPHAsZag%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c0f97cf9-d847-4098-ad06-55b90dd2e7ee?P1=1719339285&P2=404&P3=2&P4=EIGUQP7p1dPRjgM1UowxqGW1Jnw%2bIlFH5Fz7XaJ1g4O6ZG10x%2fE73exxN5RoAQraib1i72P31dk4kuXPHAsZag%3d%3d)  
 
 ## canary ARM64
-**最新版本**：128.0.2659.0  
-**文件大小**：165.48 MB  
-**文件名**：MicrosoftEdge_ARM64_128.0.2659.0.exe  
-**校验值（Sha256）**：9e50ab54fb31c4662e5651783ba2188430a1a2862766a39425d437dd890ab939  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2c91bf45-7a04-41e3-9a66-58e4b9bb5365?P1=1719324599&P2=404&P3=2&P4=LYdLPj0rg7Iw0mKWJdTNkl5LCNYMG9%2brwRRYciNt0pLTIby%2fAYpmPeO7T72fjKto1fdvTCdb7UwMg315fQuGTg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2c91bf45-7a04-41e3-9a66-58e4b9bb5365?P1=1719324599&P2=404&P3=2&P4=LYdLPj0rg7Iw0mKWJdTNkl5LCNYMG9%2brwRRYciNt0pLTIby%2fAYpmPeO7T72fjKto1fdvTCdb7UwMg315fQuGTg%3d%3d)  
+**最新版本**：128.0.2660.0  
+**文件大小**：165.35 MB  
+**文件名**：MicrosoftEdge_ARM64_128.0.2660.0.exe  
+**校验值（Sha256）**：3176b05545269c5c93952505f643ea81c4991da186f34e58753819b3d558223f  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/115f0d84-ed84-42bc-93e4-022def41432e?P1=1719357089&P2=404&P3=2&P4=CqMNZdQZgWFqd853Yfzpl4BTcxIJA3vJ7uywui0pJEzRyKaKt%2f0jLdSihYzCw1RRKlhhS2yjAmM0LgO9oAC3vA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/115f0d84-ed84-42bc-93e4-022def41432e?P1=1719357089&P2=404&P3=2&P4=CqMNZdQZgWFqd853Yfzpl4BTcxIJA3vJ7uywui0pJEzRyKaKt%2f0jLdSihYzCw1RRKlhhS2yjAmM0LgO9oAC3vA%3d%3d)  
 
