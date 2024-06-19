@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-06-19 11:11:48 (UTC-4)
+2024-06-19 12:13:06 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f48d7caf-ee65-4c97-87d7-5b842350888b?P1=1719363020&P2=404&P3=2&P4=HN7KRDMGWzO98qEC5PFQOymE9vp6%2bgkfj1j2wTbeedjUb8sfsdGHQXL3JSPM2q%2fedoukCKTGXRCHXRpo7S7Ahw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f48d7caf-ee65-4c97-87d7-5b842350888b?P1=1719363020&P2=404&P3=2&P4=HN7KRDMGWzO98qEC5PFQOymE9vp6%2bgkfj1j2wTbeedjUb8sfsdGHQXL3JSPM2q%2fedoukCKTGXRCHXRpo7S7Ahw%3d%3d)  
 
 ## canary ARM64
-**最新版本**：128.0.2660.0  
-**文件大小**：165.35 MB  
-**文件名**：MicrosoftEdge_ARM64_128.0.2660.0.exe  
-**校验值（Sha256）**：3176b05545269c5c93952505f643ea81c4991da186f34e58753819b3d558223f  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/115f0d84-ed84-42bc-93e4-022def41432e?P1=1719357089&P2=404&P3=2&P4=CqMNZdQZgWFqd853Yfzpl4BTcxIJA3vJ7uywui0pJEzRyKaKt%2f0jLdSihYzCw1RRKlhhS2yjAmM0LgO9oAC3vA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/115f0d84-ed84-42bc-93e4-022def41432e?P1=1719357089&P2=404&P3=2&P4=CqMNZdQZgWFqd853Yfzpl4BTcxIJA3vJ7uywui0pJEzRyKaKt%2f0jLdSihYzCw1RRKlhhS2yjAmM0LgO9oAC3vA%3d%3d)  
+**最新版本**：128.0.2661.0  
+**文件大小**：165.4 MB  
+**文件名**：MicrosoftEdge_ARM64_128.0.2661.0.exe  
+**校验值（Sha256）**：1ba6b705f25ac0a92af18ace994b69be9c89fde5df79bde54161633e52ff8a03  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/65075457-0fe9-4a18-b9d3-fa7431523372?P1=1719418386&P2=404&P3=2&P4=P7hz1NnaQ9cGu804SrSymxyHNoB6D5NWn%2bRNSre7CFpjkI%2bdcHYJWUMqgHlXENtvebpvZgfaHowh3RfAfPLTtQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/65075457-0fe9-4a18-b9d3-fa7431523372?P1=1719418386&P2=404&P3=2&P4=P7hz1NnaQ9cGu804SrSymxyHNoB6D5NWn%2bRNSre7CFpjkI%2bdcHYJWUMqgHlXENtvebpvZgfaHowh3RfAfPLTtQ%3d%3d)  
 
