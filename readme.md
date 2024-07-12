@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-07-12 09:13:58 (UTC-4)
+2024-07-12 10:10:22 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8010481c-40d7-4e96-89ae-9f673de9cc72?P1=1721344342&P2=404&P3=2&P4=jkRB%2ftX7n3fbnfrAC%2fDbSCwhpujFeXxAoptVxdB2rhXcLD9QUgTUsNApUYapBjNXIowP3xULnyyE1%2frnPIdh6Q%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8010481c-40d7-4e96-89ae-9f673de9cc72?P1=1721344342&P2=404&P3=2&P4=jkRB%2ftX7n3fbnfrAC%2fDbSCwhpujFeXxAoptVxdB2rhXcLD9QUgTUsNApUYapBjNXIowP3xULnyyE1%2frnPIdh6Q%3d%3d)  
 
 ## canary ARM64
-**最新版本**：128.0.2707.0  
-**文件大小**：165.65 MB  
-**文件名**：MicrosoftEdge_ARM64_128.0.2707.0.exe  
-**校验值（Sha256）**：cb9bdaede10ece60695eae90921a39a85e0d973bd57167ac53681ee111ebe16d  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6b86c8d0-817c-4316-9c6a-3d668a4f6ea1?P1=1721350256&P2=404&P3=2&P4=B86C4hSjYMrIo3xuJ6Uy4L6ot1lvsgFHGtVM9QuzokiNlHJbmR3xFpXkrutJW%2bxwqfci7qjtMU1%2f7jWVOqSWRg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6b86c8d0-817c-4316-9c6a-3d668a4f6ea1?P1=1721350256&P2=404&P3=2&P4=B86C4hSjYMrIo3xuJ6Uy4L6ot1lvsgFHGtVM9QuzokiNlHJbmR3xFpXkrutJW%2bxwqfci7qjtMU1%2f7jWVOqSWRg%3d%3d)  
+**最新版本**：128.0.2708.0  
+**文件大小**：165.6 MB  
+**文件名**：MicrosoftEdge_ARM64_128.0.2708.0.exe  
+**校验值（Sha256）**：e17562a483b92958abc31f6e2968f42bd5e181086ec5c9d3a3246b82278d647a  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/36f567dc-06a1-43ce-867b-58983b5e00d0?P1=1721398222&P2=404&P3=2&P4=OOPWqGmpkqD08HYTIMwZ1Lns%2feE%2fKzZkdKLHmhCoMkdE12HZip4oARlLV5Svxn5BEWrap6R2AEgsetFRDllf1A%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/36f567dc-06a1-43ce-867b-58983b5e00d0?P1=1721398222&P2=404&P3=2&P4=OOPWqGmpkqD08HYTIMwZ1Lns%2feE%2fKzZkdKLHmhCoMkdE12HZip4oARlLV5Svxn5BEWrap6R2AEgsetFRDllf1A%3d%3d)  
 
