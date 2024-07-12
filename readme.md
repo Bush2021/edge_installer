@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-07-12 11:10:56 (UTC-4)
+2024-07-12 12:13:18 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -110,11 +110,11 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/31a0194b-5668-4f3d-91b5-558b16892968?P1=1721344341&P2=404&P3=2&P4=OebEee6HPSXpkkxtILLwlIRedwTfLgKcbPHoggL7FyuaqlgmEOUSXShGyD%2fHsoW016fwHgkR7njAHFPckVSuLQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/31a0194b-5668-4f3d-91b5-558b16892968?P1=1721344341&P2=404&P3=2&P4=OebEee6HPSXpkkxtILLwlIRedwTfLgKcbPHoggL7FyuaqlgmEOUSXShGyD%2fHsoW016fwHgkR7njAHFPckVSuLQ%3d%3d)  
 
 ## canary x86
-**最新版本**：128.0.2707.0  
+**最新版本**：128.0.2708.0  
 **文件大小**：149.17 MB  
-**文件名**：MicrosoftEdge_X86_128.0.2707.0.exe  
-**校验值（Sha256）**：a2dbf14e839b9bc700af03f41f4e618032a02372f40154f9675431eea68a1f94  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/03c9844c-72c0-428b-9cc3-04261c4fdd0e?P1=1721344342&P2=404&P3=2&P4=HAATkUU%2fDAWRiLkFl40%2b%2bStL6icaXi4BiwSnNKmGeyXfvqLJ2Ufb4wnXXQmADS5TPV23SS1ee8rL1qcRL6XJ5w%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/03c9844c-72c0-428b-9cc3-04261c4fdd0e?P1=1721344342&P2=404&P3=2&P4=HAATkUU%2fDAWRiLkFl40%2b%2bStL6icaXi4BiwSnNKmGeyXfvqLJ2Ufb4wnXXQmADS5TPV23SS1ee8rL1qcRL6XJ5w%3d%3d)  
+**文件名**：MicrosoftEdge_X86_128.0.2708.0.exe  
+**校验值（Sha256）**：62e1bfe003fc92649a1e5883319100b16e5f5a57649a16aa1c85d324c88b6a3d  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4634e7d7-6f5a-47b5-adad-64deed87ee4e?P1=1721405598&P2=404&P3=2&P4=bflOg1oqs1bj7huhG6hefUuA74thGIXQoTFrR%2bkIqTKmgdE4nppcV5bQfvzy8auYZlbZER9lgK1f08jCCkLECg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4634e7d7-6f5a-47b5-adad-64deed87ee4e?P1=1721405598&P2=404&P3=2&P4=bflOg1oqs1bj7huhG6hefUuA74thGIXQoTFrR%2bkIqTKmgdE4nppcV5bQfvzy8auYZlbZER9lgK1f08jCCkLECg%3d%3d)  
 
 ## canary x64
 **最新版本**：128.0.2708.0  
