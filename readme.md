@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-07-22 19:10:47 (UTC-4)
+2024-07-22 20:52:03 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/dcfe2787-4ed8-4348-bfb5-32965a291b88?P1=1722294647&P2=404&P3=2&P4=kxIu78Gm3xlCr7vHWMBtFzWpb3hs3Mmem%2fOm5e7KeOBE%2bePeH%2b0wy19vBh%2biiYwG3%2fNyxeWgNiAkGQGfTTcBJQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/dcfe2787-4ed8-4348-bfb5-32965a291b88?P1=1722294647&P2=404&P3=2&P4=kxIu78Gm3xlCr7vHWMBtFzWpb3hs3Mmem%2fOm5e7KeOBE%2bePeH%2b0wy19vBh%2biiYwG3%2fNyxeWgNiAkGQGfTTcBJQ%3d%3d)  
 
 ## canary ARM64
-**最新版本**：128.0.2728.0  
-**文件大小**：166.95 MB  
-**文件名**：MicrosoftEdge_ARM64_128.0.2728.0.exe  
-**校验值（Sha256）**：3ec5b04fe66961fd869bb5bcb4667348288d3b35d637d205424496cc7cb3e81f  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/86321c2f-52ce-4fd2-a4dd-bde59bda89f8?P1=1722258906&P2=404&P3=2&P4=mOh%2fkVAkzqyG4a6eaJO3FERsqMH%2btRI7p7pTpJEksiO8444Gk9z3Z4z3l%2b5c%2fXse1xTUICzrFdVb9SpCDRW4PA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/86321c2f-52ce-4fd2-a4dd-bde59bda89f8?P1=1722258906&P2=404&P3=2&P4=mOh%2fkVAkzqyG4a6eaJO3FERsqMH%2btRI7p7pTpJEksiO8444Gk9z3Z4z3l%2b5c%2fXse1xTUICzrFdVb9SpCDRW4PA%3d%3d)  
+**最新版本**：128.0.2729.0  
+**文件大小**：166.88 MB  
+**文件名**：MicrosoftEdge_ARM64_128.0.2729.0.exe  
+**校验值（Sha256）**：b74fa59f83486db443e802a5f07847a21d6d88cfe41104b3de54a3a934aaf0d4  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ac3e37f1-b989-4ff9-86b9-765041923827?P1=1722300723&P2=404&P3=2&P4=mb9pgvW1xZGCW7vOlrqsfOcf4Z%2b7l8cqy%2fYfx79iXll00iMpV8GccT3jmTUZMGUPGXq4R3sV2CF4dFX6Y99s7A%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ac3e37f1-b989-4ff9-86b9-765041923827?P1=1722300723&P2=404&P3=2&P4=mb9pgvW1xZGCW7vOlrqsfOcf4Z%2b7l8cqy%2fYfx79iXll00iMpV8GccT3jmTUZMGUPGXq4R3sV2CF4dFX6Y99s7A%3d%3d)  
 
