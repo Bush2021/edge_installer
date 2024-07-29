@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-07-29 08:21:02 (UTC-4)
+2024-07-29 09:15:29 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7c57d3f8-a691-4a69-bf49-a9d915893475?P1=1722813084&P2=404&P3=2&P4=hdophmPXanyapl2Xu0Nb8bqaNkKUzR1%2bMQFzznY5RPMC0%2fRU6VrIZOkcVZ0yvmJwvXjmPubkZnTwp6PuB7ClGw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7c57d3f8-a691-4a69-bf49-a9d915893475?P1=1722813084&P2=404&P3=2&P4=hdophmPXanyapl2Xu0Nb8bqaNkKUzR1%2bMQFzznY5RPMC0%2fRU6VrIZOkcVZ0yvmJwvXjmPubkZnTwp6PuB7ClGw%3d%3d)  
 
 ## canary ARM64
-**最新版本**：128.0.2739.0  
+**最新版本**：129.0.2744.0  
 **文件大小**：167.08 MB  
-**文件名**：MicrosoftEdge_ARM64_128.0.2739.0.exe  
-**校验值（Sha256）**：a85bf8090f0fd6391c7d7d87f6370a26cb486d9fbf530044b9151ec43edd9b76  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f7df77dc-9322-45d4-9fa5-f107e05c5957?P1=1722813084&P2=404&P3=2&P4=DBIUwVuErAcUDQxLNYlwJFX%2byYzBq6LQfrhpe6VCOwE4pesd6KbMeTZ%2bNHnLZftlkChR%2bfv6r3M7Hk0x%2f0yEOg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f7df77dc-9322-45d4-9fa5-f107e05c5957?P1=1722813084&P2=404&P3=2&P4=DBIUwVuErAcUDQxLNYlwJFX%2byYzBq6LQfrhpe6VCOwE4pesd6KbMeTZ%2bNHnLZftlkChR%2bfv6r3M7Hk0x%2f0yEOg%3d%3d)  
+**文件名**：MicrosoftEdge_ARM64_129.0.2744.0.exe  
+**校验值（Sha256）**：f416b36f04b135a65268dbd9450f776191fcf0fe45420905b2ebfaec55c21b42  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5cb84c61-deaa-40bb-b6ba-c9768fb7f4c2?P1=1722863730&P2=404&P3=2&P4=F%2fDdnnSTuQkGBCZy52RUSZdZWPZBIyPVzGcLHEu4%2fgQJbMGR1ta%2fvhCEva3jLbUR5Xu3HSjRj77y80AaZUYBUA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5cb84c61-deaa-40bb-b6ba-c9768fb7f4c2?P1=1722863730&P2=404&P3=2&P4=F%2fDdnnSTuQkGBCZy52RUSZdZWPZBIyPVzGcLHEu4%2fgQJbMGR1ta%2fvhCEva3jLbUR5Xu3HSjRj77y80AaZUYBUA%3d%3d)  
 
