@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-07-29 19:10:42 (UTC-4)
+2024-07-29 20:52:00 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d4fcf9c5-e888-4151-8616-c541957b9b89?P1=1722899442&P2=404&P3=2&P4=OAhi4G7OzrUyiQIAQhEIzV2hZ8GvfgDplgBSwBkejRKzTB8Y9h6Egt1IrpEr2EO6tHbyocXrKwKh%2fbwXNMfGPw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d4fcf9c5-e888-4151-8616-c541957b9b89?P1=1722899442&P2=404&P3=2&P4=OAhi4G7OzrUyiQIAQhEIzV2hZ8GvfgDplgBSwBkejRKzTB8Y9h6Egt1IrpEr2EO6tHbyocXrKwKh%2fbwXNMfGPw%3d%3d)  
 
 ## canary ARM64
-**最新版本**：129.0.2744.0  
-**文件大小**：167.08 MB  
-**文件名**：MicrosoftEdge_ARM64_129.0.2744.0.exe  
-**校验值（Sha256）**：f416b36f04b135a65268dbd9450f776191fcf0fe45420905b2ebfaec55c21b42  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5cb84c61-deaa-40bb-b6ba-c9768fb7f4c2?P1=1722863730&P2=404&P3=2&P4=F%2fDdnnSTuQkGBCZy52RUSZdZWPZBIyPVzGcLHEu4%2fgQJbMGR1ta%2fvhCEva3jLbUR5Xu3HSjRj77y80AaZUYBUA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5cb84c61-deaa-40bb-b6ba-c9768fb7f4c2?P1=1722863730&P2=404&P3=2&P4=F%2fDdnnSTuQkGBCZy52RUSZdZWPZBIyPVzGcLHEu4%2fgQJbMGR1ta%2fvhCEva3jLbUR5Xu3HSjRj77y80AaZUYBUA%3d%3d)  
+**最新版本**：129.0.2745.0  
+**文件大小**：167.15 MB  
+**文件名**：MicrosoftEdge_ARM64_129.0.2745.0.exe  
+**校验值（Sha256）**：bfb72b49fab05f1b81af58ef24897095ba9cb429d56b44b22d774c6e9e3b25ad  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d4f96512-f6ea-4baf-bddb-37ff70c084cf?P1=1722905520&P2=404&P3=2&P4=HV9NkDyREGj2Kp0bP9r2Kn%2fdbvGzqZTn6L9DluANuuCkm0wiA3sdkqE7hc9XB76MUMxLTawPtJKEqBf%2fcwBpdw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d4f96512-f6ea-4baf-bddb-37ff70c084cf?P1=1722905520&P2=404&P3=2&P4=HV9NkDyREGj2Kp0bP9r2Kn%2fdbvGzqZTn6L9DluANuuCkm0wiA3sdkqE7hc9XB76MUMxLTawPtJKEqBf%2fcwBpdw%3d%3d)  
 
