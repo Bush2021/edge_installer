@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-07-31 19:10:47 (UTC-4)
+2024-07-31 20:56:33 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1978a387-6f34-4f40-b7b5-ff8764427547?P1=1723072247&P2=404&P3=2&P4=Yqa9Qk1JV5e3fnkIbNkMuOh530kVzhL5QNG4KhMVxbb%2f%2bkkq0LQ%2bkv8VYiVb38BDatxeyIVq025jwrck4X2VXA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1978a387-6f34-4f40-b7b5-ff8764427547?P1=1723072247&P2=404&P3=2&P4=Yqa9Qk1JV5e3fnkIbNkMuOh530kVzhL5QNG4KhMVxbb%2f%2bkkq0LQ%2bkv8VYiVb38BDatxeyIVq025jwrck4X2VXA%3d%3d)  
 
 ## canary ARM64
-**最新版本**：129.0.2748.0  
-**文件大小**：167.33 MB  
-**文件名**：MicrosoftEdge_ARM64_129.0.2748.0.exe  
-**校验值（Sha256）**：b867608f56095ce5c5fa4f7feac1729140ba6b2569bb0d93ff941ea636d5f080  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5fe1a107-c5be-428a-850f-63913f089ca1?P1=1723039844&P2=404&P3=2&P4=NpsrEQ3JDWZlxkAMqYf4CLLKNLodOGxw%2f1q0rezbf6I%2b3rFkUEEXttIgA5msLEua0AD1xVqzmG3r7bjIb9hb7g%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5fe1a107-c5be-428a-850f-63913f089ca1?P1=1723039844&P2=404&P3=2&P4=NpsrEQ3JDWZlxkAMqYf4CLLKNLodOGxw%2f1q0rezbf6I%2b3rFkUEEXttIgA5msLEua0AD1xVqzmG3r7bjIb9hb7g%3d%3d)  
+**最新版本**：129.0.2749.0  
+**文件大小**：167.35 MB  
+**文件名**：MicrosoftEdge_ARM64_129.0.2749.0.exe  
+**校验值（Sha256）**：646da1e140ad59a60275109537561c9ab829a0d130aec73e29c5104fb2dbfb60  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6119d9f1-aab7-48a1-97a5-db51c424c56b?P1=1723078593&P2=404&P3=2&P4=hoLuw9umBHXWeJQN1CPleI8ICxdgQliIJPKvwt2atKXfN09cRFPgTJs3PywLQRp9mfLzcQxJDTZ3iYR7TubTJQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6119d9f1-aab7-48a1-97a5-db51c424c56b?P1=1723078593&P2=404&P3=2&P4=hoLuw9umBHXWeJQN1CPleI8ICxdgQliIJPKvwt2atKXfN09cRFPgTJs3PywLQRp9mfLzcQxJDTZ3iYR7TubTJQ%3d%3d)  
 
