@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-08-08 18:10:29 (UTC-4)
+2024-08-08 19:11:39 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -54,11 +54,11 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1aed29e1-ee58-47c6-8baa-48b96dc23535?P1=1723759827&P2=404&P3=2&P4=IJtBPnnrB5M1OmredfM41xEFduowz08tGlcCwdIsvI1SsE%2fsA17%2buK6iVb0qBOxKmNoLFRYzpCFXbJnuc9uPiw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1aed29e1-ee58-47c6-8baa-48b96dc23535?P1=1723759827&P2=404&P3=2&P4=IJtBPnnrB5M1OmredfM41xEFduowz08tGlcCwdIsvI1SsE%2fsA17%2buK6iVb0qBOxKmNoLFRYzpCFXbJnuc9uPiw%3d%3d)  
 
 ## stable x64
-**最新版本**：127.0.2651.86  
-**文件大小**：164.57 MB  
-**文件名**：MicrosoftEdge_X64_127.0.2651.86.exe  
-**校验值（Sha256）**：6ec387a3f043dbc2e21889867a81a1b1fc55baa7c8fafc7d6d4d8499985a440a  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b235fc3a-86bf-420f-b1bc-6c67a3a95889?P1=1723245031&P2=404&P3=2&P4=dgBPsihmOdk%2ftd7O7N8nP2PCtYECJAsD4HHMSts2UOGeq2A1yP9gkzJfNLrI4qoCnF%2bu6cDtj8oO5cKyIwCLgQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b235fc3a-86bf-420f-b1bc-6c67a3a95889?P1=1723245031&P2=404&P3=2&P4=dgBPsihmOdk%2ftd7O7N8nP2PCtYECJAsD4HHMSts2UOGeq2A1yP9gkzJfNLrI4qoCnF%2bu6cDtj8oO5cKyIwCLgQ%3d%3d)  
+**最新版本**：127.0.2651.98  
+**文件大小**：164.61 MB  
+**文件名**：MicrosoftEdge_X64_127.0.2651.98.exe  
+**校验值（Sha256）**：c57ebe60385417074c0a168cc79ebe356038206199117852a0fb0afeb550c789  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/529a41cd-5c0c-4cd0-8061-b71feaa8a336?P1=1723763490&P2=404&P3=2&P4=aKY4DyCt%2beMF5KRbeVetR1cohvnfbHB%2bcaTSyYJ2Ez%2bhmuSgejBuYRrVbzEezW8xMr9%2fVHnGLV9tMGtmym0RPg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/529a41cd-5c0c-4cd0-8061-b71feaa8a336?P1=1723763490&P2=404&P3=2&P4=aKY4DyCt%2beMF5KRbeVetR1cohvnfbHB%2bcaTSyYJ2Ez%2bhmuSgejBuYRrVbzEezW8xMr9%2fVHnGLV9tMGtmym0RPg%3d%3d)  
 
 ## stable ARM64
 **最新版本**：127.0.2651.98  
