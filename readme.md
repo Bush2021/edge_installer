@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-08-07 20:52:41 (UTC-4)
+2024-08-07 22:02:21 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f0477ce4-1fd3-4e23-83f6-378bc92f4aee?P1=1723666327&P2=404&P3=2&P4=UUzs5j3qDkH6sKtxiXhXylTFMwkMx%2b46sNmVIODe7vCh%2baPk5%2fdpzmWHM8mkB2y%2bPuBjfGJxOwa4Vwc7wxOMhg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f0477ce4-1fd3-4e23-83f6-378bc92f4aee?P1=1723666327&P2=404&P3=2&P4=UUzs5j3qDkH6sKtxiXhXylTFMwkMx%2b46sNmVIODe7vCh%2baPk5%2fdpzmWHM8mkB2y%2bPuBjfGJxOwa4Vwc7wxOMhg%3d%3d)  
 
 ## canary ARM64
-**最新版本**：129.0.2762.0  
-**文件大小**：166.84 MB  
-**文件名**：MicrosoftEdge_ARM64_129.0.2762.0.exe  
-**校验值（Sha256）**：e651c36a20873c94e827d8984844959b14d3fc640aa2ddafff3bdbf1c331e8b0  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/28903377-3192-40ee-bbe4-ecc005290243?P1=1723666328&P2=404&P3=2&P4=EOzsy3YGDF8lu69MXHZKzoWmN5X%2buTNXmOMuheaPPo%2bPePx9OsA5pZWEDmTaMkXONEubKMGhqXugvZ%2b2yGFQ0Q%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/28903377-3192-40ee-bbe4-ecc005290243?P1=1723666328&P2=404&P3=2&P4=EOzsy3YGDF8lu69MXHZKzoWmN5X%2buTNXmOMuheaPPo%2bPePx9OsA5pZWEDmTaMkXONEubKMGhqXugvZ%2b2yGFQ0Q%3d%3d)  
+**最新版本**：129.0.2763.0  
+**文件大小**：166.79 MB  
+**文件名**：MicrosoftEdge_ARM64_129.0.2763.0.exe  
+**校验值（Sha256）**：86bce9e58193c1aa5606da67644868d963e631ff41786aacd4159cbeaffed971  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b75349c8-69bf-4868-bf02-3db607ec00bc?P1=1723687341&P2=404&P3=2&P4=M2I9QFnV%2bDo6jyVSw70wCucG7CD6FEholpk68uLIhI1JFb7NYwFJ53lzoJVqxHcwKUXoAqrlkG9%2bElXI%2fDJMDw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b75349c8-69bf-4868-bf02-3db607ec00bc?P1=1723687341&P2=404&P3=2&P4=M2I9QFnV%2bDo6jyVSw70wCucG7CD6FEholpk68uLIhI1JFb7NYwFJ53lzoJVqxHcwKUXoAqrlkG9%2bElXI%2fDJMDw%3d%3d)  
 
