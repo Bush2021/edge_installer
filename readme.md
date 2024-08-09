@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-08-09 17:09:56 (UTC-4)
+2024-08-09 18:12:05 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ba2a0064-28e0-4bb5-b2bb-e5af77de4274?P1=1723817449&P2=404&P3=2&P4=eznoyZIoz3VDqTC4pETzpfyvNAyI2py5Mzz3Oo0RFX4lVDkRSG2tG99gO%2f3wW5t8C6kRaEvkNgNsVnyiNjp2pA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ba2a0064-28e0-4bb5-b2bb-e5af77de4274?P1=1723817449&P2=404&P3=2&P4=eznoyZIoz3VDqTC4pETzpfyvNAyI2py5Mzz3Oo0RFX4lVDkRSG2tG99gO%2f3wW5t8C6kRaEvkNgNsVnyiNjp2pA%3d%3d)  
 
 ## canary ARM64
-**最新版本**：129.0.2766.0  
-**文件大小**：167.06 MB  
-**文件名**：MicrosoftEdge_ARM64_129.0.2766.0.exe  
-**校验值（Sha256）**：aba9e1e81fead1a4f03d132bd98e1ef58e705879aaeb7ca02af3ce116b831e2d  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/89dfb596-1d47-4dd8-a304-451007fc2e09?P1=1723817450&P2=404&P3=2&P4=VWlE7Y2eapiVpO2bpDxzeZXLrZFelonyqOQ7nKTDApPJ%2bZX3R%2bDbq2v2BctoIJlaJ4b%2b74h8ZvonCGyXngqfxQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/89dfb596-1d47-4dd8-a304-451007fc2e09?P1=1723817450&P2=404&P3=2&P4=VWlE7Y2eapiVpO2bpDxzeZXLrZFelonyqOQ7nKTDApPJ%2bZX3R%2bDbq2v2BctoIJlaJ4b%2b74h8ZvonCGyXngqfxQ%3d%3d)  
+**最新版本**：129.0.2767.0  
+**文件大小**：166.83 MB  
+**文件名**：MicrosoftEdge_ARM64_129.0.2767.0.exe  
+**校验值（Sha256）**：65c45815c2af3dd56f80808c36eb025186f5aca691ea276fc0b654523351cd65  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/91cd46a1-9980-4998-b134-2d0ffbc49244?P1=1723846326&P2=404&P3=2&P4=mZyZR6oI9sKxXWEHIibaflzP88HL8m4TPrxzH7LmvliAxYcYFOphyit6NLvEeXunlYY6tO5OwREeO1f4JZPegQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/91cd46a1-9980-4998-b134-2d0ffbc49244?P1=1723846326&P2=404&P3=2&P4=mZyZR6oI9sKxXWEHIibaflzP88HL8m4TPrxzH7LmvliAxYcYFOphyit6NLvEeXunlYY6tO5OwREeO1f4JZPegQ%3d%3d)  
 
