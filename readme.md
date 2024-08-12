@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-08-12 09:17:05 (UTC-4)
+2024-08-12 10:12:45 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e364072a-e9ba-44cd-9d02-0fafbe6e6a56?P1=1724073424&P2=404&P3=2&P4=FNvrPYZQWy3LZMvELCYpG2KpB5sg3r%2bCtRXg8yno8CFFs%2f1r5A1k%2bPDbd1Gy2gSjHnKLuwcXttHXqF1cOyrTfQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e364072a-e9ba-44cd-9d02-0fafbe6e6a56?P1=1724073424&P2=404&P3=2&P4=FNvrPYZQWy3LZMvELCYpG2KpB5sg3r%2bCtRXg8yno8CFFs%2f1r5A1k%2bPDbd1Gy2gSjHnKLuwcXttHXqF1cOyrTfQ%3d%3d)  
 
 ## canary ARM64
-**最新版本**：129.0.2768.0  
-**文件大小**：166.93 MB  
-**文件名**：MicrosoftEdge_ARM64_129.0.2768.0.exe  
-**校验值（Sha256）**：5497013c87ba38b00939e11135bb3b1aa326bdf27c498025503d08d3608e80a1  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/cbc16788-5c64-4098-bdf5-7ce2f2cb8fb9?P1=1724022634&P2=404&P3=2&P4=ZOnxp9ab4XxZ3eKA%2bhf1rqmNls%2f7sIUQ0dU%2fDv5EUQca9pACwEoLjMVWYT4YSMmXuXWEN0npyKTUakmmemZJfw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/cbc16788-5c64-4098-bdf5-7ce2f2cb8fb9?P1=1724022634&P2=404&P3=2&P4=ZOnxp9ab4XxZ3eKA%2bhf1rqmNls%2f7sIUQ0dU%2fDv5EUQca9pACwEoLjMVWYT4YSMmXuXWEN0npyKTUakmmemZJfw%3d%3d)  
+**最新版本**：129.0.2772.0  
+**文件大小**：166.84 MB  
+**文件名**：MicrosoftEdge_ARM64_129.0.2772.0.exe  
+**校验值（Sha256）**：3468dbeb0953d1513f029c8619c1fd1da389087e25313b5718c0037092a1c5c6  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e4b3e0bb-9428-4e9c-b7e1-04fecd837ce0?P1=1724076765&P2=404&P3=2&P4=G8wwqe2loultoBCWlyA0s5bZvL8jRXZoBvDC0mWI0ImRfZx8FmkQ8gl2HaETphWMCGw7sIo5uAnBTb7RpSmK0Q%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e4b3e0bb-9428-4e9c-b7e1-04fecd837ce0?P1=1724076765&P2=404&P3=2&P4=G8wwqe2loultoBCWlyA0s5bZvL8jRXZoBvDC0mWI0ImRfZx8FmkQ8gl2HaETphWMCGw7sIo5uAnBTb7RpSmK0Q%3d%3d)  
 
