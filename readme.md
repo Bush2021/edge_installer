@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-08-14 08:21:03 (UTC-4)
+2024-08-14 09:15:25 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e9c8f8b7-448b-4deb-97fb-df8233fca649?P1=1724159734&P2=404&P3=2&P4=RkZFaS7zIbukIfVydvJJFn29SDbZocMtmrjP1Mp9SHrtHBXRcxhDKeKicle2ZNEnalBXp4wa7XT1C%2f%2bzo4unXQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e9c8f8b7-448b-4deb-97fb-df8233fca649?P1=1724159734&P2=404&P3=2&P4=RkZFaS7zIbukIfVydvJJFn29SDbZocMtmrjP1Mp9SHrtHBXRcxhDKeKicle2ZNEnalBXp4wa7XT1C%2f%2bzo4unXQ%3d%3d)  
 
 ## canary ARM64
-**最新版本**：129.0.2773.0  
-**文件大小**：166.89 MB  
-**文件名**：MicrosoftEdge_ARM64_129.0.2773.0.exe  
-**校验值（Sha256）**：757ac428da09f9007a0b1c54d8b9d356321ec0fbae990c013ba427dc1c3b9c14  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7a91d8c2-8de2-45f1-94d9-f74b3bc39c2d?P1=1724159735&P2=404&P3=2&P4=H%2bEq81aEBHx%2fG899SErxuoB3G8tip7E1xiC%2fe4m38E7EsGiysne2QtvHzav8tF0dPf214syZCwwsWpRMHy2lAQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7a91d8c2-8de2-45f1-94d9-f74b3bc39c2d?P1=1724159735&P2=404&P3=2&P4=H%2bEq81aEBHx%2fG899SErxuoB3G8tip7E1xiC%2fe4m38E7EsGiysne2QtvHzav8tF0dPf214syZCwwsWpRMHy2lAQ%3d%3d)  
+**最新版本**：129.0.2775.0  
+**文件大小**：167.07 MB  
+**文件名**：MicrosoftEdge_ARM64_129.0.2775.0.exe  
+**校验值（Sha256）**：80451e7915888e3ecb9b329942e73674cef798880f20da3193fbc51fe6fe3b82  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b6e1a07c-5496-4ae3-8152-be91513049f8?P1=1724246126&P2=404&P3=2&P4=PUlPOcyhDS68vE9V%2bJdQsxPWYzziXr5BB8l68%2f%2fKdDlwXtQ2%2bbYyO%2bYLA5nF%2fKEF6KrBN78tTn%2b2yXf570b6nA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b6e1a07c-5496-4ae3-8152-be91513049f8?P1=1724246126&P2=404&P3=2&P4=PUlPOcyhDS68vE9V%2bJdQsxPWYzziXr5BB8l68%2f%2fKdDlwXtQ2%2bbYyO%2bYLA5nF%2fKEF6KrBN78tTn%2b2yXf570b6nA%3d%3d)  
 
