@@ -1,4 +1,5 @@
 import base64
+import os
 import binascii
 import json
 from datetime import datetime, timezone, timedelta
@@ -105,8 +106,16 @@ def version_tuple(v):
 
 def load_json():
     global results
-    with open('data.json', 'r') as f:
-        results = json.load(f)
+    if not os.path.exists('data.json'):
+        results = {}
+        return
+    try:
+        with open('data.json', 'r') as f:
+            results = json.load(f)
+            if not results:
+                results = {}
+    except (json.JSONDecodeError, ValueError):
+        results = {}
 
 
 def fetch():
