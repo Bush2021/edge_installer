@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-08-22 16:12:32 (UTC-5)
+2024-08-22 17:11:25 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -82,11 +82,11 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ba5f9dc2-300a-4656-a82a-c8e6295d9ae5?P1=1724962716&P2=404&P3=2&P4=VUJ4eeOyLJoRODQO%2bexu1KvuZbYMX%2bx6juzBKn9RtZbktJPoH4%2bDwgCpnDvgR%2fj2KRGabw4iC60JnBQa5tehHg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ba5f9dc2-300a-4656-a82a-c8e6295d9ae5?P1=1724962716&P2=404&P3=2&P4=VUJ4eeOyLJoRODQO%2bexu1KvuZbYMX%2bx6juzBKn9RtZbktJPoH4%2bDwgCpnDvgR%2fj2KRGabw4iC60JnBQa5tehHg%3d%3d)  
 
 ## beta ARM64
-**最新版本**：128.0.2739.33  
-**文件大小**：167.14 MB  
-**文件名**：MicrosoftEdge_ARM64_128.0.2739.33.exe  
-**校验值（Sha256）**：df1d0bf4dc69fa76f45da3016bf852b10c58d36d05ed8e19f2c7da4dec1f0075  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2777807e-b4b0-4cee-bac4-5c735e2d13da?P1=1724962716&P2=404&P3=2&P4=iIgpYLrZu2FMiZqI2LXPDjxcrETK7BWzlIwRnNAZw2Kx3unKF4QnFgHnQPpFsiLoMros4pyKeBwMPR5Mi2JuIA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2777807e-b4b0-4cee-bac4-5c735e2d13da?P1=1724962716&P2=404&P3=2&P4=iIgpYLrZu2FMiZqI2LXPDjxcrETK7BWzlIwRnNAZw2Kx3unKF4QnFgHnQPpFsiLoMros4pyKeBwMPR5Mi2JuIA%3d%3d)  
+**最新版本**：128.0.2739.42  
+**文件大小**：167.09 MB  
+**文件名**：MicrosoftEdge_ARM64_128.0.2739.42.exe  
+**校验值（Sha256）**：97ea3a5c33ea8ed2ad1eb0b7ece3d15fa94a1962a7c16fc6fb123e993a76bb0f  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/93379603-8ea8-41c1-80d6-041b91a777fb?P1=1724969482&P2=404&P3=2&P4=K0xBSLwKK8kMJt%2fqsjMZuC%2bHPStV5kr3rMPM3R%2bO7SAq4OmQE6dx%2bpXlMGTlVY1Zoduav%2bV7Q75Akvb1uow3Ww%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/93379603-8ea8-41c1-80d6-041b91a777fb?P1=1724969482&P2=404&P3=2&P4=K0xBSLwKK8kMJt%2fqsjMZuC%2bHPStV5kr3rMPM3R%2bO7SAq4OmQE6dx%2bpXlMGTlVY1Zoduav%2bV7Q75Akvb1uow3Ww%3d%3d)  
 
 ## dev x86
 **最新版本**：129.0.2779.0  
