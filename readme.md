@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-09-04 08:18:51 (UTC-5)
+2024-09-04 09:10:57 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8378576d-26fa-447f-9c61-be8303d0880f?P1=1726060730&P2=404&P3=2&P4=fqjCWIcnk6kGdvPtuSXIwx7q9gUj3flXzZVwQCLCEOttrrVOfidBMLVKcNiY7ksOpCb8Mf5C33nk7JsST3LXug%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8378576d-26fa-447f-9c61-be8303d0880f?P1=1726060730&P2=404&P3=2&P4=fqjCWIcnk6kGdvPtuSXIwx7q9gUj3flXzZVwQCLCEOttrrVOfidBMLVKcNiY7ksOpCb8Mf5C33nk7JsST3LXug%3d%3d)  
 
 ## canary ARM64
-**最新版本**：130.0.2816.0  
-**文件大小**：166.52 MB  
-**文件名**：MicrosoftEdge_ARM64_130.0.2816.0.exe  
-**校验值（Sha256）**：72e91fc0b8b0f00f635dd656856391b0dd02c01d21de7c05931db65f7ccf4322  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8d0cbbd9-b67a-46aa-85b5-42fe5fa60bce?P1=1726020468&P2=404&P3=2&P4=ewfwe8I3dyhXWgUqc2nJgMICXdkvF3t08cZjPZGTS8I4bACTTmEV8H0aYhYZTxl171b2m7Hu%2fHV3gEICN2qh0w%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8d0cbbd9-b67a-46aa-85b5-42fe5fa60bce?P1=1726020468&P2=404&P3=2&P4=ewfwe8I3dyhXWgUqc2nJgMICXdkvF3t08cZjPZGTS8I4bACTTmEV8H0aYhYZTxl171b2m7Hu%2fHV3gEICN2qh0w%3d%3d)  
+**最新版本**：130.0.2817.0  
+**文件大小**：166.5 MB  
+**文件名**：MicrosoftEdge_ARM64_130.0.2817.0.exe  
+**校验值（Sha256）**：cf7a1a188f0cac8e96c4402c05b25bfae9bd4d230ce464547b5139fda2ac22bc  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/763658d3-e0dc-4541-9665-01d2c95ef27c?P1=1726063858&P2=404&P3=2&P4=ZlWPUeDB87ynZYOMLandt9ZdZ0JGiZW3APKVJ7pjXfBd3KyA%2fgcvQ4lrPYJfVqJfB%2ft%2f8vN%2fvbZZfAHzDrCDaw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/763658d3-e0dc-4541-9665-01d2c95ef27c?P1=1726063858&P2=404&P3=2&P4=ZlWPUeDB87ynZYOMLandt9ZdZ0JGiZW3APKVJ7pjXfBd3KyA%2fgcvQ4lrPYJfVqJfB%2ft%2f8vN%2fvbZZfAHzDrCDaw%3d%3d)  
 
