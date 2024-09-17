@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-09-17 08:19:21 (UTC-5)
+2024-09-17 09:10:58 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7dbd6b3a-87c5-4345-8d4c-57f002c67abc?P1=1727183961&P2=404&P3=2&P4=ecu5vwpdDb71CU7NzhpHtYoDEOZS334jIjEy2RpKDHC0vd9A0hzXJi5usxk%2fDyd7uhwrhG%2bFTpq6jTP7W5R43Q%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7dbd6b3a-87c5-4345-8d4c-57f002c67abc?P1=1727183961&P2=404&P3=2&P4=ecu5vwpdDb71CU7NzhpHtYoDEOZS334jIjEy2RpKDHC0vd9A0hzXJi5usxk%2fDyd7uhwrhG%2bFTpq6jTP7W5R43Q%3d%3d)  
 
 ## canary ARM64
-**最新版本**：130.0.2840.0  
-**文件大小**：166.46 MB  
-**文件名**：MicrosoftEdge_ARM64_130.0.2840.0.exe  
-**校验值（Sha256）**：ff23dd8707ad11a1a05de476c9b2aa9e93ad55d01a7844e4e3c7a49246ec6d56  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b5cc1f48-c89d-43a2-b5fa-5a800f22ad4f?P1=1727133088&P2=404&P3=2&P4=LuvM5sE6uY7GyWrVi6wXIXmUDfwKXJuL3FZbeZ9azxOgGS1Hp1t6hzo3G77pZyt0ZbZD0sXJZhWHybpVGPkN5A%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b5cc1f48-c89d-43a2-b5fa-5a800f22ad4f?P1=1727133088&P2=404&P3=2&P4=LuvM5sE6uY7GyWrVi6wXIXmUDfwKXJuL3FZbeZ9azxOgGS1Hp1t6hzo3G77pZyt0ZbZD0sXJZhWHybpVGPkN5A%3d%3d)  
+**最新版本**：130.0.2841.0  
+**文件大小**：166.44 MB  
+**文件名**：MicrosoftEdge_ARM64_130.0.2841.0.exe  
+**校验值（Sha256）**：76600982a06d139c0b9f1a44056ae1efcda1be72d8218ac7dccb02e56a1212d6  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/804c6ee2-133a-49e0-ab4e-51dea268e85d?P1=1727187059&P2=404&P3=2&P4=dc0Sba2PlusfR48%2fGbQAXSPAtmCU%2bqdrr7YAX0JpWfW3ECsvTyzqJcEgWyhSwF%2b1ezxsq%2bqGY5l58bSSFsBBvg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/804c6ee2-133a-49e0-ab4e-51dea268e85d?P1=1727187059&P2=404&P3=2&P4=dc0Sba2PlusfR48%2fGbQAXSPAtmCU%2bqdrr7YAX0JpWfW3ECsvTyzqJcEgWyhSwF%2b1ezxsq%2bqGY5l58bSSFsBBvg%3d%3d)  
 
