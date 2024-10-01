@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-09-30 18:12:01 (UTC-5)
+2024-09-30 20:04:10 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d09d91b7-13ef-4829-8952-87765063d98e?P1=1728342721&P2=404&P3=2&P4=f2Awg42HSOYuX0%2b1kTPCtcR8UJ2A23z90Pns9BcylcOpF33KTUDUPVnlsN0vh5z96FstetGFvhsWeaAR1juDog%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d09d91b7-13ef-4829-8952-87765063d98e?P1=1728342721&P2=404&P3=2&P4=f2Awg42HSOYuX0%2b1kTPCtcR8UJ2A23z90Pns9BcylcOpF33KTUDUPVnlsN0vh5z96FstetGFvhsWeaAR1juDog%3d%3d)  
 
 ## canary ARM64
-**最新版本**：131.0.2867.0  
-**文件大小**：166.98 MB  
-**文件名**：MicrosoftEdge_ARM64_131.0.2867.0.exe  
-**校验值（Sha256）**：6fde7d61553d17c89a58224608a176f62b3d2cf0e88d701889a4ea3553af98a1  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/553a74b3-65f0-4e38-9567-8017838d14c1?P1=1728307302&P2=404&P3=2&P4=JSomTWqfr6YY1xmhIbrDnPL4Y0RlovAjtnMPDvADlzNwzrAKt2f8cMwk%2bSxApbrUJh57Mvh%2fOpgTCYh2n%2bQLTA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/553a74b3-65f0-4e38-9567-8017838d14c1?P1=1728307302&P2=404&P3=2&P4=JSomTWqfr6YY1xmhIbrDnPL4Y0RlovAjtnMPDvADlzNwzrAKt2f8cMwk%2bSxApbrUJh57Mvh%2fOpgTCYh2n%2bQLTA%3d%3d)  
+**最新版本**：131.0.2868.0  
+**文件大小**：167.06 MB  
+**文件名**：MicrosoftEdge_ARM64_131.0.2868.0.exe  
+**校验值（Sha256）**：5ecc078758d0a95aaace67446241a788c0d38b9feb46259ad4ce29e2261c975a  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9feacf07-4f27-4c09-8bbf-9d07c060f4fa?P1=1728349450&P2=404&P3=2&P4=QM7vuDBFQrDXpZTBCYze83YjFRAuFqJExQUBbZGpn%2fa5HU0iu4aPe1Rkpcyx9l5JIfZyoTTIQ6jB7BSNDsnzJw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9feacf07-4f27-4c09-8bbf-9d07c060f4fa?P1=1728349450&P2=404&P3=2&P4=QM7vuDBFQrDXpZTBCYze83YjFRAuFqJExQUBbZGpn%2fa5HU0iu4aPe1Rkpcyx9l5JIfZyoTTIQ6jB7BSNDsnzJw%3d%3d)  
 
