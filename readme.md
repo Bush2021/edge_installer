@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-10-10 16:12:17 (UTC-5)
+2024-10-10 17:11:48 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b040b7a8-0567-44c0-bf5e-cbac8008131c?P1=1729171274&P2=404&P3=2&P4=jEc1EVmjDKwlils3YHBreYhmYDOJpealKqySBgwTDBbG%2fragPcHJLK7iYfMhYxmvVllidzn09tH0I8wqH5lPZQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b040b7a8-0567-44c0-bf5e-cbac8008131c?P1=1729171274&P2=404&P3=2&P4=jEc1EVmjDKwlils3YHBreYhmYDOJpealKqySBgwTDBbG%2fragPcHJLK7iYfMhYxmvVllidzn09tH0I8wqH5lPZQ%3d%3d)  
 
 ## canary ARM64
-**最新版本**：131.0.2887.0  
+**最新版本**：131.0.2888.0  
 **文件大小**：168.04 MB  
-**文件名**：MicrosoftEdge_ARM64_131.0.2887.0.exe  
-**校验值（Sha256）**：53b32a68a77a15e5df999c7754e3392588a83d54b8c6cfef9096b3fbc0fbf295  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7845934f-96de-4c2c-8591-4e83d1e0b4cb?P1=1729171275&P2=404&P3=2&P4=dD5Z1zf3gqK8U7EIENH%2bvNKRD%2fxLPncNxEZQ74rysralqtAFs%2bsUlz5i%2fJHLKpSrk%2biSpKDvAYdgUt5kWrtvDw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7845934f-96de-4c2c-8591-4e83d1e0b4cb?P1=1729171275&P2=404&P3=2&P4=dD5Z1zf3gqK8U7EIENH%2bvNKRD%2fxLPncNxEZQ74rysralqtAFs%2bsUlz5i%2fJHLKpSrk%2biSpKDvAYdgUt5kWrtvDw%3d%3d)  
+**文件名**：MicrosoftEdge_ARM64_131.0.2888.0.exe  
+**校验值（Sha256）**：c1a9b1b5663aafbc49a3221e14eb947ad1a4b52f37cf4fd6de2829cb9d0aca83  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9dfa233e-2e6d-4a11-ac1f-65d0de73c300?P1=1729203109&P2=404&P3=2&P4=DSA%2fcGxBFNslhxsdQNvcadCTUnx21temm85h%2boXuxy17vBW8L9QRCTjAnggiBUkS1%2fLw7fzsA6h7fYJP93wR9Q%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9dfa233e-2e6d-4a11-ac1f-65d0de73c300?P1=1729203109&P2=404&P3=2&P4=DSA%2fcGxBFNslhxsdQNvcadCTUnx21temm85h%2boXuxy17vBW8L9QRCTjAnggiBUkS1%2fLw7fzsA6h7fYJP93wR9Q%3d%3d)  
 
