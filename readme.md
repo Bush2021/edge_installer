@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-10-14 17:13:11 (UTC-5)
+2024-10-14 18:11:40 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c7d17bda-35f9-4e35-94b8-457ea7202a05?P1=1729516884&P2=404&P3=2&P4=PS7K5%2fLV02wDyb6%2fe3zbEzRLZ6Si3akBDDjneYPmrXCKYO6n2Lo1lG7gosVWEns9tUA8cCMR%2bIfy1IO3KoOHFg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c7d17bda-35f9-4e35-94b8-457ea7202a05?P1=1729516884&P2=404&P3=2&P4=PS7K5%2fLV02wDyb6%2fe3zbEzRLZ6Si3akBDDjneYPmrXCKYO6n2Lo1lG7gosVWEns9tUA8cCMR%2bIfy1IO3KoOHFg%3d%3d)  
 
 ## canary ARM64
-**最新版本**：131.0.2895.0  
-**文件大小**：168.35 MB  
-**文件名**：MicrosoftEdge_ARM64_131.0.2895.0.exe  
-**校验值（Sha256）**：50385c4b7e68f3808b73f7065f80e9dbd79b6761cc99eca77728b8087e4ecc14  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7c6b19f1-b634-4de2-aa11-340ce433dd5a?P1=1729516885&P2=404&P3=2&P4=I6fX32Z2g4QlQqslLy3BHRa%2b8GbpxZ0cTTSvWL43pBqZfvtYO8Qqz43zg6agxtnM4w13J37WAeooSSWjnddcFw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7c6b19f1-b634-4de2-aa11-340ce433dd5a?P1=1729516885&P2=404&P3=2&P4=I6fX32Z2g4QlQqslLy3BHRa%2b8GbpxZ0cTTSvWL43pBqZfvtYO8Qqz43zg6agxtnM4w13J37WAeooSSWjnddcFw%3d%3d)  
+**最新版本**：131.0.2896.0  
+**文件大小**：168.49 MB  
+**文件名**：MicrosoftEdge_ARM64_131.0.2896.0.exe  
+**校验值（Sha256）**：6623a1957c270ee0bf87a1a4ea9b5161bf5a4cdf59b9dfa7391804b9dfc90aa8  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/af11ceeb-b1f7-4824-b5b1-a7e268089417?P1=1729552301&P2=404&P3=2&P4=T%2fMxxHoB99u6i%2fMHMz2kYsjUATDj%2bxFUMy1ImMl6aS1xCVw%2bSwCitocDr9fi3r4K%2bwrOT0Za6U%2fny%2bnA6sPocg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/af11ceeb-b1f7-4824-b5b1-a7e268089417?P1=1729552301&P2=404&P3=2&P4=T%2fMxxHoB99u6i%2fMHMz2kYsjUATDj%2bxFUMy1ImMl6aS1xCVw%2bSwCitocDr9fi3r4K%2bwrOT0Za6U%2fny%2bnA6sPocg%3d%3d)  
 
