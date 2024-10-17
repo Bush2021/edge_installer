@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-10-17 14:10:50 (UTC-5)
+2024-10-17 15:13:19 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -47,25 +47,25 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/630083c1-24b5-4545-9b0b-0f35a727bf89?P1=1729293087&P2=404&P3=2&P4=bgZ6t0Vd7%2btBCd3LQdUSNENT3HsXOcSSxi89YdqNbEczAkzArMZHHeZQTo4diwhXhuUIVPvhBjbTmlWG7gd39A%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/630083c1-24b5-4545-9b0b-0f35a727bf89?P1=1729293087&P2=404&P3=2&P4=bgZ6t0Vd7%2btBCd3LQdUSNENT3HsXOcSSxi89YdqNbEczAkzArMZHHeZQTo4diwhXhuUIVPvhBjbTmlWG7gd39A%3d%3d)  
 
 ## stable x86
-**最新版本**：129.0.2792.89  
-**文件大小**：149.83 MB  
-**文件名**：MicrosoftEdge_X86_129.0.2792.89.exe  
-**校验值（Sha256）**：bdcedd57461b85bbb786c0fd2868570cd09b36f91bbb992ce130b025ba8fae62  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/299ec125-59e4-47b3-a34f-712f4fcaa19c?P1=1729293085&P2=404&P3=2&P4=LodLUPUVXEZFa%2fstOKFlnk87efT7I04tDG2E6UqKKwScschsS%2bMN%2bqkzSCPmHJ9v10Rxk%2bp5HnHzbzwG1Kp94w%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/299ec125-59e4-47b3-a34f-712f4fcaa19c?P1=1729293085&P2=404&P3=2&P4=LodLUPUVXEZFa%2fstOKFlnk87efT7I04tDG2E6UqKKwScschsS%2bMN%2bqkzSCPmHJ9v10Rxk%2bp5HnHzbzwG1Kp94w%3d%3d)  
+**最新版本**：130.0.2849.46  
+**文件大小**：149.25 MB  
+**文件名**：MicrosoftEdge_X86_130.0.2849.46.exe  
+**校验值（Sha256）**：d24013707d16b35f70df6cd608e2464fbd2cf98f03cc39a44d58d4eeadeef9f7  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4ed2fa15-ef0f-4372-b6a6-ea4d36e570ef?P1=1729800799&P2=404&P3=2&P4=T364ImKj0nV8ET%2fF1u5O7fDFFjot12%2fWxc3wItaY8ucWT4j517dFoVxqlG3gdELSx%2ffPHzipcEBIzckgWw%2baXw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4ed2fa15-ef0f-4372-b6a6-ea4d36e570ef?P1=1729800799&P2=404&P3=2&P4=T364ImKj0nV8ET%2fF1u5O7fDFFjot12%2fWxc3wItaY8ucWT4j517dFoVxqlG3gdELSx%2ffPHzipcEBIzckgWw%2baXw%3d%3d)  
 
 ## stable x64
-**最新版本**：129.0.2792.89  
-**文件大小**：165.85 MB  
-**文件名**：MicrosoftEdge_X64_129.0.2792.89.exe  
-**校验值（Sha256）**：74e1b30f25a973b4009710bdb6b09325286e28a21b04d6cf3e4137d505926f5f  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b53fa217-6f44-4585-a4ec-70ed35f2aa73?P1=1729293086&P2=404&P3=2&P4=N%2fMYXcpVscsjQDMzGdOTRHWEnaWB5ypAhM8PpbMdlEhOIbF9S3WjCEzPNcffd62mKbGES63f%2bxWG7Mlq19FgiA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b53fa217-6f44-4585-a4ec-70ed35f2aa73?P1=1729293086&P2=404&P3=2&P4=N%2fMYXcpVscsjQDMzGdOTRHWEnaWB5ypAhM8PpbMdlEhOIbF9S3WjCEzPNcffd62mKbGES63f%2bxWG7Mlq19FgiA%3d%3d)  
+**最新版本**：130.0.2849.46  
+**文件大小**：166.81 MB  
+**文件名**：MicrosoftEdge_X64_130.0.2849.46.exe  
+**校验值（Sha256）**：f9e89dd79e158cc1a4fe529fcb07d4f602df776a26c132097ba1f8f535512fdf  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5d5241d9-7389-4e74-9a81-2fda43039830?P1=1729800799&P2=404&P3=2&P4=SrP4orW8RZ5NP3TALG4ym%2fEBR5alD1r5REIWw4l1pBNjj3eqI1rKgoRwLf1gp8Gzt4Ek3G7r3f%2f2N%2fYb0EF2Zw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5d5241d9-7389-4e74-9a81-2fda43039830?P1=1729800799&P2=404&P3=2&P4=SrP4orW8RZ5NP3TALG4ym%2fEBR5alD1r5REIWw4l1pBNjj3eqI1rKgoRwLf1gp8Gzt4Ek3G7r3f%2f2N%2fYb0EF2Zw%3d%3d)  
 
 ## stable ARM64
-**最新版本**：129.0.2792.89  
-**文件大小**：167.14 MB  
-**文件名**：MicrosoftEdge_ARM64_129.0.2792.89.exe  
-**校验值（Sha256）**：d71975522e18cfa4e0ad1a30a8bab40e143d5304763b2fd0228afc434b510f5f  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0aa49aaa-586a-4efc-83f4-b979e3751754?P1=1729293086&P2=404&P3=2&P4=SXV0JjDJdRfb2eUGB6HK6AWfFtObCi0gHnzDS8TiXIlwQr5vEw8UVhCV5uCqtNxOJuOKvpplaaFsDpcrPv5JQQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0aa49aaa-586a-4efc-83f4-b979e3751754?P1=1729293086&P2=404&P3=2&P4=SXV0JjDJdRfb2eUGB6HK6AWfFtObCi0gHnzDS8TiXIlwQr5vEw8UVhCV5uCqtNxOJuOKvpplaaFsDpcrPv5JQQ%3d%3d)  
+**最新版本**：130.0.2849.46  
+**文件大小**：166.68 MB  
+**文件名**：MicrosoftEdge_ARM64_130.0.2849.46.exe  
+**校验值（Sha256）**：792e53a3b2f4ff5d54dedf008a05a146b7a5da1bd6fd23ab696a0ab51a29cb8f  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/82eaa958-ba14-4bdb-9bf4-5f6fae61b9a2?P1=1729800799&P2=404&P3=2&P4=d89R7Lhm7fA0E%2f01DnpmoVECCIPN5W4dhF4JBuQAk1FlnhP3v43GYrTIFwUwEtt67MITvhBipt%2fUPKsJ%2fh3bEw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/82eaa958-ba14-4bdb-9bf4-5f6fae61b9a2?P1=1729800799&P2=404&P3=2&P4=d89R7Lhm7fA0E%2f01DnpmoVECCIPN5W4dhF4JBuQAk1FlnhP3v43GYrTIFwUwEtt67MITvhBipt%2fUPKsJ%2fh3bEw%3d%3d)  
 
 ## beta x86
 **最新版本**：130.0.2849.46  
