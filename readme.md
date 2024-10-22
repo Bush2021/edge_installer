@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-10-22 17:12:45 (UTC-5)
+2024-10-22 18:13:06 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b37d0c75-078b-4052-b8e0-396fe5e9bd59?P1=1730208088&P2=404&P3=2&P4=lAN8BFAjb8JXm0d5fRdqYpghzybrWS6vm2dV5YG174HJIaJ7ebjjdMiJys0tASrG5xBxtVBrvn6obJwNXQfkvg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b37d0c75-078b-4052-b8e0-396fe5e9bd59?P1=1730208088&P2=404&P3=2&P4=lAN8BFAjb8JXm0d5fRdqYpghzybrWS6vm2dV5YG174HJIaJ7ebjjdMiJys0tASrG5xBxtVBrvn6obJwNXQfkvg%3d%3d)  
 
 ## canary ARM64
-**最新版本**：132.0.2911.0  
-**文件大小**：167.86 MB  
-**文件名**：MicrosoftEdge_ARM64_132.0.2911.0.exe  
-**校验值（Sha256）**：f82ae6ecfe8a41cf0005e32b746b825c92c2c7a0616a4d4ff1f86007fce95683  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/aadf01e5-c1c9-407a-aa33-bd2f5ba3046e?P1=1730208088&P2=404&P3=2&P4=ZLU%2bVlS736aww%2bR4NfO2%2fMTHtjegyJxt%2bdxTYafYrgv22HX8%2f0KoFDmuk5%2br5R1mFAA%2fLzYqvNTGuVYgGtJ7ug%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/aadf01e5-c1c9-407a-aa33-bd2f5ba3046e?P1=1730208088&P2=404&P3=2&P4=ZLU%2bVlS736aww%2bR4NfO2%2fMTHtjegyJxt%2bdxTYafYrgv22HX8%2f0KoFDmuk5%2br5R1mFAA%2fLzYqvNTGuVYgGtJ7ug%3d%3d)  
+**最新版本**：132.0.2912.0  
+**文件大小**：167.82 MB  
+**文件名**：MicrosoftEdge_ARM64_132.0.2912.0.exe  
+**校验值（Sha256）**：02ea909eeb379afefcd0c8a8fa40dae2039cf41edcc7a272e63effb5fe88fd00  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/863a8f27-1ee5-4c26-8281-4177d58aea1c?P1=1730243586&P2=404&P3=2&P4=XqbiivJqXN1wHnY3ZwbLEXE5C2cQYRPqLop2hAF19OaBHHxp8A0G4KBsi356F6EMREPnyrGvK22%2fxhhTl2AYOw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/863a8f27-1ee5-4c26-8281-4177d58aea1c?P1=1730243586&P2=404&P3=2&P4=XqbiivJqXN1wHnY3ZwbLEXE5C2cQYRPqLop2hAF19OaBHHxp8A0G4KBsi356F6EMREPnyrGvK22%2fxhhTl2AYOw%3d%3d)  
 
