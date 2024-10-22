@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-10-22 14:10:54 (UTC-5)
+2024-10-22 15:13:30 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -89,11 +89,11 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5318843f-e41e-43a7-8658-c6604c0f35d5?P1=1730229053&P2=404&P3=2&P4=etgy%2fbBwONg4wWJ9t3h08xX1AXeGc%2ft274xjMM7fZf4R0%2bIHci7Jwz00QwwAYUPHE5QZagdiZ5uo00%2fEkEXoKQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5318843f-e41e-43a7-8658-c6604c0f35d5?P1=1730229053&P2=404&P3=2&P4=etgy%2fbBwONg4wWJ9t3h08xX1AXeGc%2ft274xjMM7fZf4R0%2bIHci7Jwz00QwwAYUPHE5QZagdiZ5uo00%2fEkEXoKQ%3d%3d)  
 
 ## dev x86
-**最新版本**：131.0.2889.0  
-**文件大小**：150.14 MB  
-**文件名**：MicrosoftEdge_X86_131.0.2889.0.exe  
-**校验值（Sha256）**：b14e4d1a57c2ab405a4c390ca77f0ae946b01c44379fcf48ec4680073c61d8b2  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1e505e1d-8457-4044-859e-1b02bf604c76?P1=1730070734&P2=404&P3=2&P4=fbjtQ%2bDOa%2fB7Pd34aV5Tw6mY%2fRzcEd%2bcp6zOoXh36XFv8OCOE8%2bY3B6g%2fDBPKs9i%2feU2K3pAKdQ1tiXD2notXw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1e505e1d-8457-4044-859e-1b02bf604c76?P1=1730070734&P2=404&P3=2&P4=fbjtQ%2bDOa%2fB7Pd34aV5Tw6mY%2fRzcEd%2bcp6zOoXh36XFv8OCOE8%2bY3B6g%2fDBPKs9i%2feU2K3pAKdQ1tiXD2notXw%3d%3d)  
+**最新版本**：131.0.2903.5  
+**文件大小**：150.07 MB  
+**文件名**：MicrosoftEdge_X86_131.0.2903.5.exe  
+**校验值（Sha256）**：85b9b2d3c1a3e851774c11411b1ff8bcd1560c766f9afc9caa117cef64fab798  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3aa0745e-1041-4ee2-b70c-33b0209fb68b?P1=1730232807&P2=404&P3=2&P4=RUknOO0ZJY%2buSAu%2bKRIWgV6aqd9wEjZCWbYlT1CKD0IjIZ0dJa9htipoa6JR7JNDfqgxWV%2bKofjng%2b3S1bSGiQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3aa0745e-1041-4ee2-b70c-33b0209fb68b?P1=1730232807&P2=404&P3=2&P4=RUknOO0ZJY%2buSAu%2bKRIWgV6aqd9wEjZCWbYlT1CKD0IjIZ0dJa9htipoa6JR7JNDfqgxWV%2bKofjng%2b3S1bSGiQ%3d%3d)  
 
 ## dev x64
 **最新版本**：131.0.2903.5  
