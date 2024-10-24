@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-10-24 17:11:30 (UTC-5)
+2024-10-24 18:12:20 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9e83a659-48b9-47a4-ba5b-5a327f2eaa70?P1=1730412689&P2=404&P3=2&P4=BOGenL5asSN4tXju44KnkKAz4u5fqaQ8wJnf%2bcHH%2bwXhkF7N8Dp%2f5uMHZD1ykknszSn2Ek%2b06Y0r%2byTgBm%2bkug%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9e83a659-48b9-47a4-ba5b-5a327f2eaa70?P1=1730412689&P2=404&P3=2&P4=BOGenL5asSN4tXju44KnkKAz4u5fqaQ8wJnf%2bcHH%2bwXhkF7N8Dp%2f5uMHZD1ykknszSn2Ek%2b06Y0r%2byTgBm%2bkug%3d%3d)  
 
 ## canary ARM64
-**最新版本**：132.0.2915.0  
-**文件大小**：167.78 MB  
-**文件名**：MicrosoftEdge_ARM64_132.0.2915.0.exe  
-**校验值（Sha256）**：595843bb948756240fe764eb42a4633142e6911643d37c31ed4f30a9b60b9559  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/50ca31cd-ff2e-4e57-a34d-91b10cfd026d?P1=1730383917&P2=404&P3=2&P4=eHxZqYRMhg%2bDa%2bDuBLo2q6FuCGDnU9s%2fUaNofhcz25WB%2f1pnr6ODLOyh2VVZu3NLILvHnehRN%2f1Mk5kmR1St7g%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/50ca31cd-ff2e-4e57-a34d-91b10cfd026d?P1=1730383917&P2=404&P3=2&P4=eHxZqYRMhg%2bDa%2bDuBLo2q6FuCGDnU9s%2fUaNofhcz25WB%2f1pnr6ODLOyh2VVZu3NLILvHnehRN%2f1Mk5kmR1St7g%3d%3d)  
+**最新版本**：132.0.2916.0  
+**文件大小**：167.7 MB  
+**文件名**：MicrosoftEdge_ARM64_132.0.2916.0.exe  
+**校验值（Sha256）**：524389a07cc95906805a9c7fccfbd90ef6d8acba0a83a55f79662cc2b071d53d  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/45d1e955-1ccc-4258-a8f4-a6cd41ed89e7?P1=1730416340&P2=404&P3=2&P4=QpUIPn%2fxaB8ZW7aZmVEaaYl2hGAhSsrD25BG9UAUz48DUZkXqB9j%2fs%2bb2l3WuxRROrvv7q74tnygo7vY769BGA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/45d1e955-1ccc-4258-a8f4-a6cd41ed89e7?P1=1730416340&P2=404&P3=2&P4=QpUIPn%2fxaB8ZW7aZmVEaaYl2hGAhSsrD25BG9UAUz48DUZkXqB9j%2fs%2bb2l3WuxRROrvv7q74tnygo7vY769BGA%3d%3d)  
 
