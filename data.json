@@ -104,19 +104,19 @@
         "version": "132.0.2931.0"
     },
     "msedge-canary-win-x64": {
-        "\u6587\u4ef6\u540d": "MicrosoftEdge_X64_132.0.2930.0.exe",
-        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2b6170b2-dee2-41de-8e31-2ebdbd64bf59?P1=1731021236&P2=404&P3=2&P4=iifxgncysXVDIxfzE9ZLhwfZ3YT8ZQPjy%2bDLxyB%2fyLzP6yxHgurtEKoZGbpkKmAAqwXLYN4u5fhP6YEiPen%2fLQ%3d%3d",
-        "\u5b57\u8282\u5927\u5c0f": 176241232,
-        "Sha1": "N7acrz1M6Y+2pZ2D+93GX6I5p5o=",
-        "Sha256": "3b289eca918dc33ee18716648ac33e9719395dd498262aec802f5bca36711d15",
-        "version": "132.0.2930.0"
+        "\u6587\u4ef6\u540d": "MicrosoftEdge_X64_132.0.2931.0.exe",
+        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/46a26572-3077-49b1-a711-c4ea69a212c9?P1=1731107516&P2=404&P3=2&P4=UhBGZt6oYDpK%2foSS7bHkl%2b%2fYkSKzLrEm2jl63J0Iz312nMLyoae0i9urENK%2fpd2%2fU55qAh9QBeu%2b9NVqp8zjDg%3d%3d",
+        "\u5b57\u8282\u5927\u5c0f": 176314448,
+        "Sha1": "pPXWGv0KaXsAmlByebWTt3um3iU=",
+        "Sha256": "5aed30fcc580d41f67efa4bc587ec5aa78759aeefff01078a4379efd3ad5ebff",
+        "version": "132.0.2931.0"
     },
     "msedge-canary-win-ARM64": {
-        "\u6587\u4ef6\u540d": "MicrosoftEdge_ARM64_132.0.2930.0.exe",
-        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2c59ad53-d537-42fe-9095-3042247b0b3c?P1=1731027822&P2=404&P3=2&P4=IhH3S96V%2biuJK%2fckOv%2bZ%2bU1W782w1TD%2fl7LYU2y6jP4kTPZ%2bwQgKmtcEGv4wi6PxM56jp3t3MUFCMZWPODJsBg%3d%3d",
-        "\u5b57\u8282\u5927\u5c0f": 175945272,
-        "Sha1": "hzjMfl/bS+HIC6OY1ixn69Wv30w=",
-        "Sha256": "58ef81d293ab3663dde22f60234e18300740112251028e0c4ee712c49a1d75d7",
-        "version": "132.0.2930.0"
+        "\u6587\u4ef6\u540d": "MicrosoftEdge_ARM64_132.0.2931.0.exe",
+        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a9cbdfa6-ecdc-4e08-81fe-231d7e22f0fa?P1=1731107517&P2=404&P3=2&P4=BLfXjAF%2fvcLk66rqrnCFr8QCNH7Lhbjwy9SgtZBYIBcKHvIkvY9iUQ2wRM%2bHYDpWfWB6AHEGKdhyvaHjqEnjLA%3d%3d",
+        "\u5b57\u8282\u5927\u5c0f": 175984208,
+        "Sha1": "VRiEMFv71o3Oy8g+3fKpGWOfYvI=",
+        "Sha256": "4623a288416637a7a516081a3c6b5e6aaa08d5a8af779785f1d25ffff50d346f",
+        "version": "132.0.2931.0"
     }
 }
