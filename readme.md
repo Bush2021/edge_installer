@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-10-31 18:13:56 (UTC-5)
+2024-10-31 20:03:41 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2b6170b2-dee2-41de-8e31-2ebdbd64bf59?P1=1731021236&P2=404&P3=2&P4=iifxgncysXVDIxfzE9ZLhwfZ3YT8ZQPjy%2bDLxyB%2fyLzP6yxHgurtEKoZGbpkKmAAqwXLYN4u5fhP6YEiPen%2fLQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2b6170b2-dee2-41de-8e31-2ebdbd64bf59?P1=1731021236&P2=404&P3=2&P4=iifxgncysXVDIxfzE9ZLhwfZ3YT8ZQPjy%2bDLxyB%2fyLzP6yxHgurtEKoZGbpkKmAAqwXLYN4u5fhP6YEiPen%2fLQ%3d%3d)  
 
 ## canary ARM64
-**最新版本**：132.0.2929.0  
-**文件大小**：167.74 MB  
-**文件名**：MicrosoftEdge_ARM64_132.0.2929.0.exe  
-**校验值（Sha256）**：a647db5285a1539ae468ee3684e155f93631ec31c575665485e61c094097ac12  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4b442f2f-afde-496c-93bd-4b4c56a89beb?P1=1730988741&P2=404&P3=2&P4=HYpgnmQK9UXkpPwqsKqxSvaI0BSeFNQSfOF2NSHDXcGOS2YFkTWMSwuxFH%2bQSLZeGKufioELGckAP6KK8UJGsw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4b442f2f-afde-496c-93bd-4b4c56a89beb?P1=1730988741&P2=404&P3=2&P4=HYpgnmQK9UXkpPwqsKqxSvaI0BSeFNQSfOF2NSHDXcGOS2YFkTWMSwuxFH%2bQSLZeGKufioELGckAP6KK8UJGsw%3d%3d)  
+**最新版本**：132.0.2930.0  
+**文件大小**：167.79 MB  
+**文件名**：MicrosoftEdge_ARM64_132.0.2930.0.exe  
+**校验值（Sha256）**：58ef81d293ab3663dde22f60234e18300740112251028e0c4ee712c49a1d75d7  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2c59ad53-d537-42fe-9095-3042247b0b3c?P1=1731027822&P2=404&P3=2&P4=IhH3S96V%2biuJK%2fckOv%2bZ%2bU1W782w1TD%2fl7LYU2y6jP4kTPZ%2bwQgKmtcEGv4wi6PxM56jp3t3MUFCMZWPODJsBg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2c59ad53-d537-42fe-9095-3042247b0b3c?P1=1731027822&P2=404&P3=2&P4=IhH3S96V%2biuJK%2fckOv%2bZ%2bU1W782w1TD%2fl7LYU2y6jP4kTPZ%2bwQgKmtcEGv4wi6PxM56jp3t3MUFCMZWPODJsBg%3d%3d)  
 
