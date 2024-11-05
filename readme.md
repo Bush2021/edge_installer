@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-11-04 18:13:03 (UTC-5)
+2024-11-04 19:57:43 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2566cbb8-16ba-4e2c-aa61-edbdf3200de4?P1=1731366783&P2=404&P3=2&P4=K2HLZZk6lwUZcoRnRzkgskvX29QDjunGKJ4sZSa5JBCzqOtwHOnQT%2by2nFcFcFZf9HDVaR4qit1vw4Jz1HJAeA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2566cbb8-16ba-4e2c-aa61-edbdf3200de4?P1=1731366783&P2=404&P3=2&P4=K2HLZZk6lwUZcoRnRzkgskvX29QDjunGKJ4sZSa5JBCzqOtwHOnQT%2by2nFcFcFZf9HDVaR4qit1vw4Jz1HJAeA%3d%3d)  
 
 ## canary ARM64
-**最新版本**：132.0.2937.0  
-**文件大小**：167.8 MB  
-**文件名**：MicrosoftEdge_ARM64_132.0.2937.0.exe  
-**校验值（Sha256）**：298a3f71b4eb6617e8aaa765d22ffce0aa3028b6a707b507190ff4c431539ff4  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/56a77575-5641-4ab6-b8a0-72ffd35a0ce5?P1=1731338003&P2=404&P3=2&P4=dxpxAt4CTc9jFmC8eE78D3AbKzwXp%2bDSW3p%2foJG3rZ8d14eRpXy64yzBUyzX9AbaCluat855kcB0vR7K%2fRlfCQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/56a77575-5641-4ab6-b8a0-72ffd35a0ce5?P1=1731338003&P2=404&P3=2&P4=dxpxAt4CTc9jFmC8eE78D3AbKzwXp%2bDSW3p%2foJG3rZ8d14eRpXy64yzBUyzX9AbaCluat855kcB0vR7K%2fRlfCQ%3d%3d)  
+**最新版本**：132.0.2938.0  
+**文件大小**：167.85 MB  
+**文件名**：MicrosoftEdge_ARM64_132.0.2938.0.exe  
+**校验值（Sha256）**：166e678cf06b034ffc84e8085e438529478d82ba4fba9eb4fc414496a1b72dc7  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/624e6c5f-4eec-49be-bf76-c0cac5ccf13e?P1=1731373064&P2=404&P3=2&P4=J%2bV2gDzpk5LbjiV%2bIRX1ISIQPardyKrDpEe96z1tUWMEU%2baOWZP%2fQrkEgFKtvPVek8%2fC5IoV8I4BcLNo8Qz49w%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/624e6c5f-4eec-49be-bf76-c0cac5ccf13e?P1=1731373064&P2=404&P3=2&P4=J%2bV2gDzpk5LbjiV%2bIRX1ISIQPardyKrDpEe96z1tUWMEU%2baOWZP%2fQrkEgFKtvPVek8%2fC5IoV8I4BcLNo8Qz49w%3d%3d)  
 
