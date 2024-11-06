@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-11-05 18:12:42 (UTC-5)
+2024-11-05 19:57:45 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d39c5c55-9eb2-48e1-8eef-d187d0688d9e?P1=1731453162&P2=404&P3=2&P4=AUUbi0QNRtK4JNvcS5BgDnLgP4aDtaS6MKSnXmrAUcfyNr7HUOb9nZQJ1%2b9dkSw7g%2bLkaga3keLmk3kifXZsvw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d39c5c55-9eb2-48e1-8eef-d187d0688d9e?P1=1731453162&P2=404&P3=2&P4=AUUbi0QNRtK4JNvcS5BgDnLgP4aDtaS6MKSnXmrAUcfyNr7HUOb9nZQJ1%2b9dkSw7g%2bLkaga3keLmk3kifXZsvw%3d%3d)  
 
 ## canary ARM64
-**最新版本**：132.0.2939.0  
-**文件大小**：167.85 MB  
-**文件名**：MicrosoftEdge_ARM64_132.0.2939.0.exe  
-**校验值（Sha256）**：7aa040af52cf4bf3ad51c8fdd5b41163ff92dad2c8a425277d4f6a9ea95fc4af  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/543e4fa5-8bac-4526-a8ed-cdf00a100f65?P1=1731420710&P2=404&P3=2&P4=U2TLX%2byiimcIDmfnyZDNjxLJiq8OiULxQrDnqL5mtYcTjAMeyd1H4xhjnZ%2bHFtaMLZFXp%2bWXbJYjlPRUxpfJLA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/543e4fa5-8bac-4526-a8ed-cdf00a100f65?P1=1731420710&P2=404&P3=2&P4=U2TLX%2byiimcIDmfnyZDNjxLJiq8OiULxQrDnqL5mtYcTjAMeyd1H4xhjnZ%2bHFtaMLZFXp%2bWXbJYjlPRUxpfJLA%3d%3d)  
+**最新版本**：132.0.2940.0  
+**文件大小**：167.91 MB  
+**文件名**：MicrosoftEdge_ARM64_132.0.2940.0.exe  
+**校验值（Sha256）**：f4a9fc7b39b1dc592950a3970d1670247a6cf5eee95633ef7b12b186c4a2a27c  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c44aee3b-867f-4004-b0db-7ec76f284762?P1=1731459465&P2=404&P3=2&P4=U9c6scSSz3owrI9YNBKnrN56kqXWy5lzZzRmgtmcoFctMvzhmS6cV4W%2bzYAoljmxaaiKcmvRho1Pq5gdxgaqOA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c44aee3b-867f-4004-b0db-7ec76f284762?P1=1731459465&P2=404&P3=2&P4=U9c6scSSz3owrI9YNBKnrN56kqXWy5lzZzRmgtmcoFctMvzhmS6cV4W%2bzYAoljmxaaiKcmvRho1Pq5gdxgaqOA%3d%3d)  
 
