@@ -64,12 +64,12 @@
         "version": "131.0.2903.27"
     },
     "msedge-beta-win-ARM64": {
-        "\u6587\u4ef6\u540d": "MicrosoftEdge_ARM64_131.0.2903.27.exe",
-        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7218da55-c606-4676-8692-2268bacb1692?P1=1731366781&P2=404&P3=2&P4=E%2f8P2BTTJU%2b%2bzHrCkDKG%2bfN9IDOaTlwjDpSWou%2b1gOGBK2sQaDugGyqIhzkxVjnMzdtK3ub%2ftn0epo44CNWwOQ%3d%3d",
-        "\u5b57\u8282\u5927\u5c0f": 176250976,
-        "Sha1": "950CHhscMKWDC3seTP4XGpLNG9Y=",
-        "Sha256": "6f4d2f171952bacb6b6e53829243b2f25bf6396734412a52fbae625094096d66",
-        "version": "131.0.2903.27"
+        "\u6587\u4ef6\u540d": "MicrosoftEdge_ARM64_131.0.2903.36.exe",
+        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4d38c658-9468-4d01-9dee-c7001d023e62?P1=1731694560&P2=404&P3=2&P4=VEeIEqg0BJZiVTNxpUpcI9FEdF%2fy4hkkayBNAzZZYoRcMxc1mOvPgTCpkJGFziilWBeES8y7i3k0gtojb%2b%2fOxw%3d%3d",
+        "\u5b57\u8282\u5927\u5c0f": 176259128,
+        "Sha1": "0li3QFpIycY79lGJNJbage90sk8=",
+        "Sha256": "ed2f8712270769ed22946e13766f7e3a5f90db9b311bd963f6b78468a375c6b3",
+        "version": "131.0.2903.36"
     },
     "msedge-dev-win-x86": {
         "\u6587\u4ef6\u540d": "MicrosoftEdge_X86_132.0.2931.1.exe",
