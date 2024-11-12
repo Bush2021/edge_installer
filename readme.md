@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-11-12 08:20:02 (UTC-5)
+2024-11-12 09:11:53 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/616023e3-c06d-4b22-99a7-6700aeb16ec2?P1=1732022402&P2=404&P3=2&P4=ipzprN3hrzy4iR%2b3mS2OTKaXblZ%2b8aPzPibqE%2fFesBOQQrW6b0EkUxsb5FX3W%2bQBFDoaLmqA1bgW24Lpho5o5Q%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/616023e3-c06d-4b22-99a7-6700aeb16ec2?P1=1732022402&P2=404&P3=2&P4=ipzprN3hrzy4iR%2b3mS2OTKaXblZ%2b8aPzPibqE%2fFesBOQQrW6b0EkUxsb5FX3W%2bQBFDoaLmqA1bgW24Lpho5o5Q%3d%3d)  
 
 ## canary ARM64
-**最新版本**：132.0.2952.0  
+**最新版本**：132.0.2953.0  
 **文件大小**：168.23 MB  
-**文件名**：MicrosoftEdge_ARM64_132.0.2952.0.exe  
-**校验值（Sha256）**：5563ed0965768f949c7c49b28bd9ebee1ad99dd284bb1a0da55af2efe465f2bc  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/db17c7bb-35ad-41b1-8437-561de3661a17?P1=1731971496&P2=404&P3=2&P4=moX99O%2bwVB0RFZkIDzC5ZhUDDjm6hmUuFrjXG6G8s8QEckzZ78R6WIg5Yj6eZlbjMZj%2fd9uu%2fPJZetinDGAogQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/db17c7bb-35ad-41b1-8437-561de3661a17?P1=1731971496&P2=404&P3=2&P4=moX99O%2bwVB0RFZkIDzC5ZhUDDjm6hmUuFrjXG6G8s8QEckzZ78R6WIg5Yj6eZlbjMZj%2fd9uu%2fPJZetinDGAogQ%3d%3d)  
+**文件名**：MicrosoftEdge_ARM64_132.0.2953.0.exe  
+**校验值（Sha256）**：2f95d91a122055ee5608e810b96788ee300596d033137f4ff410894728cb69c4  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8179be21-9f6f-4c0d-b4a4-994caf38404d?P1=1732025514&P2=404&P3=2&P4=D1xP9BLCPKHwiDkJThTu6VIlXv2YOFv3hdLSyQDGld%2bdOmnM6lKQv7DdTsqBq4UsyNJuhNOJ%2boqdlswnVZpVHQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8179be21-9f6f-4c0d-b4a4-994caf38404d?P1=1732025514&P2=404&P3=2&P4=D1xP9BLCPKHwiDkJThTu6VIlXv2YOFv3hdLSyQDGld%2bdOmnM6lKQv7DdTsqBq4UsyNJuhNOJ%2boqdlswnVZpVHQ%3d%3d)  
 
