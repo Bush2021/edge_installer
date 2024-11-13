@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-11-13 14:09:50 (UTC-5)
+2024-11-13 15:13:16 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -68,11 +68,11 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/171217a9-4cbb-4573-81f7-d31972f4d5d7?P1=1731971482&P2=404&P3=2&P4=ETeHIAW%2fhTTIMLGSv%2fm%2bb5Cp%2b1DXaDv2%2fGERitpzK2UxWFEK%2bUsoIf3XJ7fa7z%2bRRvXCAhSHhU45fvUkbH2W6w%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/171217a9-4cbb-4573-81f7-d31972f4d5d7?P1=1731971482&P2=404&P3=2&P4=ETeHIAW%2fhTTIMLGSv%2fm%2bb5Cp%2b1DXaDv2%2fGERitpzK2UxWFEK%2bUsoIf3XJ7fa7z%2bRRvXCAhSHhU45fvUkbH2W6w%3d%3d)  
 
 ## beta x86
-**最新版本**：131.0.2903.36  
-**文件大小**：150.24 MB  
-**文件名**：MicrosoftEdge_X86_131.0.2903.36.exe  
-**校验值（Sha256）**：cb0f2e10edca5ab1c9b471cb99ac8c012c74ba36f91cadfa9b81f29a8bbb5656  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9a1d4f16-3ddb-4e54-8c01-c6c67dbb6ddc?P1=1731971487&P2=404&P3=2&P4=SkZmOmYi01TA08aFpZuFAURaAgmqa1bSrf66LP%2fKOi1CfqNRDSLvAHMMdc3SrbR3oUe1ifEivRbGmpH2n7361A%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9a1d4f16-3ddb-4e54-8c01-c6c67dbb6ddc?P1=1731971487&P2=404&P3=2&P4=SkZmOmYi01TA08aFpZuFAURaAgmqa1bSrf66LP%2fKOi1CfqNRDSLvAHMMdc3SrbR3oUe1ifEivRbGmpH2n7361A%3d%3d)  
+**最新版本**：131.0.2903.45  
+**文件大小**：150.21 MB  
+**文件名**：MicrosoftEdge_X86_131.0.2903.45.exe  
+**校验值（Sha256）**：294907cb72708ee11266cb043383bad536b63d9871a929fa62ea07a8bfe6e194  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f6efd624-5646-4465-8d80-81bdf5f299da?P1=1732133593&P2=404&P3=2&P4=h16zZ1WECr2GQJJVvmF3UN0YvdSDdN%2fHuPbupYJ3VcjGP3%2bm6bNKuWTQN74JOjChfBfsSTCL5yOeRYoatbQMJg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f6efd624-5646-4465-8d80-81bdf5f299da?P1=1732133593&P2=404&P3=2&P4=h16zZ1WECr2GQJJVvmF3UN0YvdSDdN%2fHuPbupYJ3VcjGP3%2bm6bNKuWTQN74JOjChfBfsSTCL5yOeRYoatbQMJg%3d%3d)  
 
 ## beta x64
 **最新版本**：131.0.2903.36  
