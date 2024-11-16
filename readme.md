@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-11-15 18:12:12 (UTC-5)
+2024-11-15 20:00:39 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/616023e3-c06d-4b22-99a7-6700aeb16ec2?P1=1732022402&P2=404&P3=2&P4=ipzprN3hrzy4iR%2b3mS2OTKaXblZ%2b8aPzPibqE%2fFesBOQQrW6b0EkUxsb5FX3W%2bQBFDoaLmqA1bgW24Lpho5o5Q%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/616023e3-c06d-4b22-99a7-6700aeb16ec2?P1=1732022402&P2=404&P3=2&P4=ipzprN3hrzy4iR%2b3mS2OTKaXblZ%2b8aPzPibqE%2fFesBOQQrW6b0EkUxsb5FX3W%2bQBFDoaLmqA1bgW24Lpho5o5Q%3d%3d)  
 
 ## canary ARM64
-**最新版本**：133.0.2959.0  
-**文件大小**：168.6 MB  
-**文件名**：MicrosoftEdge_ARM64_133.0.2959.0.exe  
-**校验值（Sha256）**：6269fc8ba8ff7abda87ec0cf2c45399747425d36e184ede5b734ddbf8e1a5183  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/eba4598d-e646-44f6-84d8-96671ec07bd9?P1=1732306426&P2=404&P3=2&P4=IryU0pLC7b%2fHYmx6PbF1c0tbfGdLlNJTFPitoT8MAx4LgBBvxipco1Ak5p7VXAa6uydCRqd6hwRdEkbDgYO8gQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/eba4598d-e646-44f6-84d8-96671ec07bd9?P1=1732306426&P2=404&P3=2&P4=IryU0pLC7b%2fHYmx6PbF1c0tbfGdLlNJTFPitoT8MAx4LgBBvxipco1Ak5p7VXAa6uydCRqd6hwRdEkbDgYO8gQ%3d%3d)  
+**最新版本**：133.0.2960.0  
+**文件大小**：168.59 MB  
+**文件名**：MicrosoftEdge_ARM64_133.0.2960.0.exe  
+**校验值（Sha256）**：7d74cce5ca45e7c912e906e0c0f7ed4ada6aa24e46eeee0f90dd5c6eef624581  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/03ccb836-3fd3-48c2-8eee-b55006795c4f?P1=1732323639&P2=404&P3=2&P4=DSbVG4G1WxR3dDh%2fo%2bdc3wrDD91EBN7R%2fDWhXx8%2bwM%2ffAyDVcxph1vxwDf%2fynClkb7nQSBSq9%2bbOFH2Ztkevmw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/03ccb836-3fd3-48c2-8eee-b55006795c4f?P1=1732323639&P2=404&P3=2&P4=DSbVG4G1WxR3dDh%2fo%2bdc3wrDD91EBN7R%2fDWhXx8%2bwM%2ffAyDVcxph1vxwDf%2fynClkb7nQSBSq9%2bbOFH2Ztkevmw%3d%3d)  
 
