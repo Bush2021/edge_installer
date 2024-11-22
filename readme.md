@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-11-22 09:11:46 (UTC-5)
+2024-11-22 10:13:17 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/12791b76-3265-4b09-be8c-2b99d7d7c269?P1=1732889506&P2=404&P3=2&P4=VTWOBZQ4EfleFyErbDB6fQM3uxav8pgry6CSyCBnJEvPc03Tc2mO6I1GwqL3xHmesnJX6EG48LApExe2cIcdPA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/12791b76-3265-4b09-be8c-2b99d7d7c269?P1=1732889506&P2=404&P3=2&P4=VTWOBZQ4EfleFyErbDB6fQM3uxav8pgry6CSyCBnJEvPc03Tc2mO6I1GwqL3xHmesnJX6EG48LApExe2cIcdPA%3d%3d)  
 
 ## canary ARM64
-**最新版本**：133.0.2971.0  
-**文件大小**：168.74 MB  
-**文件名**：MicrosoftEdge_ARM64_133.0.2971.0.exe  
-**校验值（Sha256）**：a60096182bb6d7a665136d34739a23a817ef7e3442f28c9731820fe6efdde565  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/414f383f-a922-46a0-b8c8-53565c031a60?P1=1732848798&P2=404&P3=2&P4=VSQr%2b32WKuDFqhDfDMChUFTEpzcCiC%2bUZcrlZxZVmyKmUn7TynlNxonz1Z0Px82EV0O%2b9xDJayd%2bP8vKQEmo1A%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/414f383f-a922-46a0-b8c8-53565c031a60?P1=1732848798&P2=404&P3=2&P4=VSQr%2b32WKuDFqhDfDMChUFTEpzcCiC%2bUZcrlZxZVmyKmUn7TynlNxonz1Z0Px82EV0O%2b9xDJayd%2bP8vKQEmo1A%3d%3d)  
+**最新版本**：133.0.2972.0  
+**文件大小**：168.83 MB  
+**文件名**：MicrosoftEdge_ARM64_133.0.2972.0.exe  
+**校验值（Sha256）**：08e53ba0d0e6be1a99acfccc4c882ceb20d2f7f4c312672e01e4b861619062a3  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3ab06acd-9b05-455e-84d2-28077164ef1b?P1=1732893197&P2=404&P3=2&P4=diab2nE3NJyVG%2fpTPv9AMMXS49aW5FKFMb7B39yBAUO6p56GKU1TMvOlRF50P9hXbw1bF%2bkdgd3APWysL5Dpig%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3ab06acd-9b05-455e-84d2-28077164ef1b?P1=1732893197&P2=404&P3=2&P4=diab2nE3NJyVG%2fpTPv9AMMXS49aW5FKFMb7B39yBAUO6p56GKU1TMvOlRF50P9hXbw1bF%2bkdgd3APWysL5Dpig%3d%3d)  
 
