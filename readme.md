@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-12-17 07:26:18 (UTC-5)
+2024-12-17 08:24:18 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f1b2f09d-ea1a-4c04-8b79-7fc5f33b7256?P1=1735002260&P2=404&P3=2&P4=cTRCsazCoMpSuTzZbrNXQNUxRACDfVyqKalnJ8LS%2fi%2fOTzGpeFZpebZN6gDaueDMyN9RP9qNcTXf9komWRUsEg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f1b2f09d-ea1a-4c04-8b79-7fc5f33b7256?P1=1735002260&P2=404&P3=2&P4=cTRCsazCoMpSuTzZbrNXQNUxRACDfVyqKalnJ8LS%2fi%2fOTzGpeFZpebZN6gDaueDMyN9RP9qNcTXf9komWRUsEg%3d%3d)  
 
 ## canary ARM64
-**最新版本**：133.0.3021.0  
-**文件大小**：170.25 MB  
-**文件名**：MicrosoftEdge_ARM64_133.0.3021.0.exe  
-**校验值（Sha256）**：5a0ed685ae0882135a544a3a07cea12098c0d31e246d79cd2efb147357d8360a  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/14411a70-df01-405c-95a6-bc2f53a748aa?P1=1735002260&P2=404&P3=2&P4=nq94LOOMUO3Y%2f%2bCmmnhtkH%2bdWqTBLtKUyPCncOp09%2fkcPXTViLyF2NceYhIm7vZrgSK%2bCfRkDnvYuCzVPPT3Cg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/14411a70-df01-405c-95a6-bc2f53a748aa?P1=1735002260&P2=404&P3=2&P4=nq94LOOMUO3Y%2f%2bCmmnhtkH%2bdWqTBLtKUyPCncOp09%2fkcPXTViLyF2NceYhIm7vZrgSK%2bCfRkDnvYuCzVPPT3Cg%3d%3d)  
+**最新版本**：133.0.3022.0  
+**文件大小**：170.27 MB  
+**文件名**：MicrosoftEdge_ARM64_133.0.3022.0.exe  
+**校验值（Sha256）**：b273e98b1cb0c343d9db9ee9b83a9f7563e50b7a8529de9efead457e8f256512  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2e46d543-fba1-4365-b336-22a980dafc32?P1=1735046658&P2=404&P3=2&P4=ly9l%2f%2bC0q85wq7XXtJSGR%2ffx%2bAp3CvYYbM1RGAz1Fo2Lbz0GAXN0Ifgl7tdp7cHtGbrPgEhQD88R0UK7k7E0xw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2e46d543-fba1-4365-b336-22a980dafc32?P1=1735046658&P2=404&P3=2&P4=ly9l%2f%2bC0q85wq7XXtJSGR%2ffx%2bAp3CvYYbM1RGAz1Fo2Lbz0GAXN0Ifgl7tdp7cHtGbrPgEhQD88R0UK7k7E0xw%3d%3d)  
 
