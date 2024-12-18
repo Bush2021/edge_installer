@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-12-17 18:12:02 (UTC-5)
+2024-12-17 20:01:30 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/577565d8-a514-4eec-82dc-992509be94ef?P1=1735081922&P2=404&P3=2&P4=eNTcNolzj%2buWiFlzdw92izMiIDRf05POzkw0x4VfkxaHAWdJVhbMsYiA23HFCtoGE3oMTuA3HO%2fjwOn72C2ZeA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/577565d8-a514-4eec-82dc-992509be94ef?P1=1735081922&P2=404&P3=2&P4=eNTcNolzj%2buWiFlzdw92izMiIDRf05POzkw0x4VfkxaHAWdJVhbMsYiA23HFCtoGE3oMTuA3HO%2fjwOn72C2ZeA%3d%3d)  
 
 ## canary ARM64
-**最新版本**：133.0.3022.0  
+**最新版本**：133.0.3023.0  
 **文件大小**：170.27 MB  
-**文件名**：MicrosoftEdge_ARM64_133.0.3022.0.exe  
-**校验值（Sha256）**：b273e98b1cb0c343d9db9ee9b83a9f7563e50b7a8529de9efead457e8f256512  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2e46d543-fba1-4365-b336-22a980dafc32?P1=1735046658&P2=404&P3=2&P4=ly9l%2f%2bC0q85wq7XXtJSGR%2ffx%2bAp3CvYYbM1RGAz1Fo2Lbz0GAXN0Ifgl7tdp7cHtGbrPgEhQD88R0UK7k7E0xw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2e46d543-fba1-4365-b336-22a980dafc32?P1=1735046658&P2=404&P3=2&P4=ly9l%2f%2bC0q85wq7XXtJSGR%2ffx%2bAp3CvYYbM1RGAz1Fo2Lbz0GAXN0Ifgl7tdp7cHtGbrPgEhQD88R0UK7k7E0xw%3d%3d)  
+**文件名**：MicrosoftEdge_ARM64_133.0.3023.0.exe  
+**校验值（Sha256）**：27a6a98b24407bf237de312ea898736f1022d16290088bab7cbb2dc370376a2b  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/66a5db7c-55f4-40d6-9285-4c1a5f0dcdb5?P1=1735088490&P2=404&P3=2&P4=EmndaXMw3nEBT06xQGSXbIrh9sTa4oAQwjZhwUtXx%2f%2bMmaTZZ83U79H%2fixttTvv%2be7AqqMX5f3DNZLpcW2H9hQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/66a5db7c-55f4-40d6-9285-4c1a5f0dcdb5?P1=1735088490&P2=404&P3=2&P4=EmndaXMw3nEBT06xQGSXbIrh9sTa4oAQwjZhwUtXx%2f%2bMmaTZZ83U79H%2fixttTvv%2be7AqqMX5f3DNZLpcW2H9hQ%3d%3d)  
 
