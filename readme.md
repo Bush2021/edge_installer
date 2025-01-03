@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-01-03 09:11:04 (UTC-5)
+2025-01-03 10:12:29 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9ea92d1d-3d9c-4f4d-af60-77ade27cdf47?P1=1736518264&P2=404&P3=2&P4=J%2bVanRB0cu%2f7Uv44884SPOicQKSMOfjS%2fanBG%2fK53lmJ4aV94NI6GYcpN9k8B5XfAfjbptmphCAtPbg4Uv6KAQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9ea92d1d-3d9c-4f4d-af60-77ade27cdf47?P1=1736518264&P2=404&P3=2&P4=J%2bVanRB0cu%2f7Uv44884SPOicQKSMOfjS%2fanBG%2fK53lmJ4aV94NI6GYcpN9k8B5XfAfjbptmphCAtPbg4Uv6KAQ%3d%3d)  
 
 ## canary ARM64
-**最新版本**：133.0.3053.0  
-**文件大小**：170.37 MB  
-**文件名**：MicrosoftEdge_ARM64_133.0.3053.0.exe  
-**校验值（Sha256）**：b8ba7d62e483b0a02a26586824482050e999354f6a45909462ed5dc5ba90b4d9  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a32c1b85-5f08-456b-b417-541cf53f835d?P1=1736464310&P2=404&P3=2&P4=gvxWAklAZFn8YYOjZH1tY4ZHkeuwaDExFBPSCCX%2bOVTq5%2bjq0qWVx1jnnM%2bXmnEpCzcEFnmqP2Wac4OqpMe4Ig%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a32c1b85-5f08-456b-b417-541cf53f835d?P1=1736464310&P2=404&P3=2&P4=gvxWAklAZFn8YYOjZH1tY4ZHkeuwaDExFBPSCCX%2bOVTq5%2bjq0qWVx1jnnM%2bXmnEpCzcEFnmqP2Wac4OqpMe4Ig%3d%3d)  
+**最新版本**：133.0.3054.0  
+**文件大小**：170.48 MB  
+**文件名**：MicrosoftEdge_ARM64_133.0.3054.0.exe  
+**校验值（Sha256）**：82d40659e3ca0f377b165c90870cc2c02af396a702f86f3b07075fba5b7ca11f  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/dedb385c-a182-4a1f-8320-d638422f6dfa?P1=1736521949&P2=404&P3=2&P4=eC9kZ%2bl5DXjhioqW%2fExBkQctLW0kaaohx6oV0Ba0vjKOZXHJSgzkka%2bYaF5DNcS10Ss2880fUggs%2bLNakkEMVg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/dedb385c-a182-4a1f-8320-d638422f6dfa?P1=1736521949&P2=404&P3=2&P4=eC9kZ%2bl5DXjhioqW%2fExBkQctLW0kaaohx6oV0Ba0vjKOZXHJSgzkka%2bYaF5DNcS10Ss2880fUggs%2bLNakkEMVg%3d%3d)  
 
