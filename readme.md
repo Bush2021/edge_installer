@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-01-06 09:11:58 (UTC-5)
+2025-01-06 10:12:56 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4b345fa4-f8b4-47dc-88d3-32c6228cb134?P1=1736777518&P2=404&P3=2&P4=WxH%2b%2b0M7TpkiVbw5amMVmwJKMMue1r3X9queI3%2b5wDfT0Ol%2ftXxN3SrP%2bqw9S%2bZJWKOW7XsCaiJJGS8xkfObDg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4b345fa4-f8b4-47dc-88d3-32c6228cb134?P1=1736777518&P2=404&P3=2&P4=WxH%2b%2b0M7TpkiVbw5amMVmwJKMMue1r3X9queI3%2b5wDfT0Ol%2ftXxN3SrP%2bqw9S%2bZJWKOW7XsCaiJJGS8xkfObDg%3d%3d)  
 
 ## canary ARM64
-**最新版本**：133.0.3056.0  
-**文件大小**：170.39 MB  
-**文件名**：MicrosoftEdge_ARM64_133.0.3056.0.exe  
-**校验值（Sha256）**：22c13fc6dc4fb631baef5851de35d8110fe8cfc03b4b3ee01b36e48222ae3d14  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d53259d9-b4c4-4a9d-9cb2-ad5d56d84b30?P1=1736611996&P2=404&P3=2&P4=GYw0%2fvq5ydFZLmmfKR6%2b4lAcizzE4oPS3IEGwkqoUN24gcD39PG5mpfSOCdJvZSVDc5yh1RJBj3hgWbsmj%2fzUQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d53259d9-b4c4-4a9d-9cb2-ad5d56d84b30?P1=1736611996&P2=404&P3=2&P4=GYw0%2fvq5ydFZLmmfKR6%2b4lAcizzE4oPS3IEGwkqoUN24gcD39PG5mpfSOCdJvZSVDc5yh1RJBj3hgWbsmj%2fzUQ%3d%3d)  
+**最新版本**：133.0.3060.0  
+**文件大小**：170.42 MB  
+**文件名**：MicrosoftEdge_ARM64_133.0.3060.0.exe  
+**校验值（Sha256）**：8c4e564f47f9eae99b07a3746b0124a430197fb80e38cb83b909c53e3149940e  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/93a66707-985e-42f5-acae-b52d44df25f2?P1=1736781177&P2=404&P3=2&P4=VmN6RCMc2QNUyK0ypKmWa3ke9DaJpzYiEMCsqMSHRdS90MZXlKAUuztBoIAKHZSrCFxstR3qNVHvbuGcyRRwUA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/93a66707-985e-42f5-acae-b52d44df25f2?P1=1736781177&P2=404&P3=2&P4=VmN6RCMc2QNUyK0ypKmWa3ke9DaJpzYiEMCsqMSHRdS90MZXlKAUuztBoIAKHZSrCFxstR3qNVHvbuGcyRRwUA%3d%3d)  
 
