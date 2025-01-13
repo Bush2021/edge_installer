@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-01-13 09:12:41 (UTC-5)
+2025-01-13 10:13:54 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/57e993e2-7776-46c4-acd7-ff56796c6d83?P1=1737382362&P2=404&P3=2&P4=hL3MFP68TWmtIBWBtY3g%2bBMJM7zWEqs%2bPj0NUbrcXhw%2bgbHJq7NiEUwdvjlHGj8eJ5%2bcEbiNuTC5yuAwYL84Ig%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/57e993e2-7776-46c4-acd7-ff56796c6d83?P1=1737382362&P2=404&P3=2&P4=hL3MFP68TWmtIBWBtY3g%2bBMJM7zWEqs%2bPj0NUbrcXhw%2bgbHJq7NiEUwdvjlHGj8eJ5%2bcEbiNuTC5yuAwYL84Ig%3d%3d)  
 
 ## canary ARM64
-**最新版本**：133.0.3065.0  
-**文件大小**：170.06 MB  
-**文件名**：MicrosoftEdge_ARM64_133.0.3065.0.exe  
-**校验值（Sha256）**：72df0005637e7f240663356d36c9d0134af69f522a0a39a9a4ceaf8e24e17342  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9bef2872-0da3-41bf-b5f7-10ffe555b9c7?P1=1737241868&P2=404&P3=2&P4=exargbFKq05tOmNC2uVnzYHJaJNg6H5SmaCW5GjxTdlHmkauf8lh3N9RT6GoCC3V70SgqH7lmsbyKxRhGAe50A%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9bef2872-0da3-41bf-b5f7-10ffe555b9c7?P1=1737241868&P2=404&P3=2&P4=exargbFKq05tOmNC2uVnzYHJaJNg6H5SmaCW5GjxTdlHmkauf8lh3N9RT6GoCC3V70SgqH7lmsbyKxRhGAe50A%3d%3d)  
+**最新版本**：134.0.3073.0  
+**文件大小**：170.13 MB  
+**文件名**：MicrosoftEdge_ARM64_134.0.3073.0.exe  
+**校验值（Sha256）**：2eca494d208f92e14782730add5999faa4beb3bcd8204926a2b56ba3f11c4513  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6cdd8a28-e6d6-4b5a-8c9d-2d71bcb55c99?P1=1737386034&P2=404&P3=2&P4=S1gr0cfwZbEpGRQXyezSDkkOIrzfx0cQ7aks%2bzHKtHEetioXe7khFcwCoNcRNLLybKMQfmk32UR4uxOfRGwiWg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6cdd8a28-e6d6-4b5a-8c9d-2d71bcb55c99?P1=1737386034&P2=404&P3=2&P4=S1gr0cfwZbEpGRQXyezSDkkOIrzfx0cQ7aks%2bzHKtHEetioXe7khFcwCoNcRNLLybKMQfmk32UR4uxOfRGwiWg%3d%3d)  
 
