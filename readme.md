@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-01-24 09:11:08 (UTC-5)
+2025-01-24 10:12:40 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a718f8d9-821b-4fdb-81d1-fc43b0ab4983?P1=1738332668&P2=404&P3=2&P4=b90UVtaGQ6SFznj%2fu01sGXs2wAwvSL%2fIw3LzBXi5qGQcciWy9%2fh602wJQhPClxCZMhH%2fpwwx6JjKjeUJ5N9qGw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a718f8d9-821b-4fdb-81d1-fc43b0ab4983?P1=1738332668&P2=404&P3=2&P4=b90UVtaGQ6SFznj%2fu01sGXs2wAwvSL%2fIw3LzBXi5qGQcciWy9%2fh602wJQhPClxCZMhH%2fpwwx6JjKjeUJ5N9qGw%3d%3d)  
 
 ## canary ARM64
-**最新版本**：134.0.3094.0  
-**文件大小**：170.51 MB  
-**文件名**：MicrosoftEdge_ARM64_134.0.3094.0.exe  
-**校验值（Sha256）**：33f40e330b23bb12a3138bd4cc5e0946c6d1b9c82609b9af27ae1bf49f44270d  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/37958c21-3ee7-4b6a-99ee-7adbc8ee1e9a?P1=1738285079&P2=404&P3=2&P4=ZQYhrOlJYwVipgbt08abWAmiTqx9JtFgL%2fJs%2fg7v92CupYmtu1no3A6RO6uaFqmGoGr8tyFLiwAhhBW6VOysVA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/37958c21-3ee7-4b6a-99ee-7adbc8ee1e9a?P1=1738285079&P2=404&P3=2&P4=ZQYhrOlJYwVipgbt08abWAmiTqx9JtFgL%2fJs%2fg7v92CupYmtu1no3A6RO6uaFqmGoGr8tyFLiwAhhBW6VOysVA%3d%3d)  
+**最新版本**：134.0.3095.0  
+**文件大小**：170.63 MB  
+**文件名**：MicrosoftEdge_ARM64_134.0.3095.0.exe  
+**校验值（Sha256）**：474bc34031e3a9ef1f044315e7b59de38e23ff22548e1ea7a573697354276cd5  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/10f89813-5039-4a3c-a959-ae82335403bd?P1=1738336360&P2=404&P3=2&P4=BI58wV%2fGzqeRh4NCblmTKs6KwndsBiHfLA4O13V5Nn%2bTMrhNllIWMEkP9SMa6PaJxsKiCmyvskIdvkOMdhBEjg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/10f89813-5039-4a3c-a959-ae82335403bd?P1=1738336360&P2=404&P3=2&P4=BI58wV%2fGzqeRh4NCblmTKs6KwndsBiHfLA4O13V5Nn%2bTMrhNllIWMEkP9SMa6PaJxsKiCmyvskIdvkOMdhBEjg%3d%3d)  
 
