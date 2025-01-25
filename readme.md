@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-01-25 11:13:27 (UTC-5)
+2025-01-25 12:09:13 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1f68c584-d716-4b43-afac-977e1ae2a9fb?P1=1738426407&P2=404&P3=2&P4=LdaoUMwMTLYWpEW8RvmOVtZRhLR6m%2b2mIVj8mivG3GPhDe6DMqdKT3PYph3h4%2bjjEFx94BJ13mZtZsqZd3BBCw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1f68c584-d716-4b43-afac-977e1ae2a9fb?P1=1738426407&P2=404&P3=2&P4=LdaoUMwMTLYWpEW8RvmOVtZRhLR6m%2b2mIVj8mivG3GPhDe6DMqdKT3PYph3h4%2bjjEFx94BJ13mZtZsqZd3BBCw%3d%3d)  
 
 ## canary ARM64
-**最新版本**：134.0.3096.0  
-**文件大小**：170.85 MB  
-**文件名**：MicrosoftEdge_ARM64_134.0.3096.0.exe  
-**校验值（Sha256）**：f70b14765d74bc99c2204e37f39f20ab4ae0dd6b4eb7be0fcf51fc2ed194e00b  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8481e108-b548-47eb-8de4-0ee05beb178a?P1=1738371259&P2=404&P3=2&P4=kq5%2b0PMBQHKKbOgaG1vYCp2mNzNvni2Q%2f2qnXGZk1Wo37pjmtM6q%2fag5c3f7Tm%2fcDSgkkigBo7yd9LTScUR%2f%2fA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8481e108-b548-47eb-8de4-0ee05beb178a?P1=1738371259&P2=404&P3=2&P4=kq5%2b0PMBQHKKbOgaG1vYCp2mNzNvni2Q%2f2qnXGZk1Wo37pjmtM6q%2fag5c3f7Tm%2fcDSgkkigBo7yd9LTScUR%2f%2fA%3d%3d)  
+**最新版本**：134.0.3097.0  
+**文件大小**：170.51 MB  
+**文件名**：MicrosoftEdge_ARM64_134.0.3097.0.exe  
+**校验值（Sha256）**：18831ff9501b919fba929d3ff69c7bd7b96cefa44d7a4dd984dc17723d26aa6c  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/71b24989-b72e-44d7-bc71-912a332b3287?P1=1738429754&P2=404&P3=2&P4=kCqOboDpxF4elA%2bOI3y58WPnqBEWt0dH%2bMS6NH1TGzY2i4Iqj8Q2ISd%2fSBG%2bMw8CVrgej%2fjIfY%2f4pclyyVsFLA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/71b24989-b72e-44d7-bc71-912a332b3287?P1=1738429754&P2=404&P3=2&P4=kCqOboDpxF4elA%2bOI3y58WPnqBEWt0dH%2bMS6NH1TGzY2i4Iqj8Q2ISd%2fSBG%2bMw8CVrgej%2fjIfY%2f4pclyyVsFLA%3d%3d)  
 
