@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-01-27 09:12:02 (UTC-5)
+2025-01-27 10:11:38 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/652b11e7-9565-4baf-bcc7-aa83e53de1d6?P1=1738591922&P2=404&P3=2&P4=bmMoWG3LyRitdw1NnlI6u2tU2iShh8kdFBienBdhN8GrUQ6yJkGounrvnZqN5UVODM%2fB73J%2bfIrhSAMHbZIcQQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/652b11e7-9565-4baf-bcc7-aa83e53de1d6?P1=1738591922&P2=404&P3=2&P4=bmMoWG3LyRitdw1NnlI6u2tU2iShh8kdFBienBdhN8GrUQ6yJkGounrvnZqN5UVODM%2fB73J%2bfIrhSAMHbZIcQQ%3d%3d)  
 
 ## canary ARM64
-**最新版本**：134.0.3097.0  
-**文件大小**：170.51 MB  
-**文件名**：MicrosoftEdge_ARM64_134.0.3097.0.exe  
-**校验值（Sha256）**：18831ff9501b919fba929d3ff69c7bd7b96cefa44d7a4dd984dc17723d26aa6c  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/71b24989-b72e-44d7-bc71-912a332b3287?P1=1738429754&P2=404&P3=2&P4=kCqOboDpxF4elA%2bOI3y58WPnqBEWt0dH%2bMS6NH1TGzY2i4Iqj8Q2ISd%2fSBG%2bMw8CVrgej%2fjIfY%2f4pclyyVsFLA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/71b24989-b72e-44d7-bc71-912a332b3287?P1=1738429754&P2=404&P3=2&P4=kCqOboDpxF4elA%2bOI3y58WPnqBEWt0dH%2bMS6NH1TGzY2i4Iqj8Q2ISd%2fSBG%2bMw8CVrgej%2fjIfY%2f4pclyyVsFLA%3d%3d)  
+**最新版本**：134.0.3101.0  
+**文件大小**：170.71 MB  
+**文件名**：MicrosoftEdge_ARM64_134.0.3101.0.exe  
+**校验值（Sha256）**：286e4470e51b6b08fdb5609de57f4dcf29cfd38a4bac8f72345b543b3e7f28bd  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c96dc706-45ea-4d54-96f4-b500243908e2?P1=1738595498&P2=404&P3=2&P4=PX79W1cGrHr6PPoyR1GnjKLpnGehoWZ2DL95xF8nMuKzRgu2DoBpU6VGW8fbEZsjsSBBC%2bCo4td55%2f0qKh8BiA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c96dc706-45ea-4d54-96f4-b500243908e2?P1=1738595498&P2=404&P3=2&P4=PX79W1cGrHr6PPoyR1GnjKLpnGehoWZ2DL95xF8nMuKzRgu2DoBpU6VGW8fbEZsjsSBBC%2bCo4td55%2f0qKh8BiA%3d%3d)  
 
