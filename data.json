@@ -104,19 +104,19 @@
         "version": "134.0.3109.0"
     },
     "msedge-canary-win-x64": {
-        "\u6587\u4ef6\u540d": "MicrosoftEdge_X64_134.0.3109.0.exe",
-        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a9b700db-e823-461c-a31c-ecce3d64cf8c?P1=1738937479&P2=404&P3=2&P4=HNYyIuWVZpJFagA4oJ9puo943713f6TUXnb%2beU%2fIsVJNpISJG1zXIxO8oynah08rU2qp7n9ZbU41wzHeotW5aA%3d%3d",
-        "\u5b57\u8282\u5927\u5c0f": 179628640,
-        "Sha1": "2lhD+T4Do+5HVUBX4Njc30VEfpc=",
-        "Sha256": "385e392f9a16020e57c42060688e6f79faba45be95ad94944367baab330baf42",
-        "version": "134.0.3109.0"
+        "\u6587\u4ef6\u540d": "MicrosoftEdge_X64_134.0.3111.0.exe",
+        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/bcbff555-85cb-43b6-87c3-7eaf26d990b4?P1=1739031165&P2=404&P3=2&P4=OIead4h0oQOYCSt0Zq0LKOh8Be4zQkJqHrTGDwu42L7SO3gkZMzB3BoinOpYAkOx5bKA1tHQrHQY4agq0jAqwg%3d%3d",
+        "\u5b57\u8282\u5927\u5c0f": 179793488,
+        "Sha1": "vD16Qo/C7qGBr3cAVplCimesNgU=",
+        "Sha256": "da56a22aa08793a134888e531bdd3f268433d007047a986b52d31d9ba588a544",
+        "version": "134.0.3111.0"
     },
     "msedge-canary-win-ARM64": {
-        "\u6587\u4ef6\u540d": "MicrosoftEdge_ARM64_134.0.3109.0.exe",
-        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/bd703019-7830-4eb7-a7ec-6662da1054ad?P1=1738937480&P2=404&P3=2&P4=Q3pn8NpHY8W3h5JqhzjEPa1HTEcT1mIl%2bXYcheNPYpfF%2fAxEJIZe%2bLOKEhupiywuDzbkYGY6FhigJwjdtUpSKQ%3d%3d",
-        "\u5b57\u8282\u5927\u5c0f": 179259472,
-        "Sha1": "OspxY+34cwImGSJFVAPP9lQ4gZA=",
-        "Sha256": "cde4b9dab567ce5341317aeef02fbbe2e3781f507c30d5443f30d653902831f6",
-        "version": "134.0.3109.0"
+        "\u6587\u4ef6\u540d": "MicrosoftEdge_ARM64_134.0.3111.0.exe",
+        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1b55ed86-30d8-4ebe-98e9-dbcfbeb99e96?P1=1739031166&P2=404&P3=2&P4=DGVlhw1DnKu02zZvavWnYQqVJzRmLFi1UDbhvXePQXsyWFFASuHjUihxyu%2fqgF%2bVbqPEfvQmH7LvZPA5NpGaow%3d%3d",
+        "\u5b57\u8282\u5927\u5c0f": 179329104,
+        "Sha1": "H1McNtv3SKgLpzGxf1H4oa1Mles=",
+        "Sha256": "b75e10104b272a78d0aac2cf72e3d0e1126da2cf68f2e89548ee407d89c6a4d4",
+        "version": "134.0.3111.0"
     }
 }
