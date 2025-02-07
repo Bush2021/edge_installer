@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-02-07 10:12:24 (UTC-5)
+2025-02-07 11:14:33 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/21e7048e-5dca-40f8-b30d-4c44a1069d01?P1=1739545944&P2=404&P3=2&P4=LLklq54HrXbuUbVpEim9erxSjrzoye%2fqo0R8DGTe3OHHWOOh9Fy7MjV%2fWe2Mr0lUmWWeShSZviH0ErkfhHC%2bdQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/21e7048e-5dca-40f8-b30d-4c44a1069d01?P1=1739545944&P2=404&P3=2&P4=LLklq54HrXbuUbVpEim9erxSjrzoye%2fqo0R8DGTe3OHHWOOh9Fy7MjV%2fWe2Mr0lUmWWeShSZviH0ErkfhHC%2bdQ%3d%3d)  
 
 ## canary ARM64
-**最新版本**：134.0.3122.0  
-**文件大小**：171.2 MB  
-**文件名**：MicrosoftEdge_ARM64_134.0.3122.0.exe  
-**校验值（Sha256）**：7c8cfb1d9a84050d154057d7ad53c8e82622bd1b8905ebbff19711451090ce3f  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c7ba03a6-bb8d-4e98-bcb9-6f2920c80a48?P1=1739499387&P2=404&P3=2&P4=ZPCEu%2fKistOopp6VMnVeqC%2fgB5OBi7VI5j%2fAZstsw%2f8X%2f9L0OYsDdavSctEEMV7GQeBoQWsPEUHMOuJTci0rTg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c7ba03a6-bb8d-4e98-bcb9-6f2920c80a48?P1=1739499387&P2=404&P3=2&P4=ZPCEu%2fKistOopp6VMnVeqC%2fgB5OBi7VI5j%2fAZstsw%2f8X%2f9L0OYsDdavSctEEMV7GQeBoQWsPEUHMOuJTci0rTg%3d%3d)  
+**最新版本**：134.0.3123.0  
+**文件大小**：171.17 MB  
+**文件名**：MicrosoftEdge_ARM64_134.0.3123.0.exe  
+**校验值（Sha256）**：ab3ea38933129343696c1d65198e12a1b7464312c989bb1e3e625864eeea430e  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a903ae37-9b19-4f0a-ab8f-47c1e6176735?P1=1739549673&P2=404&P3=2&P4=DOSu0Se9nWInPGIv71e7KBbdK%2b9bNuMZjN7huihOjOchehsrC2Q7v9APNFSU8xQXWjNqZ3HudD4M3JNBLtjLwQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a903ae37-9b19-4f0a-ab8f-47c1e6176735?P1=1739549673&P2=404&P3=2&P4=DOSu0Se9nWInPGIv71e7KBbdK%2b9bNuMZjN7huihOjOchehsrC2Q7v9APNFSU8xQXWjNqZ3HudD4M3JNBLtjLwQ%3d%3d)  
 
