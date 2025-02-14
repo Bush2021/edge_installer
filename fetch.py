@@ -190,11 +190,6 @@ def save_md():
         f.write(
             f"稳定版存档：<https://github.com/Bush2021/edge_installer/releases>\n\n"
         )
-        f.write(f"最后检测更新时间\n")
-        now = datetime.now(timezone(timedelta(hours=-5)))
-        now_str = now.strftime("%Y-%m-%d %H:%M:%S (UTC-5)")
-        f.write(f"{now_str}\n")
-        f.write("\n")
         f.write(f"## 注意\n")
         f.write(f"* Microsoft 直链会过期，请及时保存。\n")
         f.write(f"* 下载文件名可能是乱码，有需要的话请自行重命名。\n")
