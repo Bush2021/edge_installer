@@ -11,18 +11,13 @@ jobs:
     steps:
     - uses: actions/checkout@v4
       with:
-        persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal access token.
-        fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
+        fetch-depth: 0
 
     - name: Check Update
       run: python fetch.py
 
-    - name: Download Latest Stable Release
+    - name: Download Latest Stable Releases
       run: python download.py
-
-    - name: Get Tag
-      id: get_tag
-      run: echo "tag=$(cat last_download.txt)" >> $GITHUB_ENV
 
     - name: Check for EXE Files
       id: check_files
@@ -36,13 +31,13 @@ jobs:
     - name: Check if Tag Exists
       id: check_tag
       run: |
-        if git rev-parse "refs/tags/${{ env.tag }}" >/dev/null 2>&1; then
+        if git rev-parse "refs/tags/${{ env.latest_version }}" >/dev/null 2>&1; then
           echo "tag_exists=true" >> $GITHUB_ENV
         else
           echo "tag_exists=false" >> $GITHUB_ENV
         fi
 
-    - name: Commit Files
+    - name: Commit and Push Changes
       env:
         TZ: America/New_York
       run: |
@@ -50,16 +45,19 @@ jobs:
         git config --local user.name "github-actions[bot]"
         git add .
         git commit -m ":pencil: Auto update Edge at  $(date +"%Y-%m-%d %H:%M")" -a
-
-    - name: Push Changes
-      uses: ad-m/github-push-action@v0.8.0
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: ${{ github.ref }}
+        git push origin main
 
     - name: Upload Release
       if: env.exe_exists == 'true' && env.tag_exists == 'false'
       uses: softprops/action-gh-release@v2
       with:
-        tag_name: ${{ env.tag }}
+        tag_name: ${{ env.latest_version }}
         files: '*.exe'
+
+    - name: Reset Main Branch
+      if: env.exe_exists == 'true' && env.tag_exists == 'false'
+      run: |
+        git checkout --orphan temp_branch
+        git add -A
+        git commit -m "Init"
+        git push --force origin temp_branch:main

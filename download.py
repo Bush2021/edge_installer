@@ -1,33 +1,33 @@
+import argparse
 import json
 import os
-
 import requests
+import shutil
+import subprocess
 
 
 def version_tuple(v):
     return tuple(map(int, (v.split("."))))
 
 
-def get_last_download():
-    try:
-        with open("last_download.txt", "r") as file:
-            last_version = file.read().strip()
-            return last_version
-    except FileNotFoundError:
-        return ""
+def get_last_version():
+    result = subprocess.run(
+        ["git", "tag", "--sort=-creatordate"], capture_output=True, text=True
+    )
+    version = result.stdout.split("\n")[0].strip()
+    return version if version else "0.0.0.0"
 
 
 def check_update():
-    last_version = get_last_download()
+    last_version = get_last_version()
     with open("data.json", "r") as f:
         data = json.load(f)
-        current_version = data["msedge-stable-win-x64"]["version"]
-    if version_tuple(last_version) < version_tuple(current_version):
-        with open("last_download.txt", "w") as file:
-            file.write(current_version)
-        return True
-    else:
-        return False
+        latest_version = data["msedge-stable-win-x64"]["version"]
+    github_env = os.getenv("GITHUB_ENV")
+    if github_env and os.path.exists(github_env):
+        with open(github_env, "a") as env_file:
+            env_file.write(f"latest_version={latest_version}\n")
+    return version_tuple(last_version) < version_tuple(latest_version)
 
 
 def get_download_url(version):
@@ -67,7 +67,7 @@ def download():
         for version in versions:
             download_file(get_download_url(version), get_filename(version))
         if os.path.exists("__pycache__"):
-            os.system("rmdir /s /q __pycache__")
+            shutil.rmtree("__pycache__")
     else:
         print("No new version detected, skip downloading")
         return
