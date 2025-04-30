@@ -56,20 +56,20 @@
         "version": "136.0.3240.45"
     },
     "msedge-beta-win-x64": {
-        "\u6587\u4ef6\u540d": "MicrosoftEdge_X64_136.0.3240.45.exe",
-        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a5573983-8252-4dd7-b333-c693ec154f69?P1=1746555552&P2=404&P3=2&P4=LZnzE9N9I8WscdDaQliWWA%2bG%2fsR%2fakvEM%2b0yy%2b8z2fogDv7OBh4vfPzJnTGnUGb%2f9JVL9zeO5IMqxChKorXs4Q%3d%3d",
+        "\u6587\u4ef6\u540d": "MicrosoftEdge_X64_136.0.3240.47.exe",
+        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2ddffe0a-3141-4f9f-800d-5b2e156297d7?P1=1746645049&P2=404&P3=2&P4=OSNhOojBqCghP6xO8No5DMwfH%2fVS5Ld2ljCeQOe8mIjzOOwJG7%2f8tzjuRIy3vMefk5tkk8YESpO1%2bozGfnggig%3d%3d",
         "\u5b57\u8282\u5927\u5c0f": 174250040,
-        "Sha1": "j0h9S10YDF5OHan2LFCTWTZxf0I=",
-        "Sha256": "c40a08a488f603c32b7266b1ca2408105f83886f154239b0b59578153ce0fde3",
-        "version": "136.0.3240.45"
+        "Sha1": "94TTgJjCz4Km8XnbWLJXRvenLus=",
+        "Sha256": "80e0aad2e158dd36cba8164d004fa50d90365b863c97bc194a27a87d08925dac",
+        "version": "136.0.3240.47"
     },
     "msedge-beta-win-ARM64": {
-        "\u6587\u4ef6\u540d": "MicrosoftEdge_ARM64_136.0.3240.45.exe",
-        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/621a08bb-2dea-489d-b439-080372f66129?P1=1746555553&P2=404&P3=2&P4=AmuyH%2f%2b5GqYT5zy6f47xbHhNkpJruGne%2fTQQLxYdj1ZP6HHt1VxoQa4CoA4O%2bTeIV3DtcAh4FK7adxmlSjWIGg%3d%3d",
-        "\u5b57\u8282\u5927\u5c0f": 180584504,
-        "Sha1": "cSe/yyirh2NQbax34/jWLElRBp4=",
-        "Sha256": "1aff24d66b460eab161608563e9d94fea6328e8aca7fcad47d77d7d12f61c282",
-        "version": "136.0.3240.45"
+        "\u6587\u4ef6\u540d": "MicrosoftEdge_ARM64_136.0.3240.47.exe",
+        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d496d578-4aa1-4e55-8c7f-2184f167ca04?P1=1746645049&P2=404&P3=2&P4=Xkzjtl5O%2fxbH6e1Sl2N6wWks2bdBt0oBwzLBRhRHWqj7nwmlDBiAHEIMM9hpdfr%2f9FFJ0ltGgj6IB%2fzDt%2f9L3w%3d%3d",
+        "\u5b57\u8282\u5927\u5c0f": 180548152,
+        "Sha1": "Q0qHcrLvhgvGam55OlhoDpudgwQ=",
+        "Sha256": "00c491bae1a183950631e5c581bd7432383a6f0b83241cc239feaac04a80f5d4",
+        "version": "136.0.3240.47"
     },
     "msedge-dev-win-x86": {
         "\u6587\u4ef6\u540d": "MicrosoftEdge_X86_137.0.3282.1.exe",
