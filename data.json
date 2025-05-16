@@ -104,19 +104,19 @@
         "version": "138.0.3322.0"
     },
     "msedge-canary-win-x64": {
-        "\u6587\u4ef6\u540d": "MicrosoftEdge_X64_138.0.3322.0.exe",
-        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5f69620b-9e4d-4e04-9375-280145d131ce?P1=1747955607&P2=404&P3=2&P4=kTmnHleuH7dK3xcxFCMUcInMMDWMUv2QknntRrARTFDwzJ65BexYpzTO3DhXxHUjHqjCOGkm1FHzFluSWT2evw%3d%3d",
-        "\u5b57\u8282\u5927\u5c0f": 179609648,
-        "Sha1": "ky8ymu1OzHHBLWIZgVxlZDznHNY=",
-        "Sha256": "bfaafa668815b5d70384b110982da1c65b85ced4a21a96a52054fc45314f0db4",
-        "version": "138.0.3322.0"
+        "\u6587\u4ef6\u540d": "MicrosoftEdge_X64_138.0.3323.0.exe",
+        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a2559d17-9578-4242-b54c-92c47c365537?P1=1748020263&P2=404&P3=2&P4=UiZKZMFRnfvNRohEtrDCgGcIQ3YXo%2bvAoKwHrvp9wccYSA2nno99PT5LZhEtVww6Y0OjUhHRNP2xWzowIOLAFw%3d%3d",
+        "\u5b57\u8282\u5927\u5c0f": 179746400,
+        "Sha1": "AfSyE2X1Nj/W/ahLY6aDDroWwAw=",
+        "Sha256": "10333400f4e06eeab59fd7893fa9c8314ed521c06c908c62c63e9c4b9bf77db7",
+        "version": "138.0.3323.0"
     },
     "msedge-canary-win-ARM64": {
-        "\u6587\u4ef6\u540d": "MicrosoftEdge_ARM64_138.0.3322.0.exe",
-        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f5c9e413-d941-4c0f-b681-4e96cf7b98e7?P1=1747962512&P2=404&P3=2&P4=Zy48Hxqg3SwW5kg69iJCCZYvK2OwiEjcbV11Q6lF%2f66ZHdkcYKQfmZpPnySwo75g31SiqpBTYddFlDxMVA%2fhgg%3d%3d",
-        "\u5b57\u8282\u5927\u5c0f": 178192976,
-        "Sha1": "KOoqUORSR2o9AEJiZF0XH1JgXsM=",
-        "Sha256": "fd0e2ac5cfde2f73b9c56e29d73f070ab2f8ae8029c49f6f9b62997a28205c21",
-        "version": "138.0.3322.0"
+        "\u6587\u4ef6\u540d": "MicrosoftEdge_ARM64_138.0.3323.0.exe",
+        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/dfe7d2b4-1ee8-4d2b-aff3-62cd42f880a2?P1=1748020264&P2=404&P3=2&P4=glwrzXjxQzCo%2bHtPhBkMJWkGw4WAqO0imXPM9EasWOmPvsSbHbEXvFtt%2b3rjZP2Hya2HsMeyM4PiSztqTdsF%2bg%3d%3d",
+        "\u5b57\u8282\u5927\u5c0f": 185792096,
+        "Sha1": "RiSVrv53XKMgKC0MHYizaMKi2Lw=",
+        "Sha256": "fe0ed8370f0e08d15e3f06cf38848c574073444f6a7b12c77dcf63fb93616ded",
+        "version": "138.0.3323.0"
     }
 }
