@@ -104,19 +104,19 @@
         "version": "150.0.4034.0"
     },
     "msedge-canary-win-x64": {
-        "\u6587\u4ef6\u540d": "MicrosoftEdge_X64_150.0.4033.0.exe",
-        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a5c9f2fc-c6b3-4614-9155-576522b64dcd?P1=1779318003&P2=404&P3=2&P4=KKpgkGcxIZjyRhvYqu31V7szKvlzGrqsCCsc%2b6AKe92q8mAbP6kgeu1rwz1SLwgSUUMzaPrbNLnt3Xy62LpK7g%3d%3d",
-        "\u5b57\u8282\u5927\u5c0f": 197067128,
-        "Sha1": "qnASAMF74WBaFdXeO/tdThiEX34=",
-        "Sha256": "bfd08c248453e2cd96fbfab5d5698964e9a7c6dd466da6e06afc6b28f0d0a2ab",
-        "version": "150.0.4033.0"
+        "\u6587\u4ef6\u540d": "MicrosoftEdge_X64_150.0.4034.0.exe",
+        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d33e7802-32c1-469d-b2fa-18496dc4ba5e?P1=1779376437&P2=404&P3=2&P4=UBtUoCFbixZJ4g90bLs04RAkLDjZMlzVbGpY8Tc48SptnztkZxHSNf1tt5Fx8fs8ltP3e0FhljXqhHgyvbGskg%3d%3d",
+        "\u5b57\u8282\u5927\u5c0f": 197364560,
+        "Sha1": "/JnZTOFh94ZlcUf7mKN5IBwhwNo=",
+        "Sha256": "e7df7004761667bb31579105a3b015331991f71011ef521e502d583b6237b517",
+        "version": "150.0.4034.0"
     },
     "msedge-canary-win-ARM64": {
-        "\u6587\u4ef6\u540d": "MicrosoftEdge_ARM64_150.0.4033.0.exe",
-        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a22155af-46fe-49d5-bf2c-153ddfc6d141?P1=1779318003&P2=404&P3=2&P4=a1Pl6fO4j7y61W1ZfH%2bjEh9PQpdGMzx0oAeEoo2Hqqpzv8N69HLqbYQLMtzhzHJVnXycIEa8XniOkNbqP%2fwG7Q%3d%3d",
-        "\u5b57\u8282\u5927\u5c0f": 201183096,
-        "Sha1": "ZougzEG07Oq9txKZLtJVDtHhRrc=",
-        "Sha256": "fe7de1abdc1c2725ca7b1aa585a1c41c4f13138f661abe32ba088dec55d76614",
-        "version": "150.0.4033.0"
+        "\u6587\u4ef6\u540d": "MicrosoftEdge_ARM64_150.0.4034.0.exe",
+        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/bf79a435-e24b-46c1-ab75-bb90db396220?P1=1779376438&P2=404&P3=2&P4=bRxXYi7PWf5LNlXNoSFLbj3%2bgaw0M9B31awJyY5Zg8PbVYEPwAnPszAh9vAS8sbqpzP7sMmKPpOv8XKFG%2fx9IQ%3d%3d",
+        "\u5b57\u8282\u5927\u5c0f": 201436496,
+        "Sha1": "C/jDKUMODuDYfhvzyhow8PNg28M=",
+        "Sha256": "b817832167789991ba1fb2219adcc45310d9757158dc3fadaa4bfc2c69c2e41c",
+        "version": "150.0.4034.0"
     }
 }
