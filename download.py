@@ -1,4 +1,5 @@
 import argparse
+import hashlib
 import json
 import os
 import requests
@@ -44,15 +45,28 @@ def get_filename(version):
     return filename
 
 
-def download_file(url, name):
+def get_sha256(version):
+    with open("data.json", "r") as f:
+        return json.load(f)[version]["Sha256"]
+
+
+def download_file(url, name, expected_sha256):
     if os.path.exists(name):
         print(f"The file {name} already exists, skip downloading")
         return
     r = requests.get(url, stream=True)
+    sha256 = hashlib.sha256()
     with open(name, "wb") as f:
         for chunk in r.iter_content(chunk_size=1024):
             if chunk:
                 f.write(chunk)
+                sha256.update(chunk)
+    actual = sha256.hexdigest()
+    if actual.lower() != expected_sha256.lower():
+        os.remove(name)
+        raise SystemExit(
+            f"Sha256 mismatch for {name}: expected {expected_sha256}, got {actual}"
+        )
     print("Download complete")
 
 
@@ -65,7 +79,11 @@ def download():
     if check_update():
         print("New version detected, start downloading...")
         for version in versions:
-            download_file(get_download_url(version), get_filename(version))
+            download_file(
+                get_download_url(version),
+                get_filename(version),
+                get_sha256(version),
+            )
         if os.path.exists("__pycache__"):
             shutil.rmtree("__pycache__")
     else:
