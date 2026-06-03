@@ -199,33 +199,73 @@ def decode_sha256_base64():
                 print(f"Error: Unable to decode base64 for {name}")
 
 
+# (channel, platform) -> section title, in display order. win7and8 is the
+# legacy stable build frozen at 109, shown as its own section.
+md_sections = [
+    ("stable", "win", "Stable"),
+    ("stable", "win7and8", "Stable (Windows 7/8)"),
+    ("beta", "win", "Beta"),
+    ("dev", "win", "Dev"),
+    ("canary", "win", "Canary"),
+]
+md_arch_order = ["x86", "x64", "ARM64"]
+
+
+def anchor(title):
+    s = "".join(c for c in title.lower() if c.isalnum() or c in " -")
+    return s.replace(" ", "-")
+
+
 def save_md():
-    index_url = "https://github.com/Bush2021/edge_installer?tab=readme-ov-file#"
+    groups = {}
+    for name, info in results.items():
+        _, channel, platform, arch = name.split("-")
+        groups.setdefault((channel, platform), {})[arch] = info
+
     with open("readme.md", "w") as f:
-        f.write(f"# Microsoft Edge 离线安装包下载链接（请使用 7-Zip 解压）\n")
+        f.write("# Microsoft Edge Offline Installers (extract with 7-Zip)\n")
         f.write(
-            f"稳定版存档：<https://github.com/Bush2021/edge_installer/releases>\n\n"
+            "Stable release archive: "
+            "https://github.com/Bush2021/edge_installer/releases\n\n"
         )
-        f.write(f"## 注意\n")
-        f.write(f"* Microsoft 直链会过期，请及时保存。\n")
-        f.write(f"* 下载文件名可能是乱码，有需要的话请自行重命名。\n")
+        f.write("> [!NOTE]\n")
+        f.write("> Microsoft direct links expire, so download promptly.\n\n")
+
+        f.write("## Contents\n\n")
+        for channel, platform, title in md_sections:
+            if (channel, platform) in groups:
+                f.write(f"- [{title}](#{anchor(title)})\n")
         f.write("\n")
-        f.write(f"## 目录\n")
-        for name in results.keys():
-            title = name[7:].replace("win-", "").replace("-", " ")
-            link = index_url + title.replace(" ", "-")
-            f.write(f"* [{title}]({link})\n")
-        f.write("\n")
-        for name, info in results.items():
-            f.write(f'## {name[7:].replace("win-", "").replace("-", " ")}\n')
-            f.write(f'**最新版本**：{info.get("version", "")}  \n')
-            f.write(f'**文件大小**：{humansize(info.get("size_in_bytes", 0))}  \n')
-            f.write(f'**文件名**：{info.get("file_name", "")}  \n')
-            f.write(f'**校验值（Sha256）**：{info.get("Sha256", "")}  \n')
-            f.write(
-                f'**下载链接**：[{info.get("url", "")}]({info.get("url", "")})  \n'
-            )
+
+        for channel, platform, title in md_sections:
+            archs = groups.get((channel, platform))
+            if not archs:
+                continue
+            f.write(f"## {title}\n\n")
+            f.write("| Architecture | Version | Size | SHA-256 | Download |\n")
+            f.write("|--------------|---------|------|---------|----------|\n")
+            for arch in md_arch_order:
+                if arch not in archs:
+                    continue
+                info = archs[arch]
+                sha256 = info.get("Sha256", "")
+                sha256_short = sha256[:16] + "..." if len(sha256) > 16 else sha256
+                f.write(
+                    f"| **{arch}** | `{info.get('version', '')}` | "
+                    f"{humansize(info.get('size_in_bytes', 0))} | "
+                    f"`{sha256_short}` | [Download]({info.get('url', '')}) |\n"
+                )
             f.write("\n")
+            f.write("<details>\n")
+            f.write("<summary>Full SHA-256 (sha256sum -c)</summary>\n\n")
+            f.write("```\n")
+            for arch in md_arch_order:
+                if arch not in archs:
+                    continue
+                info = archs[arch]
+                f.write(f"{info.get('Sha256', '')}  {info.get('file_name', '')}\n")
+            f.write("```\n\n")
+            f.write("</details>\n\n")
 
 
 def save_json():
