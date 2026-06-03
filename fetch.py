@@ -3,6 +3,7 @@ import os
 import binascii
 import json
 from datetime import datetime, timezone, timedelta
+from urllib.parse import urlparse, parse_qs
 
 import requests
 
@@ -128,8 +129,19 @@ def load_json():
         results = {}
 
 
+# Microsoft direct links last ~9-10 days; the expiry is in the URL P1 param.
+# When the version is unchanged, refresh only within REFRESH_BEFORE_EXPIRY of
+# expiry, so links are not rewritten every hour (churn).
+REFRESH_BEFORE_EXPIRY = timedelta(days=3)
+
+
+def link_expiry(url):
+    p1 = parse_qs(urlparse(url).query).get("P1", [None])[0]
+    return int(p1) if p1 and p1.isdigit() else 0
+
+
 def fetch():
-    current_day = datetime.now().day
+    now_ts = datetime.now(timezone.utc).timestamp()
     for channel, appid in channels.items():
         for arch in ["x86", "x64", "ARM64"]:
             info_result = get_info(f"{appid}-{arch}")
@@ -144,7 +156,10 @@ def fetch():
                 results[name]["version"]
             ):
                 results[name] = info
-            elif current_day in [2, 11, 20, 28]:
+            elif (
+                link_expiry(results[name].get("url", "")) - now_ts
+                < REFRESH_BEFORE_EXPIRY.total_seconds()
+            ):
                 results[name] = info
             else:
                 print("ignore", name, info["version"])
