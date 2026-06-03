@@ -137,6 +137,7 @@ def fetch():
                 name, info = info_result
             else:
                 print("Error: Unable to get info for", f"{appid}-{arch}")
+                continue
             if name not in results:
                 results[name] = info
             elif version_tuple(info["version"]) > version_tuple(
