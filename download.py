@@ -33,14 +33,14 @@ def check_update():
 def get_download_url(version):
     with open("data.json", "r") as f:
         data = json.load(f)
-        download_url = data[version]["下载链接"]
+        download_url = data[version]["url"]
     return download_url
 
 
 def get_filename(version):
     with open("data.json", "r") as f:
         data = json.load(f)
-        filename = data[version]["文件名"]
+        filename = data[version]["file_name"]
     return filename
 
 

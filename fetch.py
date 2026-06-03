@@ -78,9 +78,9 @@ def get_download_link(appid, version):
             sha256 = hashes.get("Sha256", "")
 
             return {
-                "文件名": file_id,
-                "下载链接": url,
-                "字节大小": size_in_bytes,
+                "file_name": file_id,
+                "url": url,
+                "size_in_bytes": size_in_bytes,
                 "Sha1": sha1,
                 "Sha256": sha256,
             }
@@ -164,9 +164,9 @@ def humansize(nbytes):
 
 def replace_http_to_https():
     for name, info in results.items():
-        results[name]["下载链接"] = (
+        results[name]["url"] = (
             results[name]
-            .get("下载链接", "")
+            .get("url", "")
             .replace("http://msedge.b", "https://msedge.sb")
         )
 
@@ -204,11 +204,11 @@ def save_md():
         for name, info in results.items():
             f.write(f'## {name[7:].replace("win-", "").replace("-", " ")}\n')
             f.write(f'**最新版本**：{info.get("version", "")}  \n')
-            f.write(f'**文件大小**：{humansize(info.get("字节大小", 0))}  \n')
-            f.write(f'**文件名**：{info.get("文件名", "")}  \n')
+            f.write(f'**文件大小**：{humansize(info.get("size_in_bytes", 0))}  \n')
+            f.write(f'**文件名**：{info.get("file_name", "")}  \n')
             f.write(f'**校验值（Sha256）**：{info.get("Sha256", "")}  \n')
             f.write(
-                f'**下载链接**：[{info.get("下载链接", "")}]({info.get("下载链接", "")})  \n'
+                f'**下载链接**：[{info.get("url", "")}]({info.get("url", "")})  \n'
             )
             f.write("\n")
 
