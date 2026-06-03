@@ -3,6 +3,7 @@ import os
 import binascii
 import json
 from datetime import datetime, timezone, timedelta
+from urllib.parse import urlparse, parse_qs
 
 import requests
 
@@ -78,9 +79,9 @@ def get_download_link(appid, version):
             sha256 = hashes.get("Sha256", "")
 
             return {
-                "文件名": file_id,
-                "下载链接": url,
-                "字节大小": size_in_bytes,
+                "file_name": file_id,
+                "url": url,
+                "size_in_bytes": size_in_bytes,
                 "Sha1": sha1,
                 "Sha256": sha256,
             }
@@ -128,8 +129,19 @@ def load_json():
         results = {}
 
 
+# Microsoft direct links last ~9-10 days; the expiry is in the URL P1 param.
+# When the version is unchanged, refresh only within REFRESH_BEFORE_EXPIRY of
+# expiry, so links are not rewritten every hour (churn).
+REFRESH_BEFORE_EXPIRY = timedelta(days=3)
+
+
+def link_expiry(url):
+    p1 = parse_qs(urlparse(url).query).get("P1", [None])[0]
+    return int(p1) if p1 and p1.isdigit() else 0
+
+
 def fetch():
-    current_day = datetime.now().day
+    now_ts = datetime.now(timezone.utc).timestamp()
     for channel, appid in channels.items():
         for arch in ["x86", "x64", "ARM64"]:
             info_result = get_info(f"{appid}-{arch}")
@@ -137,13 +149,17 @@ def fetch():
                 name, info = info_result
             else:
                 print("Error: Unable to get info for", f"{appid}-{arch}")
+                continue
             if name not in results:
                 results[name] = info
             elif version_tuple(info["version"]) > version_tuple(
                 results[name]["version"]
             ):
                 results[name] = info
-            elif current_day in [2, 11, 20, 28]:
+            elif (
+                link_expiry(results[name].get("url", "")) - now_ts
+                < REFRESH_BEFORE_EXPIRY.total_seconds()
+            ):
                 results[name] = info
             else:
                 print("ignore", name, info["version"])
@@ -163,9 +179,9 @@ def humansize(nbytes):
 
 def replace_http_to_https():
     for name, info in results.items():
-        results[name]["下载链接"] = (
+        results[name]["url"] = (
             results[name]
-            .get("下载链接", "")
+            .get("url", "")
             .replace("http://msedge.b", "https://msedge.sb")
         )
 
@@ -203,11 +219,11 @@ def save_md():
         for name, info in results.items():
             f.write(f'## {name[7:].replace("win-", "").replace("-", " ")}\n')
             f.write(f'**最新版本**：{info.get("version", "")}  \n')
-            f.write(f'**文件大小**：{humansize(info.get("字节大小", 0))}  \n')
-            f.write(f'**文件名**：{info.get("文件名", "")}  \n')
+            f.write(f'**文件大小**：{humansize(info.get("size_in_bytes", 0))}  \n')
+            f.write(f'**文件名**：{info.get("file_name", "")}  \n')
             f.write(f'**校验值（Sha256）**：{info.get("Sha256", "")}  \n')
             f.write(
-                f'**下载链接**：[{info.get("下载链接", "")}]({info.get("下载链接", "")})  \n'
+                f'**下载链接**：[{info.get("url", "")}]({info.get("url", "")})  \n'
             )
             f.write("\n")
 
