@@ -35,9 +35,9 @@ Stable release archive: https://github.com/Bush2021/edge_installer/releases
 
 | Architecture | Version | Size | SHA-256 | Download |
 |--------------|---------|------|---------|----------|
-| **x86** | `109.0.1518.140` | 122.56 MB | `2b48ce3b304b7b9a...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d87a3bbd-7fe5-4ec3-b806-293cca78b363?P1=1781045820&P2=404&P3=2&P4=in8eSiOwnvynbBKeZ6uEwFTCrS2mstKGQzdvD9DmwO5GEBCJmPrP9EoAI88j7Mjg2SgOwhtHM%2bf2hqMedZYKWg%3d%3d) |
-| **x64** | `109.0.1518.140` | 134.18 MB | `70d496873a0a1ca1...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0c4084f3-1bed-4246-b8ed-206ccbe60e3c?P1=1781045820&P2=404&P3=2&P4=QqxLOmzNy8E5igoMl9W2%2b5Ue4OUrmtPsSMnM9iAkfL5smxYVT8u%2flEULkwbJ%2bJbp7Onpypi8X39h7S2bde0QoA%3d%3d) |
-| **ARM64** | `109.0.1518.140` | 132.08 MB | `5de04fdc41cdbac6...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/630083c1-24b5-4545-9b0b-0f35a727bf89?P1=1781045822&P2=404&P3=2&P4=fXacukDINml%2bNjp6aUqUXAkb9dunMGrKiqxAystuHvVRMBkBun13%2bO0eJrOYbEHol3ro1OO1nZbCiMH%2bI4jJyA%3d%3d) |
+| **x86** | `109.0.1518.140` | 122.56 MB | `2b48ce3b304b7b9a...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d87a3bbd-7fe5-4ec3-b806-293cca78b363?P1=1781395101&P2=404&P3=2&P4=kb6w3t8jM%2fWDQjox588KCL0qXhBfYZdtSMdah7w%2bLDePwJuvGYApmoeUUfSskMAiNqOjDAne4CTp6OIqskfCvg%3d%3d) |
+| **x64** | `109.0.1518.140` | 134.18 MB | `70d496873a0a1ca1...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0c4084f3-1bed-4246-b8ed-206ccbe60e3c?P1=1781395101&P2=404&P3=2&P4=ET4rpvp5B76khF1MudmDhn%2f5CmrRXDUZqJzVzhl%2b9DwO6oaO4IH1Uea40ee4zmG2C8DOz%2f%2bD2UDhC%2f9JQe%2fDGA%3d%3d) |
+| **ARM64** | `109.0.1518.140` | 132.08 MB | `5de04fdc41cdbac6...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/630083c1-24b5-4545-9b0b-0f35a727bf89?P1=1781395101&P2=404&P3=2&P4=g6m3Q%2bU2yBqtfOUQCUZel4CvRPVfUhzHtzCnuPawQTsrDoLR3XwhnLPDPsMbTyXD%2f4IrxMBdBDSImsFzjIylQw%3d%3d) |
 
 <details>
 <summary>Full SHA-256 (sha256sum -c)</summary>
