@@ -54,9 +54,9 @@ Stable release archive: https://github.com/Bush2021/edge_installer/releases
 
 | Architecture | Version | Size | SHA-256 | Download |
 |--------------|---------|------|---------|----------|
-| **x86** | `150.0.4078.13` | 179.72 MB | `84ef59ec8a66a9ad...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3c683dfb-0605-49ba-9161-fd138dd12f55?P1=1782174317&P2=404&P3=2&P4=c%2b6TTcObE1ADU9E873YXIqbj9M0MyLKLoI2FuMIVH%2b8Yc9FAfV2bFeGAOd11v76bvxiMRkZcH5Wbwg8UJ1Y4%2fw%3d%3d) |
-| **x64** | `150.0.4078.13` | 202.94 MB | `0159d9f59ced89c9...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e7e773b9-7987-4802-94c0-e088ca8490f6?P1=1782174318&P2=404&P3=2&P4=CPIrCI6eFQZvJ1Weceer92uXjdMezUb3XMjwhkwo4pNXtlx70AaOqWRG4LPnWIXxuhNFQtC2QMRxKkHQK7kIrA%3d%3d) |
-| **ARM64** | `150.0.4078.13` | 207.13 MB | `18c4fb75d6c0cd25...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b58f5082-6b53-4bdd-ae4b-2441abef7f26?P1=1782174319&P2=404&P3=2&P4=fTxMZNRiW3EEP0i5vnOVPaMpMFtWX%2b74bylyltEs4BGOzY7dQ77scJ7r0SgbLiqV9tks%2bvkgmLZyVuoy%2bq2v%2bg%3d%3d) |
+| **x86** | `150.0.4078.13` | 179.72 MB | `84ef59ec8a66a9ad...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3c683dfb-0605-49ba-9161-fd138dd12f55?P1=1782536789&P2=404&P3=2&P4=cBOzPitL37br%2fgs9nVCvBn9m%2f50Wl8SQsjQNuBYwFja1w0reXManCC0NOKrccjnzIBrop1C3qSt4O%2bKEN1zi1Q%3d%3d) |
+| **x64** | `150.0.4078.13` | 202.94 MB | `0159d9f59ced89c9...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e7e773b9-7987-4802-94c0-e088ca8490f6?P1=1782536789&P2=404&P3=2&P4=axk2ckIsN97PPF1EXRTqmJE%2b6OXb9gcIEeIOV3F7tMifodfTsUJbx5GiZxO9qCrNYKzSh6MCamG5BsGwEE%2fJ%2bA%3d%3d) |
+| **ARM64** | `150.0.4078.13` | 207.13 MB | `18c4fb75d6c0cd25...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b58f5082-6b53-4bdd-ae4b-2441abef7f26?P1=1782536790&P2=404&P3=2&P4=kiIl9LsRficwUTHS9SyAnBl9tBhUZX2%2bM2Y8pGENtGcXcWq5jERRncGiTDwOf2uPCM4A%2fJZ7vgKpFbG6Zk%2bFNA%3d%3d) |
 
 <details>
 <summary>Full SHA-256 (sha256sum -c)</summary>
