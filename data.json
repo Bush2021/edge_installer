@@ -104,19 +104,19 @@
         "version": "151.0.4116.0"
     },
     "msedge-canary-win-x64": {
-        "file_name": "MicrosoftEdge_X64_151.0.4116.0.exe",
-        "url": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e5e9a0b7-e3b3-47d9-80d0-f8af39dcd091?P1=1783001495&P2=404&P3=2&P4=Mw%2fwVWaLr6kGauX751MwAYRDLFTfLT1dLZ9ObaGCV2T4pH%2bKJprMzj0X%2bCIAbrChZmvuwqNlnvj0sdFA%2fXAjuA%3d%3d",
-        "size_in_bytes": 201024336,
-        "Sha1": "J/L2uIJhJhLCtmN7qpftQPQJ+AQ=",
-        "Sha256": "bba541644348944e072f8c3e5fecd0d2e01d531bb9b53beceb8ae4fb989f91ec",
-        "version": "151.0.4116.0"
+        "file_name": "MicrosoftEdge_X64_151.0.4117.0.exe",
+        "url": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/fc76d467-3b47-4954-b1ba-537aab652c18?P1=1783021768&P2=404&P3=2&P4=Y9fXTycV5OHf3uVuZ5AesAv8EAxUj1ZvbwLoZSwiupQRcR4oGeLfaVXFgjJqLQ15fnNiPG2%2fyjAwXh5pc94cjQ%3d%3d",
+        "size_in_bytes": 201079120,
+        "Sha1": "jmGVm5HuytU2DKEuYCPdDmE1evY=",
+        "Sha256": "f4538241223dc074f3c12204fe5cf443c954c73ffe729ff31ea6a2dc3a68f08f",
+        "version": "151.0.4117.0"
     },
     "msedge-canary-win-ARM64": {
-        "file_name": "MicrosoftEdge_ARM64_151.0.4116.0.exe",
-        "url": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a278a2d3-c9ce-4912-9ca3-618bf0c219f1?P1=1783001496&P2=404&P3=2&P4=B79P19CqkwgOKmRSr03TimInSjB%2bmw2hD%2bY0OUKr4xY3qsK5%2fRq7NqqI1Di6N59kHzxeWc%2b6Itw2DY8NDRBi5Q%3d%3d",
-        "size_in_bytes": 205177168,
-        "Sha1": "dC84OjfqoovSZXHzr4mNI0JUnZQ=",
-        "Sha256": "f5f051762f8351ca9810b7452a97b95d2837a6ad536c8812c49a14f78744d2e1",
-        "version": "151.0.4116.0"
+        "file_name": "MicrosoftEdge_ARM64_151.0.4117.0.exe",
+        "url": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8ff2debd-96b1-4d10-915a-6fd3b0f86d37?P1=1783021770&P2=404&P3=2&P4=RdqNTwZ6pqDrIT7bC6wgvaIAmaMdLM7T9PBeODeSC3sqflkm3D5hIlE%2fybfCXBSSUUMvxIQkfOm71Q1eLI01fg%3d%3d",
+        "size_in_bytes": 205175120,
+        "Sha1": "opyaTJr9b2bYwR9k7DX3FHa3qHY=",
+        "Sha256": "173caf1821c9bc1b8794d6d4adaad28e4210b97667b93259592188a1064541ec",
+        "version": "151.0.4117.0"
     }
 }
