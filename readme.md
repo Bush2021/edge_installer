@@ -54,7 +54,7 @@ d8dc21a93d0a4b390fc1c964088c6730c342dd09ed85e45ea63449cffc9726d5  MicrosoftEdge_
 
 | Architecture | Version | Size | SHA-256 | Download |
 |--------------|---------|------|---------|----------|
-| **x86** | `151.0.4129.15` | 170.09 MB | `d25de0dc099d3ab3...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ffde536b-a09c-4e02-bc99-0676d466aa27?P1=1784319406&P2=404&P3=2&P4=Vyxg0bUH4Yms2PSDejZYUBHE3dzqw1GsM6oFAhOaC7s0yIkNHnW11E2uipfPn9HJ7Zpaj1lSlyvGecY6NNhcZw%3d%3d) |
+| **x86** | `151.0.4129.21` | 170.13 MB | `eae605a3f9bbe92e...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f9c5b1d7-cbcb-4993-8e8b-f5ffb4e2ebd2?P1=1784578053&P2=404&P3=2&P4=ibtGV%2bMa6IUmmE9jU2JS9JriD8FsBBDCEgeTAk0Grg4oOKPG5rcaXuG9XL3ZP1FQ8jsy16c1mYSKYi1vcNkm7Q%3d%3d) |
 | **x64** | `151.0.4129.21` | 246.59 MB | `0bdb8c9663eceda9...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/818c5bfd-613f-4d61-9a51-01ff91d06e06?P1=1784572068&P2=404&P3=2&P4=nnAYMwym8pjSWCtPhiFp2gyUPbSXNrlSlyALC91wSj9aOwZ2f6MUo8yuGXpslia4Q7lhu9nJV%2bNl5DK47yshxQ%3d%3d) |
 | **ARM64** | `151.0.4129.21` | 251.41 MB | `358b681391f0e550...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1bbecdfc-23f3-472b-ac0d-d53778e9903d?P1=1784572070&P2=404&P3=2&P4=G9lSZqi8GQ89S%2fVt2OPT7ts%2fXvf%2bc7y54S285IJ%2fUh1BPGng3OpYxVVY3h19iOiVBdAPDvG%2bCIQtlA%2bCs%2fTY9g%3d%3d) |
 
@@ -62,7 +62,7 @@ d8dc21a93d0a4b390fc1c964088c6730c342dd09ed85e45ea63449cffc9726d5  MicrosoftEdge_
 <summary>Full SHA-256 (sha256sum -c)</summary>
 
 ```
-d25de0dc099d3ab3f4e162fadc00b0c4af7838f2754065b1ac6320ed76ee34ee  MicrosoftEdge_X86_151.0.4129.15.exe
+eae605a3f9bbe92e01139e102f04e0733f526b0f1200560f1085c0f785fd3741  MicrosoftEdge_X86_151.0.4129.21.exe
 0bdb8c9663eceda9d0023a9efaa3505d2a15ba2bbce941ff78b120ae6247e18c  MicrosoftEdge_X64_151.0.4129.21.exe
 358b681391f0e550e91c4e893e23544ac0afad18f5f34210af30d2519f398381  MicrosoftEdge_ARM64_151.0.4129.21.exe
 ```
