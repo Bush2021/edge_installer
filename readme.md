@@ -92,7 +92,7 @@ c41ce701af97721bbc3f1519042dbe6815e38c2bcbdb15fca0727b251c179335  MicrosoftEdge_
 
 | Architecture | Version | Size | SHA-256 | Download |
 |--------------|---------|------|---------|----------|
-| **x86** | `152.0.4155.0` | 170.89 MB | `f804f1c87fb6d1f7...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/22681a19-46b2-4f71-a886-e2b1a89a1795?P1=1784639918&P2=404&P3=2&P4=iVEzvTyPmtacBPtkmGiHoIANXS2Sp3rSkJAOg3S5kGmNW%2fpti6%2bUsSoYf7v5SPmAuqePT0lkpqJe%2fM9N0gYb4Q%3d%3d) |
+| **x86** | `152.0.4156.0` | 170.98 MB | `93fd38cdaa9c6c49...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7bbe809c-09ac-4962-9a28-5265e2e69c45?P1=1784670714&P2=404&P3=2&P4=eQElcsIgUpXrkf1YpjedCqDPWNz%2fHlfeiel1MsQnXYNsQKJarn2ss2adfo3I9P1gvGEdrsZnsv7yDz8cky%2bF5Q%3d%3d) |
 | **x64** | `152.0.4156.0` | 247.4 MB | `118d077b3b962d6b...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4108a7da-0ac4-4562-8276-eb058522061d?P1=1784667194&P2=404&P3=2&P4=HMvZBeO5SZuFQ5ibUZieYATblx8OPdmXDw%2bdPgdbW5klsvEe5HtraCyI4IuqqXig5WaPcOTie%2bbmjFfs2x8eKw%3d%3d) |
 | **ARM64** | `152.0.4156.0` | 252.47 MB | `259574d7a5f3cc02...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/89d006c5-b44d-4dd9-8767-a89ac60c5fd0?P1=1784667195&P2=404&P3=2&P4=FnqI2aBOGtWosK%2bbEPEXV5NsFXfyDO3bo7WztovzYfOggzUcyn1blMJjQtI1tXHik7o%2b%2blnsh40Fq9FYQ2YvOw%3d%3d) |
 
@@ -100,7 +100,7 @@ c41ce701af97721bbc3f1519042dbe6815e38c2bcbdb15fca0727b251c179335  MicrosoftEdge_
 <summary>Full SHA-256 (sha256sum -c)</summary>
 
 ```
-f804f1c87fb6d1f732332620850927b8c3685520ecf3696a39ab94cd71389e28  MicrosoftEdge_X86_152.0.4155.0.exe
+93fd38cdaa9c6c490e2b4ee65150cf15f700a79a5ff76274ef6b9523c77c1bb6  MicrosoftEdge_X86_152.0.4156.0.exe
 118d077b3b962d6bb174b53aeff6bcb0c281f76389ac90f7d74e5499f6d90736  MicrosoftEdge_X64_152.0.4156.0.exe
 259574d7a5f3cc02cc180e5380cbe889081818c0299d445e11c851c22e0e4457  MicrosoftEdge_ARM64_152.0.4156.0.exe
 ```
