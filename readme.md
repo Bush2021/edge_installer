@@ -54,7 +54,7 @@ Stable release archive: https://github.com/Bush2021/edge_installer/releases
 
 | Architecture | Version | Size | SHA-256 | Download |
 |--------------|---------|------|---------|----------|
-| **x86** | `151.0.4129.21` | 170.13 MB | `eae605a3f9bbe92e...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f9c5b1d7-cbcb-4993-8e8b-f5ffb4e2ebd2?P1=1784578053&P2=404&P3=2&P4=ibtGV%2bMa6IUmmE9jU2JS9JriD8FsBBDCEgeTAk0Grg4oOKPG5rcaXuG9XL3ZP1FQ8jsy16c1mYSKYi1vcNkm7Q%3d%3d) |
+| **x86** | `151.0.4129.21` | 170.13 MB | `eae605a3f9bbe92e...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f9c5b1d7-cbcb-4993-8e8b-f5ffb4e2ebd2?P1=1784929432&P2=404&P3=2&P4=C3WIlB2BTreLMsmFkXrYlt0QeiU4bT4wIRuRnr1QzFTfbDjpWpbO8TJfK%2bTReNUZbMKlXqoj%2fYsm%2fsXp1h0Fmw%3d%3d) |
 | **x64** | `151.0.4129.21` | 246.59 MB | `0bdb8c9663eceda9...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/818c5bfd-613f-4d61-9a51-01ff91d06e06?P1=1784919476&P2=404&P3=2&P4=FXpqkzKoUh8%2f%2bVU2sxELGp2LY4pLm5qvblkbMeSbDqdDiWf3%2bostFUV18HuegkKrGyc3%2bw%2fLm8Z6uxcl7emiRw%3d%3d) |
 | **ARM64** | `151.0.4129.21` | 251.41 MB | `358b681391f0e550...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1bbecdfc-23f3-472b-ac0d-d53778e9903d?P1=1784919477&P2=404&P3=2&P4=iYdasy07cu6ItoIvkcongNbhRVOmq9UHsvWioIktNRNXbahdeNzmtvvQ7bBtHfH4pPU%2bByALxIkKCjhjoRj5RQ%3d%3d) |
 
@@ -92,17 +92,17 @@ c41ce701af97721bbc3f1519042dbe6815e38c2bcbdb15fca0727b251c179335  MicrosoftEdge_
 
 | Architecture | Version | Size | SHA-256 | Download |
 |--------------|---------|------|---------|----------|
-| **x86** | `152.0.4160.0` | 171.29 MB | `b0a1e669349f8fd8...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a47bdd46-36cb-4ad5-864c-368d01f3086c?P1=1784843914&P2=404&P3=2&P4=mxCFO8xkYP67f9tyvSBhRNUD%2fltxQkqfhol1oTNdOhonMNmgvbtMAaViwUEZrfJI%2b%2f6LByohdgZ1mMruhvRJ3A%3d%3d) |
-| **x64** | `152.0.4160.0` | 232.8 MB | `db8c635a3e55abd3...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8631d667-90a1-428b-bd27-8677bdf392fa?P1=1784843915&P2=404&P3=2&P4=ZWpExtiKqROgovcdLzULZEE%2fqjPQhYDS%2bywnAfmpovr5N5HXaYL00qXWTJz63h3kMz0T7mBfCCgVshsCwlOcKg%3d%3d) |
-| **ARM64** | `152.0.4160.0` | 238.07 MB | `64828d4a6d83e4ff...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/83188215-2d79-498a-a1b0-d2107815e6a0?P1=1784843915&P2=404&P3=2&P4=iWr9k4AlIRAEQuXMVJLuDXOXSoMG6aOmk36K2yCfK4CWuxZBkrENRS6JzgEH2d%2b6qvUzlXXlwCnQOFfFFI7nYg%3d%3d) |
+| **x86** | `152.0.4162.0` | 170.89 MB | `0a54aa63204dd5e2...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/62766b98-e94e-4378-8f59-b70fc59820b1?P1=1784929439&P2=404&P3=2&P4=Q17PGbFYlCAd6Dm4PJSWO5elfCiycRB4pnwSTpI9c%2f%2f%2byzDA4BmVvXf5Gws9WtFvALhnZG98Yk9sInzYvYPuhQ%3d%3d) |
+| **x64** | `152.0.4162.0` | 232.67 MB | `0c3ecd40954750ac...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/989ac5ab-e1db-45c1-a345-b47c28d93276?P1=1784929440&P2=404&P3=2&P4=IG4WXskF0M43fXpR4%2bc2A9Zd1lWoU4HtxZi%2bxQbP6%2bD%2fKMubZbfN2MYa%2bn93zFGZ9XRK5n%2f%2bCt%2bYk5ytG4uSog%3d%3d) |
+| **ARM64** | `152.0.4162.0` | 237.73 MB | `ee48eebb3da18b6c...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c7704810-29ff-41d5-a548-2cc647098a91?P1=1784929441&P2=404&P3=2&P4=c%2bW5g2JKB1dVlvWtGzgtXKDZi6rE3LGTWKdcfTr5y%2bxL%2fMPut8xvnvWXAdwoj3NgXuwa2jwQRFu6PBwSoIS0%2bA%3d%3d) |
 
 <details>
 <summary>Full SHA-256 (sha256sum -c)</summary>
 
 ```
-b0a1e669349f8fd813c1abc19d1a797df2a5e88fd6c500953ec4a5902aa4b7b9  MicrosoftEdge_X86_152.0.4160.0.exe
-db8c635a3e55abd3d1685134d329ec19b9100fb25b68a80784d7368a90909484  MicrosoftEdge_X64_152.0.4160.0.exe
-64828d4a6d83e4ffd1436625765d54cf27397f7f84403e4770ca936c13e26d4c  MicrosoftEdge_ARM64_152.0.4160.0.exe
+0a54aa63204dd5e2079edc4e83e7755c75614bb3dd5f81a8cbd3734a01a6d8a9  MicrosoftEdge_X86_152.0.4162.0.exe
+0c3ecd40954750ac3905dbedb5dbd17edddf1466d4a747628dd5bdc040ff326d  MicrosoftEdge_X64_152.0.4162.0.exe
+ee48eebb3da18b6c23d23a56d334cd0524f43fc426dffab0aa2179a05689b9e6  MicrosoftEdge_ARM64_152.0.4162.0.exe
 ```
 
 </details>

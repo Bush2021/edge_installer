@@ -49,7 +49,7 @@
     },
     "msedge-beta-win-x86": {
         "file_name": "MicrosoftEdge_X86_151.0.4129.21.exe",
-        "url": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f9c5b1d7-cbcb-4993-8e8b-f5ffb4e2ebd2?P1=1784578053&P2=404&P3=2&P4=ibtGV%2bMa6IUmmE9jU2JS9JriD8FsBBDCEgeTAk0Grg4oOKPG5rcaXuG9XL3ZP1FQ8jsy16c1mYSKYi1vcNkm7Q%3d%3d",
+        "url": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f9c5b1d7-cbcb-4993-8e8b-f5ffb4e2ebd2?P1=1784929432&P2=404&P3=2&P4=C3WIlB2BTreLMsmFkXrYlt0QeiU4bT4wIRuRnr1QzFTfbDjpWpbO8TJfK%2bTReNUZbMKlXqoj%2fYsm%2fsXp1h0Fmw%3d%3d",
         "size_in_bytes": 178394448,
         "Sha1": "aeWFcKgqPmvJzT3zqi/9mrMi84M=",
         "Sha256": "eae605a3f9bbe92e01139e102f04e0733f526b0f1200560f1085c0f785fd3741",
@@ -96,27 +96,27 @@
         "version": "152.0.4148.0"
     },
     "msedge-canary-win-x86": {
-        "file_name": "MicrosoftEdge_X86_152.0.4160.0.exe",
-        "url": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a47bdd46-36cb-4ad5-864c-368d01f3086c?P1=1784843914&P2=404&P3=2&P4=mxCFO8xkYP67f9tyvSBhRNUD%2fltxQkqfhol1oTNdOhonMNmgvbtMAaViwUEZrfJI%2b%2f6LByohdgZ1mMruhvRJ3A%3d%3d",
-        "size_in_bytes": 179607376,
-        "Sha1": "bFhadEndTPp9nZ7lGxa7/iM+CEQ=",
-        "Sha256": "b0a1e669349f8fd813c1abc19d1a797df2a5e88fd6c500953ec4a5902aa4b7b9",
-        "version": "152.0.4160.0"
+        "file_name": "MicrosoftEdge_X86_152.0.4162.0.exe",
+        "url": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/62766b98-e94e-4378-8f59-b70fc59820b1?P1=1784929439&P2=404&P3=2&P4=Q17PGbFYlCAd6Dm4PJSWO5elfCiycRB4pnwSTpI9c%2f%2f%2byzDA4BmVvXf5Gws9WtFvALhnZG98Yk9sInzYvYPuhQ%3d%3d",
+        "size_in_bytes": 179193168,
+        "Sha1": "jvR0ToIZ/+T0C/SRWx1C40aehyQ=",
+        "Sha256": "0a54aa63204dd5e2079edc4e83e7755c75614bb3dd5f81a8cbd3734a01a6d8a9",
+        "version": "152.0.4162.0"
     },
     "msedge-canary-win-x64": {
-        "file_name": "MicrosoftEdge_X64_152.0.4160.0.exe",
-        "url": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8631d667-90a1-428b-bd27-8677bdf392fa?P1=1784843915&P2=404&P3=2&P4=ZWpExtiKqROgovcdLzULZEE%2fqjPQhYDS%2bywnAfmpovr5N5HXaYL00qXWTJz63h3kMz0T7mBfCCgVshsCwlOcKg%3d%3d",
-        "size_in_bytes": 244106064,
-        "Sha1": "DZGGUJd5KM7/csgec9tKO1KSihI=",
-        "Sha256": "db8c635a3e55abd3d1685134d329ec19b9100fb25b68a80784d7368a90909484",
-        "version": "152.0.4160.0"
+        "file_name": "MicrosoftEdge_X64_152.0.4162.0.exe",
+        "url": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/989ac5ab-e1db-45c1-a345-b47c28d93276?P1=1784929440&P2=404&P3=2&P4=IG4WXskF0M43fXpR4%2bc2A9Zd1lWoU4HtxZi%2bxQbP6%2bD%2fKMubZbfN2MYa%2bn93zFGZ9XRK5n%2f%2bCt%2bYk5ytG4uSog%3d%3d",
+        "size_in_bytes": 243970896,
+        "Sha1": "OfLPfexi9wjBzQ7eqSlT6VPWYu8=",
+        "Sha256": "0c3ecd40954750ac3905dbedb5dbd17edddf1466d4a747628dd5bdc040ff326d",
+        "version": "152.0.4162.0"
     },
     "msedge-canary-win-ARM64": {
-        "file_name": "MicrosoftEdge_ARM64_152.0.4160.0.exe",
-        "url": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/83188215-2d79-498a-a1b0-d2107815e6a0?P1=1784843915&P2=404&P3=2&P4=iWr9k4AlIRAEQuXMVJLuDXOXSoMG6aOmk36K2yCfK4CWuxZBkrENRS6JzgEH2d%2b6qvUzlXXlwCnQOFfFFI7nYg%3d%3d",
-        "size_in_bytes": 249637712,
-        "Sha1": "6wVLUwd3lnBlUGYNJu6cd4VQZuc=",
-        "Sha256": "64828d4a6d83e4ffd1436625765d54cf27397f7f84403e4770ca936c13e26d4c",
-        "version": "152.0.4160.0"
+        "file_name": "MicrosoftEdge_ARM64_152.0.4162.0.exe",
+        "url": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c7704810-29ff-41d5-a548-2cc647098a91?P1=1784929441&P2=404&P3=2&P4=c%2bW5g2JKB1dVlvWtGzgtXKDZi6rE3LGTWKdcfTr5y%2bxL%2fMPut8xvnvWXAdwoj3NgXuwa2jwQRFu6PBwSoIS0%2bA%3d%3d",
+        "size_in_bytes": 249275728,
+        "Sha1": "psvvBhmdIiz5xWKA61SbSdSK02c=",
+        "Sha256": "ee48eebb3da18b6c23d23a56d334cd0524f43fc426dffab0aa2179a05689b9e6",
+        "version": "152.0.4162.0"
     }
 }
