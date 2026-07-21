@@ -92,7 +92,7 @@ c41ce701af97721bbc3f1519042dbe6815e38c2bcbdb15fca0727b251c179335  MicrosoftEdge_
 
 | Architecture | Version | Size | SHA-256 | Download |
 |--------------|---------|------|---------|----------|
-| **x86** | `152.0.4168.0` | 171.03 MB | `d4e33310442a20a9...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5fc6b543-06a8-4f09-92f2-f29293d8862a?P1=1785186279&P2=404&P3=2&P4=PZ%2fVhNQLrOPeYvXZoh2RFqPwKtoPpUIcM59x3PDjzgoO8gzqu6SLehFIBqC%2b%2fGiP4BgBUV58y6m6M1GON2k5wA%3d%3d) |
+| **x86** | `152.0.4169.0` | 171.08 MB | `1ae0921df4995a7c...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d8421d78-e0f4-4967-8400-efddf51254f7?P1=1785253059&P2=404&P3=2&P4=c%2fOIE78ZZbsM2BNBQNaH4ACUfQsZQNSLHYUlikLWtQeF4YP1gPAAJzmoY5XnbeLpQY3%2fxfH0DItILQqo3%2foLIA%3d%3d) |
 | **x64** | `152.0.4169.0` | 232.65 MB | `c897b344753bbb00...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/de552a45-61ab-4215-8953-57be1e72c587?P1=1785245029&P2=404&P3=2&P4=YGr6wiUaiwINixM31wDMJITz111Vy0KnHhd8WmutiEv1XbFsLTDK1U3frMqGXCqgHOgyEHkP9HAT0fqlBIGaXA%3d%3d) |
 | **ARM64** | `152.0.4168.0` | 237.76 MB | `ed8a14ecdc16e42a...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4a92b57b-70a4-4c10-9e6b-c25413820d61?P1=1785186282&P2=404&P3=2&P4=Hw1%2fd0y%2fmPDLDc%2b5fDPb5jJKbY8JBVaQvUKCzR%2fJgJmXdWxppYwULd0YN38A6cIMUy3uk5zKq7q514jPfX7d%2fA%3d%3d) |
 
@@ -100,7 +100,7 @@ c41ce701af97721bbc3f1519042dbe6815e38c2bcbdb15fca0727b251c179335  MicrosoftEdge_
 <summary>Full SHA-256 (sha256sum -c)</summary>
 
 ```
-d4e33310442a20a98f178c2e8142b4176deb2556b6638a3db22ad5648e6eb91a  MicrosoftEdge_X86_152.0.4168.0.exe
+1ae0921df4995a7c987ba744c7d64baf262d5b3bd0faf94aa9b36dd79942cdba  MicrosoftEdge_X86_152.0.4169.0.exe
 c897b344753bbb00062925d41a1bb485ad4d130e8e32cf7c3bfdbc4d9ccab57b  MicrosoftEdge_X64_152.0.4169.0.exe
 ed8a14ecdc16e42a0afa33ccd208f1661d01b090b881772522fc153bd4dd9214  MicrosoftEdge_ARM64_152.0.4168.0.exe
 ```
