@@ -94,7 +94,7 @@ a1301063fe0e52c3c3768c6a5fa2159b25e06d60039cbd9561a44561ff876d9b  MicrosoftEdge_
 |--------------|---------|------|---------|----------|
 | **x86** | `152.0.4174.0` | 172.23 MB | `1e3c3f6f75ec5003...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5e6212e5-c06e-4c54-96a2-de3b36347f94?P1=1785448780&P2=404&P3=2&P4=R4hKk1%2bSZtHWdZea7BlEo0vwi4Dt3CcHTp2y3fcCgdxJRZ%2fAuWamXR52IX%2bnCDmCEw6NQ5ypADxJSTytz9NekA%3d%3d) |
 | **x64** | `152.0.4174.0` | 233.18 MB | `87228955837e9802...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5371f5bd-619b-47e8-afe4-7060192b97a3?P1=1785448780&P2=404&P3=2&P4=DnUoe4n0ZYUdzx6q2QWQ6ezdG%2bdxHzaA%2f%2bdhd3NM7lEPR0W2CtPLAEHeoFDfV3%2f%2f2eDwaSDCa6%2fD3CNkzn267A%3d%3d) |
-| **ARM64** | `152.0.4171.0` | 237.72 MB | `736579fb3bf9fe47...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d8031a71-1bfc-4cb2-9692-0eb15629d0bb?P1=1785358914&P2=404&P3=2&P4=ILWKzOvU%2bSDdm48cCmAdNPHw8qU97FoZXk9vGGbccgVyZAgUxNOrEXPEVrs0Gvrkr%2b2YWx%2bkWPEyeyad8bWlwg%3d%3d) |
+| **ARM64** | `152.0.4174.0` | 238.26 MB | `e727ff0d86c8ae23...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3bd9b5c9-8e99-4703-8f69-e6605e1c9324?P1=1785463474&P2=404&P3=2&P4=ILJFXx1%2fRLOLq855k1NKvwx7Zhg1fvvry9nRZd6LF61Y4RCwG49XvJG0NUHmIvidoK8na9sxd%2bLmEZi%2bYV2GpA%3d%3d) |
 
 <details>
 <summary>Full SHA-256 (sha256sum -c)</summary>
@@ -102,7 +102,7 @@ a1301063fe0e52c3c3768c6a5fa2159b25e06d60039cbd9561a44561ff876d9b  MicrosoftEdge_
 ```
 1e3c3f6f75ec50031ffeefcef7fb9448728433ccc521942c0016390cb15c6bc2  MicrosoftEdge_X86_152.0.4174.0.exe
 87228955837e98026d26892c0ae6c7878b692a5f641782a9ebcf6b943984790f  MicrosoftEdge_X64_152.0.4174.0.exe
-736579fb3bf9fe47ef3410fcacb8a2bad23a66f6db69d34f11f9378f5010cb9f  MicrosoftEdge_ARM64_152.0.4171.0.exe
+e727ff0d86c8ae23628a32b80217ac0c376299f24de4c57d06a1b88843a5b850  MicrosoftEdge_ARM64_152.0.4174.0.exe
 ```
 
 </details>
