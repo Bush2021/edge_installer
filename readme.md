@@ -94,7 +94,7 @@ a4e3694c92f7791e70113a267533c95e97e40976e131a076322eb2799684df1a  MicrosoftEdge_
 |--------------|---------|------|---------|----------|
 | **x86** | `152.0.4188.0` | 174.21 MB | `8d93836aa446c384...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/56381d5a-a509-4c0f-b63f-8eb10f1f6091?P1=1786049993&P2=404&P3=2&P4=ZOBrkNxv8dlt4qMaQ65zZMI%2b%2fDcxJOU8TK%2bzH4o1JAUKqD37n85v%2fUNhK6ExIrUSTwBsasRvQv0xa57QJhs1Og%3d%3d) |
 | **x64** | `152.0.4188.0` | 236.63 MB | `bccc59c95055ec78...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8ed787b4-301f-41eb-ac47-782cbb731a06?P1=1786049993&P2=404&P3=2&P4=XNB5Wx1WBg%2bpxKKlbkWa8k4ZyfL1Jylb0UIwgYFcSPwETSqSgX%2bMG8qi952b1AFKAH%2bF3uyDIP2MoV%2f36JHCNA%3d%3d) |
-| **ARM64** | `152.0.4187.0` | 241.01 MB | `221f2f9e6f6c2af9...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b708ac9b-9793-4b94-9256-031d1fd56bdb?P1=1786023836&P2=404&P3=2&P4=H1RHpSeVMWD1e4EAX%2fmadmvBOXGqntlJvfMV5lthsADTYtcfdLFRthBd0MJd%2ftlF6hZ4nEk3%2fLMj%2fjoeXp8W5A%3d%3d) |
+| **ARM64** | `152.0.4188.0` | 241.02 MB | `0d8ff63b1239b2c4...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5832abe2-c84e-480d-85c4-82b5f454dc89?P1=1786054316&P2=404&P3=2&P4=CMlbgZ14LaITb3pADF9Rqqn1br3a4PijHuSrEYGLbxOosxo7BPRlyW99sNnI9lJYDzXE538%2bX0scxzBUgp0rEw%3d%3d) |
 
 <details>
 <summary>Full SHA-256 (sha256sum -c)</summary>
@@ -102,7 +102,7 @@ a4e3694c92f7791e70113a267533c95e97e40976e131a076322eb2799684df1a  MicrosoftEdge_
 ```
 8d93836aa446c38414791df78c962bcb84e0901311a6ddb936f192dd44bfb43d  MicrosoftEdge_X86_152.0.4188.0.exe
 bccc59c95055ec789ea080bc52c17b486398763cb5bf9f51d289848488aaa91d  MicrosoftEdge_X64_152.0.4188.0.exe
-221f2f9e6f6c2af9db6b77feb293a3753fc9290be0e96ffbd627b5b08986da3b  MicrosoftEdge_ARM64_152.0.4187.0.exe
+0d8ff63b1239b2c499f111fa76629b5941cdb175dd02cbb39ed929ef6d95b0be  MicrosoftEdge_ARM64_152.0.4188.0.exe
 ```
 
 </details>
