@@ -18,7 +18,7 @@ Stable release archive: https://github.com/Bush2021/edge_installer/releases
 |--------------|---------|------|---------|----------|
 | **x86** | `151.0.4129.59` | 170.25 MB | `bc48490ea56abbb0...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ca3ccbf7-14b8-455d-b7c9-1f86d4f0a364?P1=1786140258&P2=404&P3=2&P4=EaZ1zflz5z89xQHGBhtyWA6MJNKE4wfMM%2fgrghf7QOGPqFODGOQqLFk8%2f5G17suUd5EKnknZLZkcWmmrJu2gaw%3d%3d) |
 | **x64** | `151.0.4129.59` | 194.09 MB | `1f8ba2a17ee340d4...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9a3d0e01-7c72-4ca8-9ff2-d6bc8155b412?P1=1786140259&P2=404&P3=2&P4=IG%2b0vVy1eCzc5XYxeZjLvCtTRxl4qjxF902vm6z5pUTEqOZmupWPTx%2fSMVjbr5dyIWPaSDrmA9RCRhl0zoA10g%3d%3d) |
-| **ARM64** | `151.0.4129.59` | 198.15 MB | `db6169bbbfa13ea3...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a974fe1a-ed3c-4e13-9a75-b747108b6cd9?P1=1786136234&P2=404&P3=2&P4=hWKAPNa0IE%2fHQ7czvs0muZyryV2%2ftB5VU9XGrO%2bkpprc1ScOmUvltIjigK5K01hLWxeEJdpf1R47uC7p%2b7clSQ%3d%3d) |
+| **ARM64** | `151.0.4129.59` | 198.15 MB | `db6169bbbfa13ea3...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a974fe1a-ed3c-4e13-9a75-b747108b6cd9?P1=1786482258&P2=404&P3=2&P4=WdKi2NBj1l5mHEyY5Dtb2lhMSN3WatBz%2fV2aiFUS5k%2fSVkFK3sZmPR%2fug0vX7tFA4B70CA81FqaVUAn%2fWkzmcg%3d%3d) |
 
 <details>
 <summary>Full SHA-256 (sha256sum -c)</summary>
@@ -54,9 +54,9 @@ db6169bbbfa13ea347e6cf5f1f6f001fc29a0ed92485f6919c246690d319a9bd  MicrosoftEdge_
 
 | Architecture | Version | Size | SHA-256 | Download |
 |--------------|---------|------|---------|----------|
-| **x86** | `151.0.4129.59` | 170.25 MB | `bc48490ea56abbb0...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ca3ccbf7-14b8-455d-b7c9-1f86d4f0a364?P1=1786136235&P2=404&P3=2&P4=BTWuhJLUE5ayrEoW9YCnUFykpgz6vV5NNVyWOM5TFF0PSIOSER9Pn2r%2bS5QRbGm6FJUTKivB43%2fgG89Dn%2fU0jw%3d%3d) |
-| **x64** | `151.0.4129.59` | 194.09 MB | `1f8ba2a17ee340d4...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9a3d0e01-7c72-4ca8-9ff2-d6bc8155b412?P1=1786136235&P2=404&P3=2&P4=eT7qwKp7g4FroeX3zZV0TsOR%2bU2upLCFXZFrjYFhPSJBUrkII9Tz7M%2bdhhzZb6QnbYP%2fx4Bl7MfhwX9n%2bK6CTg%3d%3d) |
-| **ARM64** | `151.0.4129.59` | 198.15 MB | `db6169bbbfa13ea3...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a974fe1a-ed3c-4e13-9a75-b747108b6cd9?P1=1786136235&P2=404&P3=2&P4=ZZp%2fYZ4SXFSZe6jzPhB%2baJyTkCz0wmMXjnI8f9c%2fGEdtyZqi8EbTbcuGnWaXrqnIv1sFAk1RSh7oCzXy6iIFIQ%3d%3d) |
+| **x86** | `151.0.4129.59` | 170.25 MB | `bc48490ea56abbb0...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ca3ccbf7-14b8-455d-b7c9-1f86d4f0a364?P1=1786482262&P2=404&P3=2&P4=E4N2xCkVz%2flGLyfHB4K3c4LRNS2pnuUlpEF3ZKjjHa6Q1boW1dwlbC6NQPyJ6Bf9JXcsvp6GYymTHnNUf9oNBw%3d%3d) |
+| **x64** | `151.0.4129.59` | 194.09 MB | `1f8ba2a17ee340d4...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9a3d0e01-7c72-4ca8-9ff2-d6bc8155b412?P1=1786482263&P2=404&P3=2&P4=Zym%2f4O225D774jMCG%2btHNvLNv1wJz2105mc2QGEkkaM9IBjVnbcyGTuVRFHI0TpEgONFp0C9XJhaJk7mqdRcAQ%3d%3d) |
+| **ARM64** | `151.0.4129.59` | 198.15 MB | `db6169bbbfa13ea3...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a974fe1a-ed3c-4e13-9a75-b747108b6cd9?P1=1786482265&P2=404&P3=2&P4=neMvJ3hD1t5W7n3N16hyn1YCCWOfv7chERUuW3a52IyMlZvTOuQFkSbz2Yr0Cz375QaQLEp%2bxrlra9u80uWnDw%3d%3d) |
 
 <details>
 <summary>Full SHA-256 (sha256sum -c)</summary>
