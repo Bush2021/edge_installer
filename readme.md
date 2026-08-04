@@ -92,17 +92,17 @@ a4e3694c92f7791e70113a267533c95e97e40976e131a076322eb2799684df1a  MicrosoftEdge_
 
 | Architecture | Version | Size | SHA-256 | Download |
 |--------------|---------|------|---------|----------|
-| **x86** | `153.0.4197.0` | 173.85 MB | `ed74e42504a1064c...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/03673d7a-546b-40a3-82b3-02a6d066d90f?P1=1786399287&P2=404&P3=2&P4=mGrU3LPTad5XTpWtv37m03zYHtKYZs%2fKAj7Gi5T3WqIdOVXh2CGgq01CALQ3dkLyvsMbEkN%2b1Ptg5WivQrXE3Q%3d%3d) |
-| **x64** | `153.0.4197.0` | 236.88 MB | `4a2a9a3bdb3b4c44...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/286c9c83-5f7c-443a-8746-8b463a64d0b7?P1=1786399288&P2=404&P3=2&P4=gragfnOH7t6XL%2fQVy1k7wNBaQnfDxi9tP5LtkqpHUZd%2fNTVHUhoZfJymg1idkHl%2fJIXFvjH0H2Of7HMnzdv4lw%3d%3d) |
-| **ARM64** | `153.0.4197.0` | 241.28 MB | `905e2306e60efa5c...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/42f0c377-a400-4bcd-b868-f2ad71023d17?P1=1786399288&P2=404&P3=2&P4=DxI%2bcWGWW9JepOhx%2fLwA1ilxACTyH%2fjeUYdRNMByUMCOXhdjDCnmT%2f8GpgqppRPFf5nlm59nVr99XbCTaRbntg%3d%3d) |
+| **x86** | `153.0.4198.0` | 173.87 MB | `2c7279f79ad090ac...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/cd74a05c-0996-4f31-bb46-42dd0114b630?P1=1786461601&P2=404&P3=2&P4=T5fNi0rPlcVZWSuYvBYFcm7s4YZa3koYwZZlQZJj9mQNB%2bcgCRlYl3B9xkeXFREGHa6YdGfLe363B0M%2fj3ESBg%3d%3d) |
+| **x64** | `153.0.4198.0` | 237.1 MB | `744d559f10e10371...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/47c1ba36-f464-4afe-8f35-2681840d5e85?P1=1786461602&P2=404&P3=2&P4=C26RccFaw1iBPa5YZVfj003oNK629RY3mXzSg6xpX3mPDbA0CtvSLL6eotUIIlKEGFQznhpBog3CK3oOpI%2bLoA%3d%3d) |
+| **ARM64** | `153.0.4198.0` | 241.42 MB | `5e35523589b2a5d8...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f1c61ac2-a42b-42e4-8e2d-4e600a31e9f7?P1=1786461602&P2=404&P3=2&P4=hpTs5q2A5HIeqEptH20bgebwz3WHTcLpN7ROXXe3qepTkPC4zmvy7q8BvRdXbhOiPpq9FNCYkNwP%2fml0AjKFEQ%3d%3d) |
 
 <details>
 <summary>Full SHA-256 (sha256sum -c)</summary>
 
 ```
-ed74e42504a1064c367ee20f8d5537659f9b5703b7f9b9aa879e3b52c04bb562  MicrosoftEdge_X86_153.0.4197.0.exe
-4a2a9a3bdb3b4c44a8a4adf9dfb8843f46e2a87e655c0d737342e9097c466890  MicrosoftEdge_X64_153.0.4197.0.exe
-905e2306e60efa5cf8f2104becfbc6b2de7be2db5eb977645fc29292f9bea175  MicrosoftEdge_ARM64_153.0.4197.0.exe
+2c7279f79ad090acdc926297d7c1fffafa9929baabe18fe1724fe192a836deba  MicrosoftEdge_X86_153.0.4198.0.exe
+744d559f10e10371529e1ee93dc3fa2a248df25209c26e1299861cce350bc4dd  MicrosoftEdge_X64_153.0.4198.0.exe
+5e35523589b2a5d8fcf823251c5b8b5e1d4f2d37e7a7b3fa6a43fb633014e391  MicrosoftEdge_ARM64_153.0.4198.0.exe
 ```
 
 </details>
