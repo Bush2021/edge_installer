@@ -73,7 +73,7 @@ db6169bbbfa13ea347e6cf5f1f6f001fc29a0ed92485f6919c246690d319a9bd  MicrosoftEdge_
 
 | Architecture | Version | Size | SHA-256 | Download |
 |--------------|---------|------|---------|----------|
-| **x86** | `152.0.4181.1` | 171.22 MB | `461055a378e5d914...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6c363e8f-365f-4f87-89b4-b77a95f9523b?P1=1786302835&P2=404&P3=2&P4=RYezkNkjyW6Exc1BKxN08I%2bAOEHCEh6T6U9HU55JzEpesszG3nMHVwO9Gi6sAVXa21Oeod%2bTLE8iG5GZTuKtVQ%3d%3d) |
+| **x86** | `152.0.4191.7` | 173.83 MB | `fb560efd47bc35cc...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d2a75afe-f27b-4259-9728-d9bcf2d1abfc?P1=1786562401&P2=404&P3=2&P4=LRN%2bYDgSzWQs2c2ANpy9%2bg8ccmcf7ZXhy4Xy3s21XVTzcaK%2fPRyQbODmNKOvzMANqFl6rdKuKGh6ZDJXxqjorQ%3d%3d) |
 | **x64** | `152.0.4191.7` | 236.87 MB | `aba272607d3afeaf...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6a6ca7cd-0c63-4c35-9848-65df5cb7e8e3?P1=1786555628&P2=404&P3=2&P4=HQ9nR5BNt3pwU5gA0DtRB%2bD%2f6KCqOmRhar4WYfS%2bY08%2buo5AcGHd8iAmh6MueYNTOfK7mCWhGmr7Ua7Kap2g2g%3d%3d) |
 | **ARM64** | `152.0.4191.7` | 241.34 MB | `e24cdf422aa5568d...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5824154e-f805-4ec4-a6f5-3a4eaf5ae822?P1=1786555629&P2=404&P3=2&P4=Rov73VGgamcZ5A1OCQPQLzxoqv%2b%2bE3Gj3%2bs7opEOYdoxxkQlCRhQEab8UHvLtWJD1tmrR%2btUlf3iqYml5VWYaQ%3d%3d) |
 
@@ -81,7 +81,7 @@ db6169bbbfa13ea347e6cf5f1f6f001fc29a0ed92485f6919c246690d319a9bd  MicrosoftEdge_
 <summary>Full SHA-256 (sha256sum -c)</summary>
 
 ```
-461055a378e5d914576f4ed8e53f8afa5f595ec7145b482acb04f793317b2a82  MicrosoftEdge_X86_152.0.4181.1.exe
+fb560efd47bc35cc3dce3061b638cbeae1d016c34e93c615bffb25de396ac09d  MicrosoftEdge_X86_152.0.4191.7.exe
 aba272607d3afeaf4fb15345481da6ab774a7443a66803cab80efd9626be1ded  MicrosoftEdge_X64_152.0.4191.7.exe
 e24cdf422aa5568d5c650b98e6bff808f2a3001a67b1cc0e15ec4af7bff74da2  MicrosoftEdge_ARM64_152.0.4191.7.exe
 ```
