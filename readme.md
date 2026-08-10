@@ -92,7 +92,7 @@ f9b16e2e80ec292398012ad659d03831b01d6e7be7c3a9420f0e05028b8c5d59  MicrosoftEdge_
 
 | Architecture | Version | Size | SHA-256 | Download |
 |--------------|---------|------|---------|----------|
-| **x86** | `153.0.4210.0` | 170.37 MB | `5856f4060e814110...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ff6575d1-2f35-41a5-b466-ea71a71e5533?P1=1786976175&P2=404&P3=2&P4=B9CKHeVFvb8Zui2Z%2fD%2ffo73H2MRu8y2z6mYglRcLpLxKc0WWT6BSpWInN7Lxdpmfeoc%2bOhbaOm1pxVV7ndzf0A%3d%3d) |
+| **x86** | `153.0.4211.0` | 170.36 MB | `370adc74e63bfcfa...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6938d849-0e2e-4370-8aa4-9efb20b8fc8b?P1=1787009256&P2=404&P3=2&P4=hSl6ByHmdHBAlTpICHOG4UfgxG5XzhKsZ6PmxiuNqlPkiNIkcq1HQUaqhtyGCVHs214Wk5gQG94Qb4x6L7h3Vg%3d%3d) |
 | **x64** | `153.0.4211.0` | 235.01 MB | `91087bec70c9bb75...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a4e94d44-7e1b-40c9-a3f4-094736623d86?P1=1787005785&P2=404&P3=2&P4=Mrv8%2bHJISRG5uNpapjujIZc1iMUUTLM2DFfpoYt3NUGb3F0A2j6IRit39kFMTIzM30bLR2CQhQCVrsvumxxObw%3d%3d) |
 | **ARM64** | `153.0.4211.0` | 239.39 MB | `e05342f3b380c4e7...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d76e7bfb-4af1-469f-9b7c-560b3f540374?P1=1787005786&P2=404&P3=2&P4=cfekqFWQ11r1B7Zdov0zs7fqtCy2h4jpDDMYdlYQPFs%2fWMNfFk4Aq3iAJvv9zkCrWfPPApGXhC8pv2v0HACWmQ%3d%3d) |
 
@@ -100,7 +100,7 @@ f9b16e2e80ec292398012ad659d03831b01d6e7be7c3a9420f0e05028b8c5d59  MicrosoftEdge_
 <summary>Full SHA-256 (sha256sum -c)</summary>
 
 ```
-5856f4060e8141103715edca954ad20ec134d744811b7b0c85e91b65d2e30513  MicrosoftEdge_X86_153.0.4210.0.exe
+370adc74e63bfcfa980a430b5088cbdced0584117b0143128647eaa244be8cde  MicrosoftEdge_X86_153.0.4211.0.exe
 91087bec70c9bb75324104fc071ad8402b37bc7cce824adedc26d03aa32c0fdd  MicrosoftEdge_X64_153.0.4211.0.exe
 e05342f3b380c4e7ac6f75d3c1fbc10857eebf4e57a603cad9e668f87da7358d  MicrosoftEdge_ARM64_153.0.4211.0.exe
 ```
