@@ -96,12 +96,12 @@
         "version": "153.0.4210.0"
     },
     "msedge-canary-win-x86": {
-        "file_name": "MicrosoftEdge_X86_153.0.4212.0.exe",
-        "url": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/999ca6ae-6f63-410b-b7d5-ce8c82a5d3bf?P1=1787062483&P2=404&P3=2&P4=ebEy23B3gfenVZAQdkYgHO8wkrkRPjV9HPqiihtl46hoVfeTh7bISsPwxzNLacWwtZf54Z1VuFhZDNvAnhkpnQ%3d%3d",
-        "size_in_bytes": 178895184,
-        "Sha1": "iU/AUNDI/uxfT9SQPkDnatbrgME=",
-        "Sha256": "1ced3b298c47143e72d7d8a39d69b174bd4dad8a0adaabfc9f312bf7e5e4acb2",
-        "version": "153.0.4212.0"
+        "file_name": "MicrosoftEdge_X86_153.0.4213.0.exe",
+        "url": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d3b01e74-929e-4fd2-9df0-1e0657a9a593?P1=1787095968&P2=404&P3=2&P4=ERenQdjopLqWN97egNVT1xyGu9eYGvL8qnlUZ6ZfnNQvW1Ur7ZNoI%2bYE%2bZamfKM3ESmLG5CSgmiw%2fTMTDORQxQ%3d%3d",
+        "size_in_bytes": 178846544,
+        "Sha1": "ljZ/uvMf/V9VW+H5xxM3jakt7fs=",
+        "Sha256": "66fca80645b330c11f6ef018933aab2dc4d578461d34d2de5bb61de1990936fd",
+        "version": "153.0.4213.0"
     },
     "msedge-canary-win-x64": {
         "file_name": "MicrosoftEdge_X64_153.0.4213.0.exe",
@@ -112,11 +112,11 @@
         "version": "153.0.4213.0"
     },
     "msedge-canary-win-ARM64": {
-        "file_name": "MicrosoftEdge_ARM64_153.0.4212.0.exe",
-        "url": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6bbe1e92-cb14-43c9-b842-d1bc4f72ac32?P1=1787062485&P2=404&P3=2&P4=SphDcP8nXTvq3%2bP%2fdr9LItx9s6IqQOWW2mnnv17XXyU4J9Rm%2bCxfcTs8FqLyonUGmBnsB5AoPz0dVrxPuO%2fHbw%3d%3d",
-        "size_in_bytes": 251482448,
-        "Sha1": "OdETIrWQo8aEfzJUKRIlq8sIv+E=",
-        "Sha256": "411b29ed6cbd3549f3479c962d0b2c11bc5d0f6a96aef7b68cec316f2599dc29",
-        "version": "153.0.4212.0"
+        "file_name": "MicrosoftEdge_ARM64_153.0.4213.0.exe",
+        "url": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/15b23a37-8ef7-416c-b3de-4cb0d5cf2cba?P1=1787095969&P2=404&P3=2&P4=mItGsC1dNIoQNjFste0NFyqXuHR%2b5EcheQ%2fx2leqTGMlMKHh8BxchWgtxfAApINQ41EpY4DYpReZ9GXqZCvWkQ%3d%3d",
+        "size_in_bytes": 251422544,
+        "Sha1": "jsAbVl88jIgdnoEdyYWXw/MQ5bE=",
+        "Sha256": "064af846c11f8c4d97cf787bf4e38d163d31c61f5c245122d717897e510433d5",
+        "version": "153.0.4213.0"
     }
 }
