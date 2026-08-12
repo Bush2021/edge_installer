@@ -93,7 +93,7 @@ bd0c3179184cb95ce35900c77a230ee05d8ef0f943b97e14d5561c7f0d31a68c  MicrosoftEdge_
 | Architecture | Version | Size | SHA-256 | Download |
 |--------------|---------|------|---------|----------|
 | **x86** | `153.0.4214.0` | 172.6 MB | `c02f7d1a148f1889...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0d013029-e398-4832-93ef-1d27f5714fce?P1=1787149004&P2=404&P3=2&P4=L%2bYCu1PcQCskADiTwOs9Cwin99Gh9MDAGofkE40GNYQ%2fUIzs8R834ouRj0cnr0QZUCo48bRHDetBha1WUCw6DA%3d%3d) |
-| **x64** | `153.0.4214.0` | 235.28 MB | `414b85204932323d...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6768be07-11f4-4dc8-a9ff-f70bf9b38e9e?P1=1787149004&P2=404&P3=2&P4=deRmf3WatvfIK%2fTxN2%2fT9n%2fGQUAd%2bsDsCY4nX%2foJFJJsFHVvY2CRmydRK%2bo4GgcSx15DFICp4oVgV30OkTm%2bXA%3d%3d) |
+| **x64** | `153.0.4215.0` | 235.19 MB | `8882a41d57c500fc...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6f49aca1-657f-4e30-b955-1a1db9ac75dd?P1=1787178778&P2=404&P3=2&P4=bm5vtGAFQxGlIcbXJO9I5lhsFU5499PDU9vrJyAh7OCytj%2fNr83b%2f6V5ZXZ0MSpjo6XJEx%2fgVYCLcF57CMA1cQ%3d%3d) |
 | **ARM64** | `153.0.4214.0` | 239.79 MB | `6377e1345e3e36f1...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d8e2c7f0-4d07-4802-8d53-1ef7cf720027?P1=1787149005&P2=404&P3=2&P4=e%2fptCgCYog4ikm033pR9ktw%2b8i3cRyf3ktbyhigKVw%2b1buJvdWP%2bjvZV3hKtXWwqGhjaxm%2bN0RYL20CydXoExA%3d%3d) |
 
 <details>
@@ -101,7 +101,7 @@ bd0c3179184cb95ce35900c77a230ee05d8ef0f943b97e14d5561c7f0d31a68c  MicrosoftEdge_
 
 ```
 c02f7d1a148f18891b88a46b5bb862a204e5c3499769c13a74f8d2923029cdf4  MicrosoftEdge_X86_153.0.4214.0.exe
-414b85204932323d61baa331a5cb82d9888e8a251fe4391cf2725be006c68b98  MicrosoftEdge_X64_153.0.4214.0.exe
+8882a41d57c500fcb9a4d0ea7e35677e9dd276b0cbc8dc0a32e69a87682347f2  MicrosoftEdge_X64_153.0.4215.0.exe
 6377e1345e3e36f19e84e08b4445f8e5b61258a4bfb0d9c1d73ffd210864c57e  MicrosoftEdge_ARM64_153.0.4214.0.exe
 ```
 
