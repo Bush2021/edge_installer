@@ -49,7 +49,7 @@
     },
     "msedge-beta-win-x86": {
         "file_name": "MicrosoftEdge_X86_152.0.4191.19.exe",
-        "url": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6cf8630c-638f-4f09-a6c0-c5ad46d68f70?P1=1787005782&P2=404&P3=2&P4=SqQS5yM7WLzKN3iCgBHZv6M1dS4ip6r5GP%2b0Nok5SH%2b5Z6HvLnOD%2bFb7QIH%2bLBd3ImEmWiPJReiPNCEYcGv40Q%3d%3d",
+        "url": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6cf8630c-638f-4f09-a6c0-c5ad46d68f70?P1=1787354101&P2=404&P3=2&P4=GUHMK8Xc7Z6CLaF7HDDZLOpSCJ4MieoJjJOPOPVcDkOQwyhLSiXTLVXAS66jzl2CUUZH8ogKxkYF6j5a6sYWLQ%3d%3d",
         "size_in_bytes": 182386000,
         "Sha1": "mkcyteqvkKGofkkQeyir0RgAlvw=",
         "Sha256": "ff4feefe135f6d05dbd6dd04e8903ce4a2a28c94c625e74e88fa6899b3e3afc1",
@@ -96,12 +96,12 @@
         "version": "153.0.4210.0"
     },
     "msedge-canary-win-x86": {
-        "file_name": "MicrosoftEdge_X86_153.0.4218.0.exe",
-        "url": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/aa67a92d-6d2f-4f7a-9526-dccc3d1c0f99?P1=1787321475&P2=404&P3=2&P4=k7ox3mrujlrJCrIGViTBaYLMF6xytrIdfkUztoIYXEZq8gqasaPC3HvzdI17tPCg%2bDQFuu3fibOLCnGQ1y1keQ%3d%3d",
-        "size_in_bytes": 180249936,
-        "Sha1": "97hU9uK4raem+SqPNngRm2YWpPc=",
-        "Sha256": "1ff52210e85618f6ef578836dac3c410b0eadd889f6826ffeb1699a446d4cac1",
-        "version": "153.0.4218.0"
+        "file_name": "MicrosoftEdge_X86_153.0.4219.0.exe",
+        "url": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1f3ede2f-0691-4538-ac97-dd01a439f905?P1=1787354103&P2=404&P3=2&P4=j3uKcXG8o6Eb8E3mvgIWGJyshsk%2bD9G%2fGt09KDeOhAQykIbH73rowh95%2fhXAneSrbGSbCxNAjvumNZahTxWhxw%3d%3d",
+        "size_in_bytes": 180747600,
+        "Sha1": "xtS9KL5oW1oQR/hskAoS2BOGwFU=",
+        "Sha256": "f8b36b7d654d4b626635382f44bb037022d6166958748aaa10b0ea4e7610e802",
+        "version": "153.0.4219.0"
     },
     "msedge-canary-win-x64": {
         "file_name": "MicrosoftEdge_X64_153.0.4218.0.exe",
