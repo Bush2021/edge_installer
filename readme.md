@@ -55,8 +55,8 @@ Stable release archive: https://github.com/Bush2021/edge_installer/releases
 | Architecture | Version | Size | SHA-256 | Download |
 |--------------|---------|------|---------|----------|
 | **x86** | `152.0.4191.19` | 173.94 MB | `ff4feefe135f6d05...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6cf8630c-638f-4f09-a6c0-c5ad46d68f70?P1=1787005782&P2=404&P3=2&P4=SqQS5yM7WLzKN3iCgBHZv6M1dS4ip6r5GP%2b0Nok5SH%2b5Z6HvLnOD%2bFb7QIH%2bLBd3ImEmWiPJReiPNCEYcGv40Q%3d%3d) |
-| **x64** | `152.0.4191.19` | 237.01 MB | `9202adb6feb92b9c...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/fc7b751e-574c-4751-ad5c-551252bbe4c4?P1=1787002466&P2=404&P3=2&P4=MRC2opYtAGh3F9HPhZuS2xzy5i2FuVZg1TIMC5pDW82OJUnxR4gS3PEZBzFZjuvqF07F%2bTcfZP9vVdMiKjua7Q%3d%3d) |
-| **ARM64** | `152.0.4191.19` | 241.45 MB | `0fb30bdea0b00b12...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ba195f5b-b351-4e2a-9257-8d58034e4fa1?P1=1787002467&P2=404&P3=2&P4=FwAXEwjnhgith1hJtvMWITx4C3WXxqEBAD4OJtRLCwlLonxZvZR%2bqtwQ9hYop9abJbVqKqJL60lN5kz36TIvQA%3d%3d) |
+| **x64** | `152.0.4191.19` | 237.01 MB | `9202adb6feb92b9c...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/fc7b751e-574c-4751-ad5c-551252bbe4c4?P1=1787350507&P2=404&P3=2&P4=YceIOWapCLiis7n%2bRfounz0%2f69w8t2L5jsPiWEScAy6IkHxElcnjTvugURjsDS4Ys%2fCrQVi0rgJBuEvAU1K01Q%3d%3d) |
+| **ARM64** | `152.0.4191.19` | 241.45 MB | `0fb30bdea0b00b12...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ba195f5b-b351-4e2a-9257-8d58034e4fa1?P1=1787350507&P2=404&P3=2&P4=R1EhfTet5P7Il0zNUqrfenDgreTcHMQZgV%2bdyvgZO45HzHjoDZFP965OpYQEJmUNCqOnAL%2f%2b8tcVKhWtLuOCsQ%3d%3d) |
 
 <details>
 <summary>Full SHA-256 (sha256sum -c)</summary>
