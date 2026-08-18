@@ -73,7 +73,7 @@ bd47aaef394b4ad8c5963866302c2df1899e3e3eeb1624a1606c0ecfc65f4a5e  MicrosoftEdge_
 
 | Architecture | Version | Size | SHA-256 | Download |
 |--------------|---------|------|---------|----------|
-| **x86** | `153.0.4210.0` | 170.37 MB | `5856f4060e814110...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ff6575d1-2f35-41a5-b466-ea71a71e5533?P1=1787436800&P2=404&P3=2&P4=HPI01Q5wHs3YWmDiYCwmHpCEgtzB47T9tpBPoiJehSkKBV2kuYauHieIvikWTPPZR4Eb2odmPADGItt88tFhjQ%3d%3d) |
+| **x86** | `153.0.4224.0` | 172.12 MB | `aaa3a0e3f280113d...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0bdbb17e-459e-45d0-afcb-de47297f859a?P1=1787685707&P2=404&P3=2&P4=fMswCqgkTGhuyWh9mV2TFaTrdFgife5A6ZAy8YNOX%2fIK3ef%2fU9BzqQZ5Nkhba50fptB2iXhb%2bBvwFwfoDKeTnw%3d%3d) |
 | **x64** | `153.0.4224.0` | 237.42 MB | `9f52c5a02f354da6...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/dc554c37-7fc0-44d4-a1e9-ee683788c7b5?P1=1787682435&P2=404&P3=2&P4=mBe%2fBNd8M9xbEl7nMgG3VWO3kl0iLS%2fY%2fU%2fdr5UypnqeHZdkyEezcEzq3kDU9ZkS%2bGvlMhHL3pOi0uT285I5QQ%3d%3d) |
 | **ARM64** | `153.0.4224.0` | 241.7 MB | `aa64473bc067706c...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/894f8aa7-e9cc-499c-8982-5cce72206a3c?P1=1787682436&P2=404&P3=2&P4=jJ%2fKBH4I0dLND%2bPbYOl7XUPuvMmoFgNQJnlqKFnvzqfNNdwcOiwgpIiKzxgFuJdQDtH4iSTFmk%2f%2fqY1SyDzrxQ%3d%3d) |
 
@@ -81,7 +81,7 @@ bd47aaef394b4ad8c5963866302c2df1899e3e3eeb1624a1606c0ecfc65f4a5e  MicrosoftEdge_
 <summary>Full SHA-256 (sha256sum -c)</summary>
 
 ```
-5856f4060e8141103715edca954ad20ec134d744811b7b0c85e91b65d2e30513  MicrosoftEdge_X86_153.0.4210.0.exe
+aaa3a0e3f280113dd4f5a3ded33325524d2b3df0972775c929adca0db6d7ce7a  MicrosoftEdge_X86_153.0.4224.0.exe
 9f52c5a02f354da6d7ef0bf8a9b1fbd97b783e3e3ed0f78b8221aea35765b27f  MicrosoftEdge_X64_153.0.4224.0.exe
 aa64473bc067706c9389a741a80656b86381e3c0a20fe0c8b22c3505f9cd0e5b  MicrosoftEdge_ARM64_153.0.4224.0.exe
 ```
