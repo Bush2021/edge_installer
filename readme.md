@@ -17,7 +17,7 @@ Stable release archive: https://github.com/Bush2021/edge_installer/releases
 | Architecture | Version | Size | SHA-256 | Download |
 |--------------|---------|------|---------|----------|
 | **x86** | `151.0.4129.107` | 173.21 MB | `91228816e08a6b1f...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/af0d0409-fbf7-4831-8f2b-1cff974863b0?P1=1788162710&P2=404&P3=2&P4=exMczLXz7pNP9j6jDk8G5Gj5JFaAca8AuDLRHYEJbtDTjuFuO5IK6gqBTJcpCTAsDglZUnni43qO8MpMv07rNw%3d%3d) |
-| **x64** | `151.0.4129.101` | 197.1 MB | `5cb17e1122da369c...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/deb46afb-f7bf-4d8a-8b88-ce05c340a3b9?P1=1787869139&P2=404&P3=2&P4=gS3RcJFWiX09hDvJFOlVDtMH8yUTviH%2b%2buTT1LAgkYcbTUSQhMavXgaL1iblKyFfFdEy%2bpyWOCqz%2fk2omi5IjA%3d%3d) |
+| **x64** | `151.0.4129.107` | 197.19 MB | `7c19e3b08064156e...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a8879086-c003-4573-a02b-00443e033c15?P1=1788165555&P2=404&P3=2&P4=ZtDdHBS5kd%2fwSSi5LkE9550DH%2fEhN3f%2fPCxrdKy7o5s5I%2b0gRufXYRU8LgFBN49%2b8dxQ3jdABPEcljOgIiSK9A%3d%3d) |
 | **ARM64** | `151.0.4129.107` | 201.29 MB | `8c9f22b88d7cc67f...` | [Download](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b24ab489-d021-461f-b96e-2228e66cdcca?P1=1788162711&P2=404&P3=2&P4=Rh%2bNkKtrrNDE9jajOMb5MtG1aJf9fjbfgrnfmRD8Lfe8EGSQSrdxRuI1Rr0LkSsnojRFIJcPHGfcO1Wo7bE%2bQA%3d%3d) |
 
 <details>
@@ -25,7 +25,7 @@ Stable release archive: https://github.com/Bush2021/edge_installer/releases
 
 ```
 91228816e08a6b1fee7aadb8717b173a57abbb2109f1b603552c426cd8b332f2  MicrosoftEdge_X86_151.0.4129.107.exe
-5cb17e1122da369c687f41129f31a86442ac42e9d273baa2efdb41cba5447004  MicrosoftEdge_X64_151.0.4129.101.exe
+7c19e3b08064156ee199f2ac11e876922bc249dac916ed6faa8175b8f0215607  MicrosoftEdge_X64_151.0.4129.107.exe
 8c9f22b88d7cc67fa2febc9a1bd66b6792abca811a1f1c84aa14b8d3b0dcd721  MicrosoftEdge_ARM64_151.0.4129.107.exe
 ```
 
