@@ -24,12 +24,12 @@
         "version": "109.0.1518.140"
     },
     "msedge-stable-win-x86": {
-        "file_name": "MicrosoftEdge_X86_151.0.4129.101.exe",
-        "url": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/397f834b-8211-47fe-9253-e7d852ffce83?P1=1787869138&P2=404&P3=2&P4=IIJTUv4ypBU3ZTMS4QEGjbU0uHSujGLZhZf%2fc5rj1UUqP45fKB6hB7WfQxP6tH51sg0UwMN5ST3mBfmhYPW4rg%3d%3d",
-        "size_in_bytes": 181589328,
-        "Sha1": "Nqg18NYO9ypVdnPGOSkvBFEZ51A=",
-        "Sha256": "8e45047077080bd45e23d2eae50e8ae36c1e82994fdffe113fe84d6413739932",
-        "version": "151.0.4129.101"
+        "file_name": "MicrosoftEdge_X86_151.0.4129.107.exe",
+        "url": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/af0d0409-fbf7-4831-8f2b-1cff974863b0?P1=1788162710&P2=404&P3=2&P4=exMczLXz7pNP9j6jDk8G5Gj5JFaAca8AuDLRHYEJbtDTjuFuO5IK6gqBTJcpCTAsDglZUnni43qO8MpMv07rNw%3d%3d",
+        "size_in_bytes": 181620560,
+        "Sha1": "/AoC40453hCWPoz1uPRhEI4ttis=",
+        "Sha256": "91228816e08a6b1fee7aadb8717b173a57abbb2109f1b603552c426cd8b332f2",
+        "version": "151.0.4129.107"
     },
     "msedge-stable-win-x64": {
         "file_name": "MicrosoftEdge_X64_151.0.4129.101.exe",
@@ -40,12 +40,12 @@
         "version": "151.0.4129.101"
     },
     "msedge-stable-win-ARM64": {
-        "file_name": "MicrosoftEdge_ARM64_151.0.4129.101.exe",
-        "url": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d64d04fb-4182-4541-9d1d-3c9fa4732381?P1=1787869139&P2=404&P3=2&P4=jTcyTneYnFdqYSK%2fuFec4E%2fROOBvOV9pSCvrWgYbVracprrPAK3LH0WZdpjC4eN4YC2%2fejJ3VkqsaSJcB8qhZw%3d%3d",
-        "size_in_bytes": 211049808,
-        "Sha1": "2BxMLKevOCMMjArsgvLicYODnkU=",
-        "Sha256": "fa0f73942d8146618c7ae4ae5360d5801f2999a1dc23e438dba940d10342f0f9",
-        "version": "151.0.4129.101"
+        "file_name": "MicrosoftEdge_ARM64_151.0.4129.107.exe",
+        "url": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b24ab489-d021-461f-b96e-2228e66cdcca?P1=1788162711&P2=404&P3=2&P4=Rh%2bNkKtrrNDE9jajOMb5MtG1aJf9fjbfgrnfmRD8Lfe8EGSQSrdxRuI1Rr0LkSsnojRFIJcPHGfcO1Wo7bE%2bQA%3d%3d",
+        "size_in_bytes": 211072336,
+        "Sha1": "mmzLxzVJOkv4YpN8sdIfkvMuRnk=",
+        "Sha256": "8c9f22b88d7cc67fa2febc9a1bd66b6792abca811a1f1c84aa14b8d3b0dcd721",
+        "version": "151.0.4129.107"
     },
     "msedge-beta-win-x86": {
         "file_name": "MicrosoftEdge_X86_152.0.4191.41.exe",
