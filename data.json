@@ -48,28 +48,28 @@
         "version": "154.0.4258.37"
     },
     "msedge-beta-win-x86": {
-        "file_name": "MicrosoftEdge_X86_155.0.4283.13.exe",
-        "url": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c1a53267-949d-47fb-8d82-8ad0df984b87?P1=1790805408&P2=404&P3=2&P4=FC80Im3b8RLhxHRfxkegZdn0rqV%2f6tDFPodU44rqxBwutJezLcSZUj2RVtlneiyxzuUHuEKcFCUbH0BlT%2bJAtA%3d%3d",
-        "size_in_bytes": 183619408,
-        "Sha1": "AUPDm6NazHO1fV7ul+ZiaH902KI=",
-        "Sha256": "f001cd19f54ae452c9b0073924e6da66ac1ec83a11fe4e384b64920c979ee834",
-        "version": "155.0.4283.13"
+        "file_name": "MicrosoftEdge_X86_155.0.4283.18.exe",
+        "url": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/069aab61-ff8c-491b-bd7d-056e9bd0eb92?P1=1790985167&P2=404&P3=2&P4=jYDJ3DgrHIoikJJn%2fyotZYH8hXmXaCvEOVkVCGcDz6rQvdBi3UtWyTTf3QXGt54IjC8Laa8QF%2fFnZMwTk%2fCrhQ%3d%3d",
+        "size_in_bytes": 183728464,
+        "Sha1": "1iSQssjG2daZ9Nkwdpe2wwR8A1s=",
+        "Sha256": "bce14cbbec2d0f9849a28e173a1323c3e53b303691793bf4b2475703b874203e",
+        "version": "155.0.4283.18"
     },
     "msedge-beta-win-x64": {
-        "file_name": "MicrosoftEdge_X64_155.0.4283.13.exe",
-        "url": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/948070b0-47e8-4d74-b47f-18229292d043?P1=1790805410&P2=404&P3=2&P4=c6t9xBxYeBTnVfBztOncTjY%2fg8Wz3HQFWNO17EoXXnNNUL9SNSKVEfxrqOUY51%2fyQKRgAWpJBJugjYNez7%2bhhA%3d%3d",
-        "size_in_bytes": 207449936,
-        "Sha1": "t3yquTwp7tDu8/TyFBQ3CVdZYSs=",
-        "Sha256": "80b926623429a826b756902d2c2ddc91635e5aef0191aaaa9d585882adb53dc9",
-        "version": "155.0.4283.13"
+        "file_name": "MicrosoftEdge_X64_155.0.4283.18.exe",
+        "url": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/52ae0428-69cd-42ec-8834-a1cb7e057862?P1=1790985168&P2=404&P3=2&P4=gqjy5llIyKgCRlYm9KTiJM9WSrAoPWL%2b3BqdjLFsmvI0RzskmFtDwKObnjhuIee1wTN79GSAIHotkY08KYcE2A%3d%3d",
+        "size_in_bytes": 207703376,
+        "Sha1": "mjKxnPYD/c0UrrLAAQe8Wf6btMo=",
+        "Sha256": "2bc7c466ccf3f5548d55c774c2a04213d79244407dc99e5194d5995a369a0549",
+        "version": "155.0.4283.18"
     },
     "msedge-beta-win-ARM64": {
-        "file_name": "MicrosoftEdge_ARM64_155.0.4283.13.exe",
-        "url": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/eb48b1bf-e447-49c4-b8c0-8e4ce519dc26?P1=1790805411&P2=404&P3=2&P4=cbjiakIcsgLrm874aqgXCY5zm4FoQUPs1UxiqVUP7tNv5ZFsNFV6VJrupxqM6R4Ee6Zse4CPl1QsPWVLFZ5tYg%3d%3d",
-        "size_in_bytes": 210794320,
-        "Sha1": "XXZtQIgFWDMjAlw5Bib6lTmHhNE=",
-        "Sha256": "dff1f4273e05077be174c6432269d988404de5546ffbcbe63ac16f4c87d2526a",
-        "version": "155.0.4283.13"
+        "file_name": "MicrosoftEdge_ARM64_155.0.4283.18.exe",
+        "url": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/391bccf6-33e1-4c5b-a620-6bac9971bf43?P1=1790985168&P2=404&P3=2&P4=KwKJRrbaf8V11f1jw%2bSSMlLWTE49A3pHdPCRmc3ckOB9bZAwgybIB7PqDTo6ke1c1C9Zqb61LYfptCaGehWsVQ%3d%3d",
+        "size_in_bytes": 210983760,
+        "Sha1": "GXfHneyeKzB1uQO2WanZ3g56+6g=",
+        "Sha256": "3afe24ab94ce70802cf9f6687af22126f24cadbb38b8ad80be8d53863312f4d4",
+        "version": "155.0.4283.18"
     },
     "msedge-dev-win-x86": {
         "file_name": "MicrosoftEdge_X86_156.0.4285.0.exe",
@@ -96,27 +96,27 @@
         "version": "156.0.4285.0"
     },
     "msedge-canary-win-x86": {
-        "file_name": "MicrosoftEdge_X86_156.0.4300.0.exe",
-        "url": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c7c14e3e-5ec2-451f-9000-49a523e33a37?P1=1790962953&P2=404&P3=2&P4=T0XiESLhM9QmlfWtIfZg4Usx4yXkPx%2fupfTJSAtPAUhwZADG221ZtJ%2bsWqey98AIqhF7J%2boaVMXq1UbnsFhoyA%3d%3d",
-        "size_in_bytes": 184397648,
-        "Sha1": "q8Nbaee5bufDo/VITHnuxALXoes=",
-        "Sha256": "f0874d2966b7f1a615ac1b6e53f1a49cac35d7ce7515bc2a1331ce337fc1f6ea",
-        "version": "156.0.4300.0"
+        "file_name": "MicrosoftEdge_X86_156.0.4301.0.exe",
+        "url": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4b38986d-c82f-41cd-a169-a3e702adc420?P1=1790985170&P2=404&P3=2&P4=VPlmZ0si%2bkbP%2buGkS1fCJ6loB6NXplBALb1XH2jFHIW3%2fmh%2bpeFLMrYfZGAFheU6utMYA4k5sZVID36KZmnZdQ%3d%3d",
+        "size_in_bytes": 184557904,
+        "Sha1": "gN/maTha73Mzu+Wm+jNN/rE3YmU=",
+        "Sha256": "b450a64bd6fc4970ed081beb045421d46a282fe034efd078da16da192e4ab03d",
+        "version": "156.0.4301.0"
     },
     "msedge-canary-win-x64": {
-        "file_name": "MicrosoftEdge_X64_156.0.4300.0.exe",
-        "url": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f302a963-a289-4b08-a364-1aa94bd49282?P1=1790962953&P2=404&P3=2&P4=QeyTtDLA1vJljXeKZcSSNIEwAophGdFTRTUPn5UfKVqT6slP%2b0pG%2fNsMLm%2bUmmRcDx5Xa5v%2bnRKbzKev4YHKQQ%3d%3d",
-        "size_in_bytes": 208229200,
-        "Sha1": "S4AdY1A8iXJq8pG6h+kzVslY9DY=",
-        "Sha256": "96a590961d05833a951ec40dbec02d405dbf50eef4eaff68046be1b07e7924b5",
-        "version": "156.0.4300.0"
+        "file_name": "MicrosoftEdge_X64_156.0.4301.0.exe",
+        "url": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4f0c59a0-602d-4e2b-bbd1-dd6190ced9f8?P1=1790985170&P2=404&P3=2&P4=j1E76ump36lLyu2itFKrXyC%2bH8EhOleNTsTvbePSfty7p%2fdyj%2fp%2fVBb0ep4KEpdEIFOvdSdRCo57euRvLS4Tig%3d%3d",
+        "size_in_bytes": 208420176,
+        "Sha1": "wfFeJkAZbCdXEjJzrgxlb+j+j6s=",
+        "Sha256": "67c953f0c94849e90a345e6144a2bb2d056664d05d9a0a22cbc24f00b8bc78f0",
+        "version": "156.0.4301.0"
     },
     "msedge-canary-win-ARM64": {
-        "file_name": "MicrosoftEdge_ARM64_156.0.4300.0.exe",
-        "url": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b975e066-5f4f-4e9c-927a-c4593dde2db8?P1=1790962954&P2=404&P3=2&P4=XWoRmvLm5Mq0HsIT2MGtGJgMJTiiYIwypfkYjCih8Ag1gAg3N8xhVXRLEcnWX0984rXEddZwjAspeghYhlMqig%3d%3d",
-        "size_in_bytes": 211634512,
-        "Sha1": "JQLmIHGTDsH8OqZkC2edsDYU5/Y=",
-        "Sha256": "679f58489eb32c6413f7abd36a8d271ddad2393ec9a949bc095157ae5604bd3b",
-        "version": "156.0.4300.0"
+        "file_name": "MicrosoftEdge_ARM64_156.0.4301.0.exe",
+        "url": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1625caf1-ad7f-4abe-ab69-2dfd9d07fb9a?P1=1790985171&P2=404&P3=2&P4=f1Df9xdt5s28vxqp%2fgB1p02nzR7E47k6vqtTebTAz7W7xrlbCTwKPqAz9kuaYDm1ztPp8zxC14iXZItpGXcRUA%3d%3d",
+        "size_in_bytes": 211864912,
+        "Sha1": "0NT7IB2Xh2XcNwHM9Ntmr6YN3mY=",
+        "Sha256": "69bb44f64b3356d5e9621c992836b5c5957ef829c1cdd2a94b779b1dc0864207",
+        "version": "156.0.4301.0"
     }
 }
