@@ -6,6 +6,12 @@ import requests
 import shutil
 import subprocess
 
+ARCHS = [
+    "msedge-stable-win-x86",
+    "msedge-stable-win-x64",
+    "msedge-stable-win-ARM64",
+]
+
 
 def version_tuple(v):
     return tuple(map(int, (v.split("."))))
@@ -28,6 +34,12 @@ def check_update():
     if github_env and os.path.exists(github_env):
         with open(github_env, "a") as env_file:
             env_file.write(f"latest_version={latest_version}\n")
+    # Microsoft publishes the architectures hours apart. Releasing early would
+    # bundle the previous version of whichever one lags.
+    lagging = [a for a in ARCHS if data[a]["version"] != latest_version]
+    if lagging:
+        print(f"Waiting for {latest_version} on {', '.join(lagging)}")
+        return False
     return version_tuple(last_version) < version_tuple(latest_version)
 
 
@@ -71,14 +83,9 @@ def download_file(url, name, expected_sha256):
 
 
 def download():
-    versions = [
-        "msedge-stable-win-x86",
-        "msedge-stable-win-x64",
-        "msedge-stable-win-ARM64",
-    ]
     if check_update():
         print("New version detected, start downloading...")
-        for version in versions:
+        for version in ARCHS:
             download_file(
                 get_download_url(version),
                 get_filename(version),
